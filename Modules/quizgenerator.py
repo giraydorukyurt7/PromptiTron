@@ -1,4 +1,4 @@
-# modules/quizgenerator.py
+## modules/quizgenerator.py
 
 import google.generativeai as genai
 from modules.utils import get_timestamp
