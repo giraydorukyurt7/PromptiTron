@@ -1,0 +1,845 @@
+{
+  "yks": {
+    "biyoloji": {
+      "9": {
+        "alt": {
+          "9.1": {
+            "baslik": "2 .2.   Lipit, karbonhidrat, protein, vitamin, su ve minerallerin sağlıklı beslenme ile ilişkisini kurar.",
+            "alt": {}
+          },
+          "9.2": {
+            "baslik": "Hücre",
+            "alt": {
+              "9.2.1": {
+                "baslik": "Hücre",
+                "anahtar_kavramlar": "aktif taşıma, difüzyon, ekzositoz, endositoz, organel, osmoz, ökaryot, pasif taşıma, prokaryot",
+                "alt": {
+                  "9.2.1.1": {
+                    "baslik": "Hücre teorisine ilişkin çalışmaları açıklar.",
+                    "aciklama": {
+                      "a": "Hücreye ilişkin bilgilere tarihsel süreç içerisinde katkı sağlayan bilim insanlarına (Robert Hooke, Antonie van Leeuwenhoek, Matthias Schleiden, Theodor Schwann ve Rudolf Virchow) örnekler verilir. Ancak bu isimlerin ezberlenmesi ve kronolojik sırasının bilinmesi beklenmez.",
+                      "b": "Mikroskop çeşitleri ve ileri görüntüleme teknolojilerinin kullanmasının hücre teorisine katkıları araştırılır."
+                    }
+                  },
+                  "9.2.1.2": {
+                    "baslik": "Hücresel yapıları ve görevlerini açıklar.",
+                    "aciklama": {
+                      "a": "Prokaryot hücrelerin kısımları gösterilir.",
+                      "b": "Ökaryot hücrelerin yapısı ve bu yapıyı oluşturan kısımlar gösterilir.",
+                      "c": "Organellerin hücrede aldıkları görevler bakımından incelenmesi sağlanır.",
+                      "ç": "Hücre örneklerinin mikroskop ile incelenmesi sağlanır.",
+                      "d": "Hücre içi iş birliği ve organizasyona dikkat çekilerek herhangi bir organelde oluşan problemin hücreye olası etkilerinin tartışılması sağlanır.",
+                      "e": "Farklı hücre örnekleri karşılaştırılırken öncelikle mikroskop, görsel ögeler (fotoğraflar, resimler, çizimler, karikatürler vb.), grafik düzenleyiciler (kavram haritaları, zihin haritaları, şemalar vb.), e- öğrenme nesnesi ve uygulamalarından (animasyon, video, simülasyon, infografik, artırılmış ve sanal gerçeklik uygulamaları vb.) yararlanılır."
+                    }
+                  },
+                  "9.2.1.3": {
+                    "baslik": "Hücre zarından madde geçişine ilişkin kontrollü bir deney yapar.",
+                    "aciklama": {
+                      "a": "Hücre zarından madde geçişine ilişkin deney öncesi bilimsel yöntem basamakları bir örnekle açıklanır.",
+                      "b": "Biyoloji laboratuvarında kullanılan temel araç gereçler tanıtılarak laboratuvar güvenliği vurgulanır.",
+                      "c": "Hücre zarından madde geçişini etkileyen faktörlerden (yüzey alanı, konsantrasyon farkı, sıcaklık) biri hakkında kontrollü deney yaptırılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.3": {
+            "baslik": "Canlılar Dünyası",
+            "alt": {
+              "9.3.1": {
+                "baslik": "Canlıların Çeşitliliği ve Sınıflandırılması",
+                "anahtar_kavramlar": "ikili adlandırma, sınıflandırma, tür",
+                "alt": {
+                  "9.3.1.1": {
+                    "baslik": "Canlıların çeşitliliğinin anlaşılmasında sınıflandırmanın önemini açıklar.",
+                    "aciklama": {
+                      "a": "Canlıların sınıflandırılmasında bilim insanlarının kullandığı farklı ölçüt ve yaklaşımlar tartışılır.",
+                      "b": "Canlı çeşitliliğindeki değişimler nesli tükenmiş canlılar örneği üzerinden tartışılır."
+                    }
+                  },
+                  "9.3.1.2": {
+                    "baslik": "Canlıların sınıflandırılmasında kullanılan kategorileri ve bu kategoriler arasındaki",
+                    "aciklama": {
+                      "a": "Canlıların sınıflandırılmasında sadece tür, cins, aile, takım, sınıf, şube ve âlem kategorilerinin genel özelliklerine değinilir.",
+                      "b": "Carolus Linnaeus’un sınıflandırmayla ilgili çalışmalarına değinilir.",
+                      "c": "Hiyerarşik kategoriler dikkate alınarak çevreden seçilecek canlı türleriyle ilgili ikili adlandırma örnekleri verilir.",
+                      "ç": "Öğrencilerin canlılar dünyası ile ilgili çektiği/edindiği fotoğraflarlardan video veya bir ürün oluşturmaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "9.3.2": {
+                "baslik": "Canlı Âlemleri ve Özellikleri",
+                "anahtar_kavramlar": "arkeler, bakteriler, bitkiler, hayvanlar, mantarlar, protistler, virüsler",
+                "alt": {
+                  "9.3.2.1": {
+                    "baslik": "Canlıların sınıflandırılmasında kullanılan âlemleri ve bu âlemlerin genel özelliklerini",
+                    "aciklama": {
+                      "a": "Bakteriler, arkeler, protistler, bitkiler, mantarlar, hayvanlar âlemlerinin genel özellikleri açıklanarak örnekler verilir. Hayvanlar âleminin dışında diğer âlemlerin sınıflandırmasına girilmez.",
+                      "b": "Hayvanlar âleminin; omurgasız hayvanlar (süngerler, sölentereler, solucanlar, yumuşakçalar, eklembacaklılar, derisidikenliler) ve omurgalı hayvanlar (balıklar, iki yaşamlılar, sürüngenler, kuşlar, memeliler) şubelerinin, sınıflarına ait genel özellikler belirtilerek örnekler verilir, yapı ve sistematiğine girilmez.",
+                      "c": "Canlıların sınıflandırması bağlamında, bilimsel bilginin sınandığı, düzeltildiği veya yenilendiği belirtilir."
+                    }
+                  },
+                  "9.3.2.2": {
+                    "baslik": "Canlıların biyolojik süreçlere, ekonomiye ve teknolojiye katkılarını örneklerle açıklar. Canlılardan esinlenilerek geliştirilen teknolojilere örnekler verilir.",
+                    "aciklama": {}
+                  },
+                  "9.3.2.3": {
+                    "baslik": "Virüslerin genel özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Virüslerin biyolojik sınıflandırma kategorileri içine alınmamasının nedenleri üzerinde durulur.",
+                      "b": "Virüslerin insan sağlığı üzerine etkilerinin kuduz, hepatit, grip, uçuk ve AIDS hastalıkları üzerinden tartışılması sağlanır. Virütik hastalıklara karşı alınacak önlemler vurgulanır.",
+                      "c": "Virüslerin genetik mühendisliği alanında yapılan çalışmalar için yeni imkânlar sunduğu vurgulanır."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "10": {
+        "alt": {
+          "10.1": {
+            "baslik": "Hücre Bölünmeleri",
+            "alt": {
+              "10.1.1": {
+                "baslik": "Mitoz ve Eşeysiz Üreme",
+                "anahtar_kavramlar": "hücre bölünmesi, eşeysiz üreme, interfaz, kanser, mitoz",
+                "alt": {
+                  "10.1.1.1": {
+                    "baslik": "Canlılarda hücre bölünmesinin gerekliliğini açıklar.",
+                    "aciklama": {
+                      "a": "Hücre bölünmesinin canlılarda üreme, büyüme ve gelişme ile ilişkilendirilerek açıklanması sağlanır.",
+                      "b": "Bölünmenin hücresel gerekçeleri üzerinde durulur."
+                    }
+                  },
+                  "10.1.1.2": {
+                    "baslik": "Mitozu açıklar.",
+                    "aciklama": {
+                      "a": "İnterfaz temel düzeyde işlenir.",
+                      "b": "Mitozun evreleri temel düzeyde işlenir. Evreler açıklanırken mikroskop, görsel ögeler (fotoğraflar, resimler, çizimler, karikatürler vb.) ve grafik düzenleyiciler (kavram haritaları, zihin haritaları, şemalar vb.), e-öğrenme nesnesi ve uygulamalarından (animasyon, video, simülasyon, infografik, artırılmış ve sanal gerçeklik uygulamaları vb.) faydalanılır.",
+                      "c": "Hücre bölünmesinin kontrolü ve bunun canlılar için önemi üzerinde durulur. Hücre bölünmesini kontrol eden moleküllerin isimleri verilmez.",
+                      "ç": "Hücre bölünmesinin kanserle ilişkisi kurulur.",
+                      "d": "Öğrencilerin mitozu açıklayan bir ürün veya elektronik sunu (animasyon, video vb.) hazırlamaları ve bu sunuyu   paylaşmaları sağlanır."
+                    }
+                  },
+                  "10.1.1.3": {
+                    "baslik": "Eşeysiz üremeyi örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Eşeysiz üreme  bağlamında  bölünerek üreme, tomurcuklanma, sporla üreme, rejenerasyon partenogenez   ve bitkilerde vejetatif üreme örnekleri verilir. Sporla üremede sadece örnek verilir, döl almaşına girilmez.",
+                      "b": "Eşeysiz üreme tekniklerinin bahçecilik ve tarım sektörlerindeki uygulamaları (çelikle ve soğanla üreme şekilleri) örneklendirilir."
+                    }
+                  }
+                }
+              },
+              "10.1.2": {
+                "baslik": "Mayoz ve Eşeyli Üreme",
+                "anahtar_kavramlar": "diploit, döllenme, eşeyli üreme, haploit, krossing over, mayoz, sinapsis, tetrat",
+                "alt": {
+                  "10.1.2.1": {
+                    "baslik": "Mayozu açıklar.",
+                    "aciklama": {
+                      "a": "Mayozun evreleri temel düzeyde işlenir. Evreler açıklanırken mikroskop, görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından faydalanılır.",
+                      "b": "Öğrencilerin mayozu açıklayan bir elektronik sunu (animasyon, video vb.) hazırlamaları ve bu sunuyu paylaşmaları sağlanır."
+                    }
+                  },
+                  "10.1.2.2": {
+                    "baslik": "Eşeyli üremeyi örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Dış döllenme ve iç döllenme konusu verilmez.",
+                      "b": "Eşeyli üremenin temelinin mayoz ve döllenme olduğu açıklanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.2": {
+            "baslik": "Kalıtımın Genel İlkeleri",
+            "alt": {
+              "10.2.1": {
+                "baslik": "Kalıtım ve Biyolojik Çeşitlilik",
+                "anahtar_kavramlar": "alel, biyolojik çeşitlilik, dihibrit, dominant, eş baskınlık, eşeye bağlı kalıtım, fenotip, gen, genotip, gonozom, hemofili, heterozigot, homozigot, monohibrit, mutasyon, otozom, Punnett karesi, rekombinasyon, renk körlüğü, resesif, soyağacı, varyasyon",
+                "alt": {
+                  "10.2.1.1": {
+                    "baslik": "Kalıtımın genel esaslarını açıklar.",
+                    "aciklama": {
+                      "a": "Mendel ilkeleri örneklerle açıklanır.",
+                      "b": "Monohibrit, dihibrit ve kontrol çaprazlamaları, eş baskınlık, çok alellilik (Kan gruplarıyla ilişkilendirilir.) örnekler üzerinden işlenir. Eksik baskınlık ve pleiotropizme girilmez.",
+                      "c": "Eşeye bağlı kalıtım; hemofili ve kısmi renk körlüğü hastalıkları bağlamında ele alınır. Eşeye bağlı kalıtımın Y kromozomunda da görüldüğü belirtilir.",
+                      "ç": "Soyağacı örneklerle açıklanır.",
+                      "d": "Kalıtsal hastalıkların ortaya çıkma olasılığının akraba evlilikleri sonucunda arttığı vurgusu yapılır."
+                    }
+                  },
+                  "10.2.1.2": {
+                    "baslik": "Genetik varyasyonların biyolojik çeşitliliği açıklamadaki rolünü sorgular.",
+                    "aciklama": {
+                      "a": "Varyasyonların kaynaklarının (mutasyon, kromozomların bağımsız dağılımı ve krossing over) tartışılması sağlanır. Mutasyon çeşitlerine girilmez.",
+                      "b": "Biyolojik çeşitliliğin canlıların genotiplerindeki farklılıklardan kaynaklandığı açıklanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.3": {
+            "baslik": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+            "alt": {
+              "10.3.1": {
+                "baslik": "Ekosistem Ekolojisi",
+                "anahtar_kavramlar": "ayrıştırıcı, besin ağı, besin piramidi, besin zinciri, biyolojik birikim, ekosistem, enerji piramidi, heterotrof, holozoik, madde döngüsü, ototrof",
+                "alt": {
+                  "10.3.1.1": {
+                    "baslik": "Ekosistemin canlı ve cansız bileşenleri arasındaki ilişkiyi açıklar .",
+                    "aciklama": {
+                      "a": "Popülasyon, komünite ve ekosistem arasındaki ilişki örneklerle açıklanır.",
+                      "b": "Ekosistemde oluşabilecek herhangi bir değişikliğin sistemdeki olası sonuçları üzerinde durulur.",
+                      "c": "Öğrencilerin kendi seçecekleri bir ekosistemi tanıtan bir sunu hazırlamaları sağlanır."
+                    }
+                  },
+                  "10.3.1.2": {
+                    "baslik": "Canlılardaki beslenme şekillerini örneklerle açıklar. Simbiyotik yaşama girilmez.",
+                    "aciklama": {}
+                  },
+                  "10.3.1.3": {
+                    "baslik": "Ekosistemde madde ve enerji akışını analiz eder. a . Madde ve enerji akışında üretici, tüketici ve ayrıştırıcıların rolünün incelenmesi sağlanır.",
+                    "aciklama": {
+                      "b": "Ekosistemlerde madde ve enerji akışı; besin zinciri, besin ağı ve besin piramidi ile ilişkilendirilerek örneklendirilir.",
+                      "c": "Biyolojik birikimin insan sağlığı ve diğer canlılar üzerine olumsuz etkilerinin araştırılması ve tartışılması sağlanır.",
+                      "ç": "Öğrencilerin canlılar arasındaki beslenme ilişkilerini gösteren bir besin ağı kurgulaması sağlanır."
+                    }
+                  },
+                  "10.3.1.4": {
+                    "baslik": "Madde döngüleri ve hayatın sürdürülebilirliği arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Azot, karbon ve su döngüleri hatırlatılır.",
+                      "b": "Azot döngüsünde yer alan mikroorganizmaların tür isimleri verilmez."
+                    }
+                  }
+                }
+              },
+              "10.3.2": {
+                "baslik": "Güncel Çevre Sorunları ve İnsan",
+                "anahtar_kavramlar": "çevre sorunu, ekolojik ayak izi, karbon ayak izi, su ayak izi,",
+                "alt": {
+                  "10.3.2.1": {
+                    "baslik": "Güncel çevre sorunlarının sebeplerini ve olası sonuçlarını değerlendirir.",
+                    "aciklama": {
+                      "a": "Güncel çevre sorunları (biyolojik çeşitliliğin azalması, hava kirliliği, su kirliliği, toprak kirliliği, radyoaktif kirlilik, ses kirliliği, asit yağmurları, küresel iklim değişikliği, erozyon, doğal hayat alanlarının tahribi ve orman yangınları) özetlenerek bu sorunların canlılar üzerindeki olumsuz etkileri belirtilir.",
+                      "b": "Çevre sorunları nedeniyle ortaya çıkan hastalıklara vurgu yapılır."
+                    }
+                  },
+                  "10.3.2.2": {
+                    "baslik": "Birey olarak çevre sorunlarının ortaya çıkmasındaki rolünü sorgular.",
+                    "aciklama": {
+                      "a": "Ekolojik ayak izi, su ayak izi ve karbon ayak izi ile ilgili uygulamalar yaptırılır.",
+                      "b": "Ekolojik ayak izi, su ayak izi ve karbon ayak izini küçültmek için çözüm önerileri geliştirmesi sağlanır."
+                    }
+                  },
+                  "10.3.2.3": {
+                    "baslik": "Yerel ve küresel bağlamda   çevre kirliliğinin önlenmesine yönelik çözüm önerilerinde",
+                    "aciklama": {
+                      "a": "Yerel ve küresel bağlamda çevre kirliliğinin önlenmesi için yapılan çalışmalara örnekler verilir.",
+                      "b": "Yerel ve küresel boyutta çevreye zarar veren insan faaliyetlerinin tartışılması sağlanır.",
+                      "c": "Çevre kirliliğinin önlenmesinde biyolojinin digger disiplinler ile nasıl ilişkilendirildiğine örnekler verir."
+                    }
+                  }
+                }
+              },
+              "10.3.3": {
+                "baslik": "Doğal Kaynaklar ve Biyolojik Çeşitliliğin Korunması",
+                "anahtar_kavramlar": "biyokaçakçılık,  endemik tür,doğal kaynak,  gen bankası, sürdürülebilirlik",
+                "alt": {
+                  "10.3.3.1": {
+                    "baslik": "Doğal kaynakların sürdürülebilirliğinin önemini açıklar.",
+                    "aciklama": {
+                      "a": "Doğal kaynakların sürdürülebilirliği için Türkiye genelindeki başarılı uygulamalar örneklendirilerek çevre farkındalığının önemi vurgulanır.",
+                      "b": "Gelecek nesillere yaşanabilir sağlıklı bir dünya emanet edebilmek için doğal kaynakların israf edilmemesi gerekliliği vurgulanır."
+                    }
+                  },
+                  "10.3.3.2": {
+                    "baslik": "Biyolojik çeşitliliğin yaşam için önemini sorgular.",
+                    "aciklama": {
+                      "a": "Türkiye'nin biyolojik çeşitlilik açısından zengin olmasını sağlayan faktörlerin tartışılması sağlanır.",
+                      "b": "Endemik türlerin ülkemizin biyolojik çeşitliliği açısından değeri ve önemi üzerinde durularak sağlık ve ekonomiye katkılarına ilişkin örneklere yer verilir.",
+                      "c": "Biyolojik çeşitlilik ve endemik türlerin küresel ve millî bir miras olduğu vurgulanır.",
+                      "ç": "Tabiatta her canlının önemli işlevler gördüğü vurgulanarak biyolojik çeşitliliğe ve ekosistemin doğal işleyişine saygı göstermenin ve bunlara müdahaleden kaçınmanın önemi  açıklanır .",
+                      "d": "Soyu tükenen türlerin biyolojik çeşitlilik açısından yeri doldurulamayacak bir kayıp olduğu vurgulanır."
+                    }
+                  },
+                  "10.3.3.3": {
+                    "baslik": "Biyolojik çeşitliliğin korunmasına yönelik çözüm önerilerinde bulunur.",
+                    "aciklama": {
+                      "a": "Türkiye'de nesli tükenme tehlikesi altında bulunan canlı türleri ile endemik türlerin korunmasına yönelik yapılan çalışmalar örneklendirilir.",
+                      "b": "Biyolojik çeşitliliğin korunması ve biyokaçakçılığın önlenmesine yönelik çözüm önerilerinin tartışılması sağlanır.",
+                      "c": "Gen bankalarının gerekliliği belirtilir."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "11": {
+        "alt": {
+          "11.1": {
+            "baslik": "İnsan Fizyolojisi",
+            "alt": {
+              "11.1.1": {
+                "baslik": "Denetleyici ve Düzeleyici Sistem, Duyu Organları",
+                "anahtar_kavramlar": "diyabet, duyu organları, efektör, endokrin bez, geri bildirim, hormon, impuls, nöron, refleks, sinaps, teknoloji",
+                "alt": {
+                  "11.1.1.1": {
+                    "baslik": "Sinir sisteminin yapı, görev ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Sinir doku belirtilir. Yapılarına göre nöron çeşitlerine girilmez.",
+                      "b": "İmpuls iletiminin elektriksel ve kimyasal olduğu vurgulanır.",
+                      "c": "Sinir Sistemi merkezî ve çevresel sinir sistemi olarak verilir.Merkezî sinir sisteminin bölümlerinden beyin için; ön beyin ( uç ve ara beyin), orta beyin ve arka beynin ( pons, omurilik soğanı, beyincik) görevleri kısaca açıklanarak beynin alt yapı ve görevlerine girilmez. Omuriliğin görevleri ile refleks yayı açıklanır ve refleksin insan yaşamı için önemi vurgulanır.",
+                      "ç": "Çevresel sinir sisteminde, somatik ve otonom sinir sisteminin genel özellikleri verilir. Sempatik ve parasempatik sinirler ayrımına girilmez.",
+                      "d": "Merkezî ve çevresel sinir sisteminin yapısı işlenirken görsel ögeler (fotoğraflar, resimler, çizimler, karikatürler vb.) ve grafik düzenleyiciler (kavram haritaları, zihin haritaları, şemalar vb.), e-öğrenme nesnesi ve uygulamalarından (animasyon, video, simülasyon, infografik, artırılmış ve sanal gerçeklik uygulamaları vb.) yararlanılır.",
+                      "e": "İbn Sina ‘nın insan fizyolojisi ile ilgili yaptığı çalışmalarına ilişkin okuma metni verilir."
+                    }
+                  },
+                  "11.1.1.2": {
+                    "baslik": "Endokrin bezleri ve bu bezlerin salgıladıkları hormonları açıklar .",
+                    "aciklama": {
+                      "a": "Endokrin bezleri ve bu bezlerin salgıladıkları hormonlar işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "b": "Hormonların yapısına girilmez.",
+                      "c": "Homeostasi örnekleri (vücut sıcaklığının, kandaki kalsiyum ve glikoz oranının düzenlenmesi) açıklanır.",
+                      "ç": "Hormonların yaşam kalitesi üzerine etkilerinin örnek bir hastalık üzerinden tartışılması sağlanır."
+                    }
+                  },
+                  "11.1.1.3": {
+                    "baslik": "Sinir sistemi rahatsızlıklarına örnekler verir.",
+                    "aciklama": {
+                      "a": "Multipl skleroz (MS), Parkinson, Alzheimer, epilepsi (sara), depresyon   üzerinde durulur.",
+                      "b": "Sinir sistemi rahatsızlıklarının tedavisiyle ilgili teknolojik gelişmelerin araştırılması sağlanır.",
+                      "c": "Mahmut Gazi Yaşargil’in çalışmalarına değinilir."
+                    }
+                  },
+                  "11.1.1.4": {
+                    "baslik": "Sinir sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin",
+                    "aciklama": {
+                      "a": "çıkarımlarda bulunur."
+                    }
+                  },
+                  "11.1.1.5": {
+                    "baslik": "Duyu organlarının yapısını ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Dokunma duyusu olan deri verilirken epitel ve temel bağ doku kısaca açıklanır.",
+                      "b": "Duyu organlarının yapısı şema üzerinde gösterilerek açıklanır.",
+                      "c": "Duyu organlarının yapısı işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "ç": "Göz küresi bölümleri sert tabaka, damar tabaka, ağ tabaka olarak verilir, ayrıntılı yapılarına girilmez. Kulak bölümleri dış kulak, orta kulak ve iç kulak olarak verilip ayrıntılı yapılarına girilmez.",
+                      "d": "İbn Heysem’in göz ile ilgili çalışmaları vurgulanır."
+                    }
+                  },
+                  "11.1.1.6": {
+                    "baslik": "Duyu organları rahatsızlıklarını açıklar.",
+                    "aciklama": {
+                      "a": "Renk körlüğü, miyopi, hipermetropi, astigmatizm, işitme kaybı ve denge kaybı gibi rahatsızlıkların araştırılıp sunulması sağlanır.",
+                      "b": "Görme ve işitme engelli kişilerin karşılaştığı sorunlara dikkat çekmek ve çevresindeki bireyleri bilinçlendirmek amacıyla sosyal farkındalık etkinlikleri (proje, kamu spotu, broşür vb.) hazırlamaları sağlanır."
+                    }
+                  },
+                  "11.1.1.7": {
+                    "baslik": "Duyu organlarının sağlıklı yapısının korunması için yapılması gerekenlere ilişkin",
+                    "aciklama": {
+                      "a": "çıkarımlarda bulunur. Duyu organları rahatsızlıklarının tedavisiyle ilgili teknolojik gelişmelerin araştırılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.1.2": {
+                "baslik": "Destek ve Hareket Sistemi",
+                "anahtar_kavramlar": "eklem, kas, kemik, kıkırdak, tendon",
+                "alt": {
+                  "11.1.2.1": {
+                    "baslik": "Destek ve hareket sisteminin yapı, görev ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Kemik, kıkırdak ve kas doku açıklanır.",
+                      "b": "Destek ve hareket sisteminin yapısı işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "c": "Kemik ve kas çeşitleri açıklanır.",
+                      "ç": "Kıkırdak ve eklem çeşitleri ile vücutta bulunduğu yerlere örnekler verilir. Yapılarına girilmez."
+                    }
+                  },
+                  "11.1.2.2": {
+                    "baslik": "Destek ve hareket sistemi rahatsızlıklarını açıklar. Kırık, çıkık, burkulma, menisküs ve eklem rahatsızlıklarının araştırılması ve paylaşılması sağlanır.",
+                    "aciklama": {}
+                  },
+                  "11.1.2.3": {
+                    "baslik": "Destek ve hareket sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin",
+                    "aciklama": {
+                      "a": "çıkarımlarda bulunur. Destek ve hareket sisteminin sağlığı açısından sporun ,  beslenmenin ve uygun duruşun önemi tartışılır."
+                    }
+                  }
+                }
+              },
+              "11.1.3": {
+                "baslik": "Sindirim Sistemi",
+                "anahtar_kavramlar": "emilim, sindirim",
+                "alt": {
+                  "11.1.3.1": {
+                    "baslik": "Sindirim sisteminin yapı, görev ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Sindirim sisteminin yapısı işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "b": "Sindirime yardımcı yapı ve organların (karaciğer, pankreas ve tükürük bezleri) görevleri üzerinde durulur. Yapılarına girilmez."
+                    }
+                  },
+                  "11.1.3.2": {
+                    "baslik": "Sindirim sistemi rahatsızlıklarını açıklar. Reflü, gastrit, ülser, hemoroit , kabızlık, ishal örnekleri verilir.",
+                    "aciklama": {}
+                  },
+                  "11.1.3.3": {
+                    "baslik": "Sindirim sisteminin sağlıklı yapısının korunması için yapılması gerekenlere",
+                    "aciklama": {
+                      "a": "Fiziksel etkinliklerin sindirim sisteminin sağlığına olumlu etkisi belirtilir.",
+                      "b": "Tüketilen besinlerin temizliği, lif açısından zengin gıdalarla doğal beslenmenin önemi vurgulanır.",
+                      "c": "Asitli içecekler tüketilmesinin ve fast-food beslenmenin sindirim sistemi üzerindeki etkilerinin tartışılması sağlanır.",
+                      "ç": "Antibiyotik kullanımının bağırsak florasına etkileri ve bilinçsiz antibiyotik kullanımının zararları belirtilir."
+                    }
+                  }
+                }
+              },
+              "11.1.4": {
+                "baslik": "Dolaşım Sistemleri",
+                "anahtar_kavramlar": "alyuvar, akyuvar, antijen, antikor, aşı, bağışıklık, damar, enfeksiyon, interferon, kalp, kan, kan bağışı, kan dolaşımı, kan grubu, lenf dolaşımı, nabız, ödem, tansiyon",
+                "alt": {
+                  "11.1.4.1": {
+                    "baslik": "Kalp, kan ve damarların yapı, görev ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Kan doku açıklanır.",
+                      "b": "Dolaşım sistemi işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "c": "Kalbin çalışmasına etki eden faktörler (adrenalin, tiroksin, kafein, tein, asetilkolin, vagus siniri) üzerinde durulur.",
+                      "ç": "Alyuvar, akyuvar ve kan pulcukları üzerinde durulur. Akyuvar çeşitleri B ve T lenfositleri ile sınırlandırılır. d .  Kan grupları üzerinde durulur. Kan nakillerinde kendi grubundan kan alıp vermenin gerekliliği vurgulanır. Kan nakillerinde genel alıcı ve genel verici kavramları kullanılmaz."
+                    }
+                  },
+                  "11.1.4.2": {
+                    "baslik": "Lenf dolaşımını açıklar.",
+                    "aciklama": {
+                      "a": "Lenf dolaşımı işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "b": "Lenf dolaşımı kan dolaşımı ile ilişkilendirilerek ele alınır.",
+                      "c": "Ödem oluşumu üzerinde durulur.",
+                      "ç": "Lenf dolaşımının bağışıklık ile ilişkisi açıklanır."
+                    }
+                  },
+                  "11.1.4.3": {
+                    "baslik": "Dolaşım sistemi rahatsızlıklarını açıklar. Kalp krizi, damar tıkanıklığı, yüksek tansiyon, varis, kangren, anemi ve lösemi hastalıkları üzerinde durulur.",
+                    "aciklama": {}
+                  },
+                  "11.1.4.4": {
+                    "baslik": "Dolaşım sisteminin sağlıklı yapısının korunması için yapılması gerekenlere",
+                    "aciklama": {
+                      "a": "ilişkin çıkarımlarda bulunur."
+                    }
+                  },
+                  "11.1.4.5": {
+                    "baslik": "Bağışıklık çeşitlerini ve vücudun doğal savunma mekanizmalarını açıklar.",
+                    "aciklama": {
+                      "a": "Hastalık yapan organizmalar ve yabancı maddelere karşı deri, tükürük, mide öz suyu, mukus ve gözyaşının vücut savunmasındaki rolleri örneklendirilir.",
+                      "b": "Enfeksiyon ve alerji gibi durumların bağışıklık ile ilişkisi örnekler üzerinden açıklanır.",
+                      "c": "İmmünoglobulinler verilmez.",
+                      "ç": "Aşılanmanın önemi üzerinde durulur. Bazı aşıların zaman içerisinde değiştirilmesinin nedenleri araştırılır.",
+                      "d": "Hastalık yapan organizmaların genetik yapılarının hızlı değişimi nedeniyle insan sağlığına sürekli bir tehdit oluşturduğu vurgulanır."
+                    }
+                  }
+                }
+              },
+              "11.1.5": {
+                "baslik": "Solunum Sistemi",
+                "anahtar_kavramlar": "alveol, bronş, diyafram, gaz taşınımı, hemoglobin, solunum",
+                "alt": {
+                  "11.1.5.1": {
+                    "baslik": "Solunum sisteminin yapı, görev ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Solunum sisteminin yapısı işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "b": "Soluk alıp verme mekanizmasışema üzerinde açıklanır."
+                    }
+                  },
+                  "11.1.5.2": {
+                    "baslik": "Alveollerden dokulara ve dokulardan alveollere gaz taşınmasını açıklar.",
+                    "aciklama": {}
+                  },
+                  "11.1.5.3": {
+                    "baslik": "Solunum sistemi hastalıklarına örnekler verir. KOAH, astım, verem, akciğer ve gırtlak kanseri, zatürre hastalıkları belirtilir.",
+                    "aciklama": {}
+                  },
+                  "11.1.5.4": {
+                    "baslik": "Solunum sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin",
+                    "aciklama": {
+                      "a": "çıkarımlarda bulunur. Yaygın olarak görülen mesleki solunum sistemi hastalıklarından korunmak için iş sağlığı ve güvenliği konusunda alınabilecek önlemlerin araştırılması ve elde edilen bilgilerin paylaşılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.1.6": {
+                "baslik": "Üriner Sistem",
+                "anahtar_kavramlar": "böbrek, böbreğin yapısı, böbrek nakli, diyaliz, mesane, nefron, üreter, üretra",
+                "alt": {
+                  "11.1.6.1": {
+                    "baslik": "Üriner sistemin yapı, görev ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Üriner sistemin yapısı işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "b": "Böbreğin alyuvar üretimine etkisi üzerinde durulur.",
+                      "c": "Böbrek diseksiyonu ile böbreğin yapısının incelenmesi sağlanır."
+                    }
+                  },
+                  "11.1.6.2": {
+                    "baslik": "Homeostasinin sağlanmasında böbreklerin rolünü belirtir.",
+                    "aciklama": {}
+                  },
+                  "11.1.6.3": {
+                    "baslik": "Üriner Sistem rahatsızlıklarına örnekler verir.",
+                    "aciklama": {
+                      "a": "Böbrek taşı, böbrek yetmezliği, idrar yolu enfeksiyonu belirtilir.",
+                      "b": "Diyaliz kısaca açıklanarak, diyalize bağımlı hastaların yaşadıkları problemler ve böbrek bağışının önemi vurgulanır."
+                    }
+                  },
+                  "11.1.6.4": {
+                    "baslik": "Üriner sistemin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin",
+                    "aciklama": {
+                      "a": "çıkarımlarda bulunur."
+                    }
+                  }
+                }
+              },
+              "11.1.7": {
+                "baslik": "Üreme Sistemi ve Embriyonik Gelişim",
+                "anahtar_kavramlar": "büyüme, embriyonik gelişim, gelişme,   hamilelik, invitro fertilizasyon, menstrual döngü, ultrason, üreme",
+                "alt": {
+                  "11.1.7.1": {
+                    "baslik": "Üreme sisteminin yapı, görev ve işleyişini açıklar.",
+                    "aciklama": {
+                      "a": "Dişi ve erkek üreme sisteminin yapısı işlenirken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır.",
+                      "b": "Menstrual döngüyü düzenleyen hormonlarla ilgili grafiklere yer verilir.",
+                      "c": "In vitro fertilizasyon yöntemleri kısaca açıklanır."
+                    }
+                  },
+                  "11.1.7.2": {
+                    "baslik": "Üreme sisteminin sağlıklı yapısının korunması için yapılması gerekenlere",
+                    "aciklama": {
+                      "a": "ilişkin çıkarımlarda bulunur."
+                    }
+                  },
+                  "11.1.7.3": {
+                    "baslik": "İnsanda embriyonik gelişim sürecini açıklar.",
+                    "aciklama": {
+                      "a": "Embriyonik tabakalardan meydana gelen organlar verilmez.",
+                      "b": "Hamilelikte bebeğin gelişimini olumsuz etkileyen faktörler (antibiyotik dahil erken hamilelik döneminde ilaç kullanımı, yoğun stres, folik asit yetersizliği, X ışınımına maruz kalma) belirtilir.",
+                      "c": "Hamileliğin izlenmesinin bebeğin ve annenin sağlığı açısından önemi vurgulanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.2": {
+            "baslik": "Komünite ve Popülasyon Ekolojisi",
+            "alt": {
+              "11.2.1": {
+                "baslik": "Komünite Ekolojisi",
+                "anahtar_kavramlar": "biyolojik çeşitlilik, ekosistem, komünite, rekabet, simbiyotik ilişki, süksesyon",
+                "alt": {
+                  "11.2.1.1": {
+                    "baslik": "Komünitenin yapısına etki eden faktörleri açıklar. Komünitelerin içerdiği biyolojik çeşitliliğin karasal ekosistemlerde enlem, sucul ekosistemlerde ise suyun derinliği ve suyun kirliliği ile ilişkili olduğu vurgulanır.",
+                    "aciklama": {}
+                  },
+                  "11.2.1.2": {
+                    "baslik": "Komünitede tür içi ve türler arasındaki rekabeti örneklerle açıklar. Komünitelerde av-avcı ilişkisi vurgulanır.",
+                    "aciklama": {}
+                  },
+                  "11.2.1.3": {
+                    "baslik": "Komünitede türler arasında simbiyotik ilişkileri örneklerle açıklar. Parazitlik ve mutualizm insan sağlığı ile ilişkilendirilir (bit, pire, kene, tenya, bağırsak florası).",
+                    "aciklama": {}
+                  },
+                  "11.2.1.4": {
+                    "baslik": "Komünitelerdeki süksesyonu örneklerle açıklar. Süksesyonun evrelerine girilmez.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "11.2.2": {
+                "baslik": "Popülasyon Ekolojisi",
+                "anahtar_kavramlar": "popülasyon dinamiği, taşıma kapasitesi, yaş piramidi",
+                "alt": {
+                  "11.2.2.1": {
+                    "baslik": "Popülasyon dinamiğine etki eden faktörleri analiz eder.",
+                    "aciklama": {
+                      "a": "İnsan yaş piramitleri üzerinde durulur.",
+                      "b": "Popülasyon büyümesine ilişkin farklı büyüme eğrileri (S ve J) çizilir.",
+                      "c": "Dünyada ve ülkemizde nüfus değişiminin grafikler üzerinden analiz edilmesi ve olası sonuçlarının tartışılması sağlanır."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "12": {
+        "alt": {
+          "12.1": {
+            "baslik": "Genden Proteine",
+            "alt": {
+              "12.1.1": {
+                "baslik": "Nükleik Asitlerin Keşfi ve Önemi",
+                "anahtar_kavramlar": "DNA ligaz, DNA polimeraz, gen, helikaz, kromozom, nükleik asit, nükleotit, DNA replikasyonu",
+                "alt": {
+                  "12.1.1.1": {
+                    "baslik": "Nükleik asitlerin keşif sürecini özetler. Rosalind Franklin, James Watson, Francis Crick çalışmaları kısaca açıklanır ancak bu isimlerin ezberlenmesi ve kronolojik sırasının bilinmesi beklenmez.",
+                    "aciklama": {}
+                  },
+                  "12.1.1.2": {
+                    "baslik": "Nükleik asitlerin çeşitlerini ve görevlerini açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.1.1.3": {
+                    "baslik": "Hücredeki genetik materyalin organizasyonunda parça bütün ilişkisi kurar.",
+                    "aciklama": {
+                      "a": "Nükleotitten DNA ve kromozoma genetik materyal organizasyonunun modellenmesi sağlanır.",
+                      "b": "Gen ve DNA ilişkisi üzerinde durulur."
+                    }
+                  },
+                  "12.1.1.4": {
+                    "baslik": "DNA' nın kendini eşlemesini açıklar.",
+                    "aciklama": {
+                      "a": "Helikaz, DNA polimeraz ve DNA ligaz dışındaki enzimler verilmez.",
+                      "b": "Aziz Sancar’ın biyoloji bilimine katkısı, vatanseverliği ve bir bilim insanının genel özellikleri bağlamında şahsına vurgu yapılan bir okuma parçası verilir."
+                    }
+                  }
+                }
+              },
+              "12.1.2": {
+                "baslik": "Genetik Şifre ve Protein Sentezi",
+                "anahtar_kavramlar": "antibiyotik, antikodon, biyoetik, biyogüvenlik, biyoteknoloji, DNA parmak izi, gen terapisi, genetik şifre, genetik danışmanlık, genetik mühendisliği, insülin, klonlama, kod, kodon, kök hücre, model organizma, RNA polimeraz, protein sentezi, transkripsiyon, translasyon, yapay doku/organ",
+                "alt": {
+                  "12.1.2.1": {
+                    "baslik": "Protein sentezinin mekanizmasını açıklar.",
+                    "aciklama": {
+                      "a": "Genetik şifre ve protein sentezi arasındaki ilişki üzerinde durulur.",
+                      "b": "Protein sentezi açıklanırken görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından yararlanılır."
+                    }
+                  },
+                  "12.1.2.2": {
+                    "baslik": "Genetik mühendisliği ve biyoteknoloji kavramlarını açıklar. Genetik mühendisliği ve biyoteknoloji arasındaki farkların tartışılması sağlanır.",
+                    "aciklama": {}
+                  },
+                  "12.1.2.3": {
+                    "baslik": "Genetik mühendisliği ve biyoteknoloji uygulamalarını açıklar.",
+                    "aciklama": {
+                      "a": "Gen teknolojileri, DNA parmak izi analizi, kök hücre teknolojilerinin ve bunların kullanım alanlarının araştırılması ve sonuçlarının paylaşılması sağlanır.",
+                      "b": "Model organizmaların özellikleri tartışılır.",
+                      "c": "Model organizmaların genetik ve biyoteknolojik araştırmalarda kullanılmasına ilişkin örnekler verilir."
+                    }
+                  },
+                  "12.1.2.4": {
+                    "baslik": "Genetik mühendisliği ve biyoteknoloji uygulamalarının insan hayatına",
+                    "aciklama": {
+                      "a": "Aşı, antibiyotik, insülin, interferon üretimi, kanser tedavisi ve gen terapisi uygulamaları kısaca açıklanır.",
+                      "b": "Klonlama çalışmalarının ve organizmaların genetiğinin değiştirilmesinin olası sonuçları belirtilir. Ian Wilmut’un klonlama ile ilgili çalışmasına değinilir.",
+                      "c": "Biyogüvenlik ve biyoetik konularının tartışılması sağlanır.",
+                      "ç": "Sosyo-ekonomik ve kültürel bağlamın, biyolojinin gelişimini etkilediği vurgulanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.2": {
+            "baslik": "Canlılarda Enerji Dönüşümleri",
+            "alt": {
+              "12.2.1": {
+                "baslik": "Canlılık ve Enerji",
+                "anahtar_kavramlar": "ATP, enerji, enerji dönüşümü, fosforilasyon, fotosentez, hücresel solunum, kemosentez,",
+                "alt": {
+                  "12.2.1.1": {
+                    "baslik": "Canlılığın devamı için enerjinin gerekliliğini açıklar.",
+                    "aciklama": {
+                      "a": "ATP molekülünün yapısı açıklanır.",
+                      "b": "Fosforilasyon çeşitleri kısaca belirtilir."
+                    }
+                  }
+                }
+              },
+              "12.2.2": {
+                "baslik": "Fotosentez",
+                "anahtar_kavramlar": "fotosentez, fotoliz, ışık, klorofil, kloroplast",
+                "alt": {
+                  "12.2.2.1": {
+                    "baslik": "Fotosentezin canlılar açısından önemini sorgular. Fotosentez sürecinin anlaşılmasına katkı sağlayan bilim insanlarına örnekler verilerek kısaca çalışmalarına değinilir.",
+                    "aciklama": {}
+                  },
+                  "12.2.2.2": {
+                    "baslik": "Fotosentez sürecini şema üzerinde açıklar.",
+                    "aciklama": {
+                      "a": "Klorofil a ve klorofil b’nin yapısı verilmez.",
+                      "b": "Suyun fotolizi belirtilir.",
+                      "c": "Işığa bağımlı ve ışıktan bağımsız reaksiyonlar, ürün açısından karşılaştırılır. Reaksiyonların basamaklarına girilmez ve matematiksel hesaplamalara yer verilmez.",
+                      "ç": "CAM ve C4 bitkileri verilmez.",
+                      "d": "Fotosentez süreci görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından faydalanarak açıklanır."
+                    }
+                  },
+                  "12.2.2.3": {
+                    "baslik": "Fotosentez hızını etkileyen faktörleri değerlendirir.",
+                    "aciklama": {
+                      "a": "Fotosentez hızını etkileyen faktörlerden ışık şiddeti, ışığın dalga boyu, sıcaklık, klorofil miktarı ve karbondioksit yoğunluğu verilir.",
+                      "b": "Fotosentez hızını etkileyen faktörlerle ilgili kontrollü deney yaparken bilimsel yöntem basamakları kullanılır.",
+                      "c": "Tarımsal ürün miktarını artırmada yapay ışıklandırma uygulamalarının araştırılması ve paylaşılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "12.2.3": {
+                "baslik": "Kemosentez",
+                "anahtar_kavramlar": "kemosentez, oksidasyon",
+                "alt": {}
+              },
+              "12.2.4": {
+                "baslik": "Hücresel Solunum",
+                "anahtar_kavramlar": "fermantasyon, glikoliz, mitokondri, oksijenli solunum,  hücresel solunum, krebs döngüsü, oksijensiz solunum",
+                "alt": {
+                  "12.2.4.1": {
+                    "baslik": "Hücresel solunumu açıklar.",
+                    "aciklama": {
+                      "a": "Oksijenli solunum; glikoliz, krebs döngüsü ve ETS-oksidatif fosforilasyon olarak verilir.",
+                      "b": "Tepkimelerdeki NADH, FADH 2  , ATP üretim ve tüketimi matematiksel hesaplamalara girilmeden verilir.",
+                      "c": "Tüm canlılarda glikozun çeşitli tepkimeler zinciri ile pirüvik asite parçalandığı vurgulanır. Pirüvik asite kadar olan ara basamaklara ve ara ürünlere değinilmez.",
+                      "ç": "Etil alkol-laktik asit fermantasyonu açıklanarak günlük hayattan örnekler verilir.",
+                      "d": "Oksijensiz solunumda, elektronun oksijen dışında bir moleküle (sülfat, kükürt, nitrat, karbondioksit, demir) aktarıldığı belirtilir.",
+                      "e": "Oksijenli solunumda fermantasyona göre enerji verimliliğinin daha fazla olmasının nedenleri üzerinde durulur. f. Hücresel solunum süreçleri görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından faydalanarak açıklanır."
+                    }
+                  },
+                  "12.2.4.2": {
+                    "baslik": "Oksijenli solunumda reaksiyona girenler ve reaksiyon sonunda açığa çıkan son",
+                    "aciklama": {
+                      "a": "ürünlere ilişkin deney yapar."
+                    }
+                  },
+                  "12.2.4.3": {
+                    "baslik": "Fotosentez ve solunum ilişkisi ile ilgili çıkarımlarda bulunur.",
+                    "aciklama": {
+                      "a": "Fotosentez ve solunumun doğadaki madde ve enerji dengesinin sağlanmasındaki önemi vurgulanır.",
+                      "b": "Fotosentez ve solunum olaylarının bir arada gözlemlenebileceği deney deney tasarlanması ve yapılması sağlanır.",
+                      "c": "Fotosentez ve oksijenli solunumda enerji üretim mekanizması ile ilgili olarak kemiosmotik görüş şema üzerinde verilerek kısaca tanıtılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.3": {
+            "baslik": "Bitki Biyolojisi",
+            "alt": {
+              "12.3.1": {
+                "baslik": "Bitkilerin Yapısı",
+                "anahtar_kavramlar": "fotoperiyodizm, nasti, oksin, tropizma, uç meristem, yanal meristem, yaş halkaları",
+                "alt": {
+                  "12.3.1.1": {
+                    "baslik": "Çiçekli bir bitkinin temel kısımlarının yapı ve görevlerini açıklar.",
+                    "aciklama": {
+                      "a": "Kök, gövde, yaprak kesitlerinde başlıca dokuların incelenmesi sağlanır ve bunların görevleri açıklanır.",
+                      "b": "Uç ve yanal meristemlerin büyümedeki rolü vurgulanarak yaş halkaları ile bağlantı kurulur.",
+                      "c": "Prokambiyum, protoderm ve temel meristem konularına girilmez.",
+                      "ç": "Kök, gövde ve yapraklarından yararlanılan bitkilere günlük hayattan örnekler verilir.",
+                      "d": "Bitki çeşitleriyle ilgili çektikleri/edindikleri fotoğrafları eğitsel sosyal bir ağ üzerinden paylaşmaları sağlanır."
+                    }
+                  },
+                  "12.3.1.2": {
+                    "baslik": "Bitki gelişiminde hormonların etkisini örneklerle açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.3.1.3": {
+                    "baslik": "Bitki hareketlerini gözlemleyebileceği kontrollü deney yapar.",
+                    "aciklama": {
+                      "a": "Nasti ve tropizma hareketleri gözlemlenerek bu hareketlere ilişkin gözlemlerin paylaşılması sağlanır.",
+                      "b": "Oksin hormonunun tropizmadaki etkisi vurgulanır."
+                    }
+                  }
+                }
+              },
+              "12.3.2": {
+                "baslik": "Bitkilerde Madde Taşınması",
+                "anahtar_kavramlar": "adhezyon, basınç akış teorisi, floem, gutasyon, gübre, kohezyon gerilim teorisi, kök basıncı, ksilem, mikoriza, minimum kuralı, nodül, stoma, terleme",
+                "alt": {
+                  "12.3.2.1": {
+                    "baslik": "Köklerde su ve mineral emilimini açıklar.",
+                    "aciklama": {
+                      "a": "Su ve minerallerin bitkiler için önemi vurgulanır.",
+                      "b": "Minerallerin topraktan alınması, nodül ve mikoriza oluşumu üzerinde durulur.",
+                      "c": "İyonların emilim mekanizmasına girilmez.",
+                      "ç": "Bitkilerin büyüme ve gelişmesinde gerekli olan minerallerin isimleri verilir. Ayrı ayrı görevlerine girilmez."
+                    }
+                  },
+                  "12.3.2.2": {
+                    "baslik": "Bitkilerde su ve mineral taşınma mekanizmasını açıklar.",
+                    "aciklama": {
+                      "a": "Suyun taşınmasında kohezyon gerilim teorisi, kök basıncı, adhezyon ve gutasyon olayları açıklanır.",
+                      "b": "Suyun taşınmasında stomaların rolüne değinilir."
+                    }
+                  },
+                  "12.3.2.3": {
+                    "baslik": "Bitkilerde fotosentez ürünlerinin taşınma mekanizmasını açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.3.2.4": {
+                    "baslik": "Bitkilerde su ve madde taşınması ile ilgili deney tasarlar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "12.3.3": {
+                "baslik": "Bitkilerde Eşeyli Üreme",
+                "anahtar_kavramlar": "çiçek, çimlenme, dormansi, döllenme, meyve, tohum, tozlaşma, üreme hücreleri",
+                "alt": {
+                  "12.3.3.1": {
+                    "baslik": "Çiçeğin kısımlarını ve bu kısımların görevlerini açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.3.3.2": {
+                    "baslik": "Çiçekli bitkilerde döllenmeyi, tohum ve meyvenin oluşumunu açıklar.",
+                    "aciklama": {
+                      "a": "Bitkilerde eşeyli üreme kapalı tohumlu bir bitki örneği üzerinden görsel ögeler, grafik düzenleyiciler, e-öğrenme nesnesi ve uygulamalarından faydalanılarak işlenir.",
+                      "b": "Bitkilerin üreme ve yayılmasında tohum ve meyvenin rolü örneklerle ele alınır."
+                    }
+                  },
+                  "12.3.3.3": {
+                    "baslik": "Tohum çimlenmesini gözleyebileceği deney tasarlar. Çimlenmeye etki eden faktörlerin tespit edilmesi sağlanır.",
+                    "aciklama": {}
+                  },
+                  "12.3.3.4": {
+                    "baslik": "Dormansi ve çimlenme arasında ilişki kurar.",
+                    "aciklama": {}
+                  }
+                }
+              }
+            }
+          },
+          "12.4": {
+            "baslik": "Canlılar ve Çevre",
+            "alt": {
+              "12.4.1": {
+                "baslik": "Canlılar ve Çevre",
+                "anahtar_kavramlar": "adaptasyon, doğal seçilim, mutasyon, varyasyon, yapay seçilim",
+                "alt": {
+                  "12.4.1.1": {
+                    "baslik": "Çevre şartlarının genetik değişimlerin sürekliliğine olan etkisini açıklar.",
+                    "aciklama": {
+                      "a": "Varyasyon, adaptasyon, mutasyon, doğal ve yapay seçilim kavramları vurgulanır.",
+                      "b": "Bakterilerin antibiyotiklere karşı direnç geliştirmesinin nedenleri vurgulanır.",
+                      "c": "Herbisit ve pestisitlerin zaman içerisinde etkilerini kaybetmelerinin nedenleri üzerinde durulur."
+                    }
+                  },
+                  "12.4.1.2": {
+                    "baslik": "Tarım ve hayvancılıkta yapay seçilim uygulamalarına örnekler verir.",
+                    "aciklama": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
