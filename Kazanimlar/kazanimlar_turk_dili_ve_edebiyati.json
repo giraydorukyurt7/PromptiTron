@@ -1,0 +1,542 @@
+{
+  "yks": {
+    "turk_dili_ve_edebiyati": {
+      "A": {
+        "baslik": "OKUMA (METNİ ANLAMA VE ÇÖZÜMLEME)",
+        "alt": {
+          "A.1": {
+            "baslik": "ŞİİR",
+            "alt": {
+              "A.1.1": {
+                "baslik": "Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder.",
+                "aciklama": {
+                  "a": "Öğrencilerin bilmediği kelime ve kelime gruplarının anlamını metindeki bağlamından hareketle tahmin etmesi ve tahminini kaynaklardan yararlanarak kontrol etmesi sağlanır."
+                }
+              },
+              "A.1.2": {
+                "baslik": "Şiirin temasını belirler.",
+                "aciklama": {
+                  "a": "Tematik bütünlüğü olmayan şiirlerde (genellikle gazel, koşma vb.) birden çok temanın bir arada bulunabileceği göz önünde tutulmalıdır. Bu durum aynı zamanda türün/dönemin/anlayışın bir özelliğini gösterebilir."
+                }
+              },
+              "A.1.3": {
+                "baslik": "Şiirde ahengi sağlayan özellikleri/unsurları belirler.",
+                "aciklama": {
+                  "a": "Şiirde ahenk unsurları (ölçü, kafiye, redif, nakarat; ses, kelime ve kelime grubu tekrarı, ses akışı vb.) üzerinde durulur. esas alındığı üzerinde durulur. Ancak aruz kalıplarına ve şiirde aruz ölçüsünü buldurmaya yönelik çalışmalara yer verilmez. seçimi, kelimelerin düzenlenişi, dizelerin uzunluğu-kısalığı vb. aracılığıyla içeriğin görsel olarak şiirin şekline yansıtıldığı ve/veya ahenk özelliklerinin içerikle bağlantılı olduğu belirtilir.",
+                  "b": "Hece ölçüsünde hece sayısı eşitliğinin,  aruz ölçüsünde hecelerin açık-kapalı (uzun-kısa) oluşunun",
+                  "c": "Şiirin ahenk ve şekil özelliklerinin -varsa- içerikle ilişkisi üzerinde durulur. Bazı şiirlerde ölçü ve kafiye"
+                }
+              },
+              "A.1.4": {
+                "baslik": "Şiirin nazım biçimini ve nazım türünü tespit eder.",
+                "aciklama": {
+                  "a": "Şiirin nazım biçimi belirlenirken nazım birimi, kafiye düzeni, ölçü gibi şekil özelliklerinin; nazım türü belirlenirken içeriğin (konu, tema vb.) esas alındığı vurgulanır. bunların geleneksel biçim ve türlerle ilişkisi ele alınır.",
+                  "b": "Divan, halk ve dünya şiirinden gelen biçim ve türler ile şaire özgü yenilikler, buluşlar ve - varsa-",
+                  "c": "Metne/döneme göre konu bakımından lirik, epik, pastoral, satirik, didaktik şiir türlerine değinilir."
+                }
+              },
+              "A.1.5": {
+                "baslik": "Şiirdeki mazmun, imge ve edebî sanatları belirleyerek bunların anlama katkısını",
+                "aciklama": {
+                  "a": "9. sınıfta şiirde öne çıkan, dikkat çeken ve/veya yaygın olarak bilinen edebî sanatlar (teşbih, istiare, mecazımürsel, teşhis ve intak, tenasüp, tezat, telmih, hüsnütalil, tecahüliarif, kinaye, tevriye, tariz, irsalimesel, mübalağa) ele alınır. sağlanır. 5",
+                  "b": "Şiirdeki bütün edebî sanatların tespiti yoluna gidilmez.",
+                  "c": "10, 11 ve 12. sınıflarda şiirde öne çıkan edebî sanatları buldurmaya yönelik çalışma yapılması"
+                }
+              },
+              "A.1.6": {
+                "baslik": "Şiirde söyleyici ile hitap edilen kişi/varlık arasındaki ilişkiyi belirler.",
+                "aciklama": {
+                  "a": "Şiirde konuşanın şair değil şiirde konuşan kurgusal kişilik/varlık olduğu, söyleyicinin şiirin içeriğine ve aksettirdiği ruh durumuna göre karakter ve \"ses\" kazandığı, bu durumun şiiri okuma tonuna/tarzına, şiirin anlamına etkide bulunduğu ve okuma faaliyetinde okuyucunun bu söyleyiciyle özdeşleştiği vurgulanır. belirlenir.",
+                  "b": "Söyleyicinin genel okuyucuya, bir kişi, grup veya varlığa seslenme durumuna göre muhatabı"
+                }
+              },
+              "A.1.7": {
+                "baslik": "Şiirde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.",
+                "aciklama": {
+                  "a": "Şiirde şiirin yazıldığı dönemin gerçekliğini yansıtan unsurlara ve/veya şiirin dönemin gerçekliğiyle ilişkisine değinilir. ilişkisi üzerinde durulur.",
+                  "b": "Bazı metinlerde ise içeriğin/göstergelerin genel anlamda doğal, toplumsal veya bireysel gerçeklikle",
+                  "c": "Bu hususlar değerler eğitimi çerçevesinde ele alınır."
+                }
+              },
+              "A.1.8": {
+                "baslik": "Şiirde edebiyat, sanat ve fikir akımlarının/anlayışlarının yansımalarını değerlendirir.",
+                "aciklama": {
+                  "a": "Bu kazanım 10, 11 ve 12. sınıf düzeylerinde ele alınacaktır. şiirde görülen edebî, felsefi, estetik anlayışı; diğer metinler veya yazarlarla bağlantılarının/etkileşimlerinin belirlenmesi sağlanır.",
+                  "b": "Şiirin, bağlı olduğu edebî dönem, akım, gelenek, topluluk vb. açısından değerlendirilmesi ve/veya",
+                  "c": "Şiirin aynı, benzer veya farklı anlayıştaki şiirlerle karşılaştırılması sağlanır."
+                }
+              },
+              "A.1.9": {
+                "baslik": "Şiiri yorumlar.",
+                "aciklama": {
+                  "a": "Şiirdeki  açık  ve  örtük  iletileri;  şiirle  ilgili  tespitlerini,  eleştirilerini,  güncellemelerini  ve beğenisini  metne  dayanarak/gerekçelendirerek  kazanımlar  çerçevesinde ifade  etmesi sağlanır."
+                }
+              },
+              "A.1.10": {
+                "baslik": "Şair ile şiir arasındaki ilişkiyi değerlendirir.",
+                "aciklama": {
+                  "a": "Bu kazanım ele alınırken şiirin, şairin hayatı ve görüşleriyle ilişkisi üzerinde durulur. hayatındaki akisleri vb. hususlar üzerinde durulur (Örnekler: Necip Fazıl'ın \"Kaldırımlar Şairi\", \"İstiklâl Marşı\"nın millî marş, Mehmet Âkif'in ise bu vesileyle \"millî şair\" olarak anılması; Vesilet'ün Necat'ın mevlit türünün sembol eseri olup halk arasında bir geleneğe vesile olması). Bu hususların metne ve şaire göre farklılık göstereceği belirtilir.",
+                  "b": "Şiirin şairin ünlü eserlerinden biri olması, şairin tanınmasına katkısı, şiirin edebiyat ve/veya toplum"
+                }
+              },
+              "A.1.11": {
+                "baslik": "Türün/biçimin ve dönemin/akımın diğer önemli yazarlarını ve eserlerini sıralar.",
+                "aciklama": {
+                  "a": "Türün/biçimin ve dönemin/akımın diğer önemli yazar ve eserleri 10, 11 ve 12. sınıf düzeylerinde ele alınacaktır."
+                }
+              },
+              "A.1.12": {
+                "baslik": "Metinden hareketle dil bilgisi çalışmaları yapar.",
+                "aciklama": {}
+              },
+              "A.1.13": {
+                "baslik": "Metinler arası karşılaştırmalar yapar.",
+                "aciklama": {}
+              }
+            }
+          },
+          "A.2": {
+            "baslik": "ÖYKÜLEYİCİ (ANLATMAYA BAĞLI) EDEBÎ METİNLER (Masal/Fabl, Destan, Mesnevi, Hikâye,",
+            "alt": {
+              "A.2.1": {
+                "baslik": "Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder.",
+                "aciklama": {
+                  "a": "Öğrencilerin  bilmediği  kelime  ve  kelime  gruplarının  anlamını  metindeki  bağlamından  hareketle tahmin etmesi ve tahminini kaynaklardan yararlanarak kontrol etmesi sağlanır."
+                }
+              },
+              "A.2.2": {
+                "baslik": "Metnin türünün ortaya çıkışı ve tarihsel dönem ile ilişkisini belirler.",
+                "aciklama": {
+                  "a": "Metin türlerinin ortaya çıkmasında sözlü ve yazılı kültürün, toplumsal değişimlerin ve etkileşimlerin, basın yayın organlarının etkisi üzerinde durulur."
+                }
+              },
+              "A.2.3": {
+                "baslik": "Metnin tema ve konusunu belirler.",
+                "aciklama": {}
+              },
+              "A.2.4": {
+                "baslik": "Metindeki çatışmaları belirler.",
+                "aciklama": {
+                  "a": "Metindeki temel çatışmayı/karşılaşmayı ve bu çatışma etrafında metinde yer alan veya metnin ima ettiği diğer çatışmaları/karşılaşmaları/karşıtlıkları belirlenmesi sağlanır."
+                }
+              },
+              "A.2.5": {
+                "baslik": "Metnin olay örgüsünü belirler.",
+                "aciklama": {
+                  "a": "Öyküleyici metinlerde olayların birbirleriyle ilişkisi ve sıralanışı (kurgulanması) üzerinde durulur."
+                }
+              },
+              "A.2.6": {
+                "baslik": "Metindeki şahıs kadrosunun özelliklerini belirler.",
+                "aciklama": {
+                  "a": "Öyküleyici metinlerde şahısların rol dağılımları, olay akışını etkileyen fiziksel, psikolojik ve ahlaki özellikleri, toplumsal statüleri, -varsa- tarihsel/gerçek kişilikleri veya bu kişiliklerle ilişkileri; tip veya karakter özelliği gösterip göstermedikleri vb. belirlenir."
+                }
+              },
+              "A.2.7": {
+                "baslik": "Metindeki zaman ve mekânın özelliklerini belirler.",
+                "aciklama": {
+                  "a": "Öyküleyici metinlerde kahramanların ruh hâli ile zaman ve mekân arasındaki ilişki, olayların gelişiminde zaman ve mekânın işlevi vb. belirlenir. romancı veya hikâyecinin olayları hangi zaman dilimleri içinde kurguladığı (günün bir saati, aylar, yıllar, geri dönüş ve ileri gidişler vb.) kurgu zamanını, olayların/konunun Sultan II. Abdülhamit döneminde geçmesi ise tarihsel zaman/dönem ilişkisini ortaya koyar.",
+                  "b": "Metnin kurgu zamanı ile -varsa- içeriğin bir tarihsel zamanla/dönemle ilişkisine değinilir. Örneğin"
+                }
+              },
+              "A.2.8": {
+                "baslik": "Metinde anlatıcı ve bakış açısının işlevini belirler.",
+                "aciklama": {
+                  "a": "Öyküleyici metinlerde anlatıcının özellikleri ile hâkim, kahraman ve gözlemci bakış açılarından hangisinin kullanıldığı belirlenir. yapmadığı,  olayları  yorumlayıp  yorumlamadığı,  yazarın  düşünce  veya  kişiliğiyle  örtüşen  bir  yansıtıcı olup olmadığı, taraflı davranıp davranmadığı gibi hususlar değerlendirilir. açısının da değişebileceği vurgulanır. 7",
+                  "b": "Seçilen  bakış  açısının  anlatımı  nasıl  etkilediğine  dikkat  çekilir.  Anlatıcının  yönlendirme  yapıp",
+                  "c": "Bir metinde birden fazla anlatıcı ve bakış açısı bulunabileceği, anlatıcının değişmesine göre bakış"
+                }
+              },
+              "A.2.9": {
+                "baslik": "Metindeki anlatım biçimleri ve tekniklerinin işlevlerini belirler.",
+                "aciklama": {
+                  "a": "Öyküleyici metinlerde yararlanılan anlatım  biçimleri (öyküleme, betimleme vb.) tespit edilir. Anlatım teknikleri ise  (gösterme,  tahkiye etme,    özetleme, geriye dönüş,  diyalog, iç konuşma, iç çözümleme, bilinç  akışı,  pastiş,  parodi,  ironi  vb.)  9.  sınıfta  verilir.  Anlatım  tekniklerinin  tespiti  ilgili  metinler üzerinde yapılır."
+                }
+              },
+              "A.2.10": {
+                "baslik": "Metnin üslup özelliklerini belirler.",
+                "aciklama": {
+                  "a": "Metinde  yazara  özgü  dil  ve  anlatım  özellikleri  belirlenir  (Cümle  yapıları,  deyimler,  kelime kadrosu, anlatım teknikleri, söz sanatları, akıcılık, nesnellik, öznellik, duygusallık, coşkunluk gibi hususlar dikkate alınır.)."
+                }
+              },
+              "A.2.11": {
+                "baslik": "Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri",
+                "aciklama": {
+                  "a": "Metinde, metnin yazıldığı dönemin gerçekliğini yansıtan unsurlara ve/veya metnin dönemin gerçekliğiyle ilişkisine değinilir. ilişkisi incelenir.",
+                  "b": "Bazı metinlerde ise içeriğin/göstergelerin genel anlamda doğal, toplumsal veya bireysel gerçeklikle",
+                  "c": "Bu hususlar değerler eğitimi çerçevesinde ele alınır."
+                }
+              },
+              "A.2.12": {
+                "baslik": "Metinde edebiyat, sanat ve fikir akımlarının/anlayışlarının yansımalarını değerlendirir.",
+                "aciklama": {
+                  "a": "Bu kazanım 10, 11 ve 12. sınıf düzeylerinde ele alınacaktır. metinde görülen edebî, felsefi, estetik anlayışın; diğer metinler veya yazarlarla bağlantılarının/etkileşimlerinin belirlenmesi sağlanır.",
+                  "b": "Metnin; bağlı olduğu edebî dönem, akım, gelenek, topluluk açısından değerlendirilmesi ve/veya",
+                  "c": "Metnin aynı, benzer,  farklı veya karşıt anlayıştaki metinlerle karşılaştırılması sağlanır."
+                }
+              },
+              "A.2.13": {
+                "baslik": "Metni yorumlar.",
+                "aciklama": {
+                  "a": "Metindeki  açık  ve  örtük  iletileri;  metinle  ilgili  tespitlerini,  eleştirilerini,  güncellemelerini  ve beğenisini  metne  dayanarak/gerekçelendirerek ifade  etmesi sağlanır. ilgili  kazanımlar  çerçevesinde"
+                }
+              },
+              "A.2.14": {
+                "baslik": "Yazar ile metin arasındaki ilişkiyi değerlendirir.",
+                "aciklama": {
+                  "a": "Metnin yazarın ünlü eserlerinden biri olması, yazarın tanınmasına katkısı, metnin edebiyat ve/veya toplum hayatındaki akisleri vb. hususlar üzerinde durulur. Bu hususların metne ve yazara göre farklılık göstereceği vurgulanır. -varsa- sinema ve tiyatroya yapılan uyarlamalarından ve bunun yankılarından/etkilerinden bahsedilebilir.",
+                  "b": "Yazarın diğer önemli eserlerinden bahsedilir. Metnin ve/veya yazarın aynı türdeki diğer metinlerinin"
+                }
+              },
+              "A.2.15": {
+                "baslik": "Türün ve dönemin/akımın diğer önemli yazarlarını ve eserlerini sıralar.",
+                "aciklama": {
+                  "a": "Masal/fabl hariç türün ve dönemin/akımın diğer önemli yazar ve eserleri 10,11 ve 12. sınıf düzeylerinde ele alınacaktır."
+                }
+              },
+              "A.2.16": {
+                "baslik": "Metinlerden hareketle dil bilgisi çalışmaları yapar.",
+                "aciklama": {}
+              }
+            }
+          },
+          "A.3": {
+            "baslik": "TİYATRO",
+            "alt": {
+              "A.3.1": {
+                "baslik": "Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder.",
+                "aciklama": {
+                  "a": "Öğrencilerin  bilmediği  kelime  ve  kelime  gruplarının  anlamını  metindeki  bağlamından  hareketle tahmin etmesi ve tahminini kaynaklardan yararlanarak kontrol etmesi sağlanır."
+                }
+              },
+              "A.3.2": {
+                "baslik": "Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler.",
+                "aciklama": {
+                  "a": "Metin türlerinin ortaya çıkmasında sözlü ve yazılı kültürün, toplumsal değişimlerin ve etkileşimlerin, teknolojinin etkisi üzerinde durulur. komedi, dram) ile senaryodan bahsedilir.",
+                  "b": "Geleneksel tiyatro (Karagöz, orta oyunu, meddah, köy seyirlik oyunları) ve tiyatro türleri (trajedi,"
+                }
+              },
+              "A.3.3": {
+                "baslik": "Metnin tema ve konusunu belirler.",
+                "aciklama": {}
+              },
+              "A.3.4": {
+                "baslik": "Metindeki çatışmaları belirler.",
+                "aciklama": {
+                  "a": "Metindeki temel çatışmayı/karşılaşmayı ve bu çatışma etrafında metinde yer alan veya metnin ima ettiği diğer çatışmaları/karşılaşmaları/karşıtlıkları belirler."
+                }
+              },
+              "A.3.5": {
+                "baslik": "Metindeki olay örgüsünü belirler.",
+                "aciklama": {
+                  "a": "Tiyatroda olay örgüsünün perde, sahne vb. bölümlemeler etrafında düzenlendiği ifade edilir (Bazı metinlerde bu bölümlemelere karşılık gelen meclis, fasıl gibi terimler bulunur.).",
+                  "b": "Geleneksel tiyatronun yapı özellikleri de bu çerçevede belirlenir."
+                }
+              },
+              "A.3.6": {
+                "baslik": "Metindeki şahıs kadrosunun özelliklerini belirler.",
+                "aciklama": {
+                  "a": "Oyuncuların/icracıların metni kendi tarzlarına ve kabiliyetlerine göre canlandırdıkları/yorumladıkları hatırlatılır."
+                }
+              },
+              "A.3.7": {
+                "baslik": "Metindeki zaman ve mekânın özelliklerini belirler.",
+                "aciklama": {
+                  "a": "Mekân özellikleriyle bağlantılı olarak dekor/sahne düzenlemesi teriminden bahsedilir. Mekân ve dekorun geleneksel tiyatroda standart bir özellik göstermesine karşılık modern tiyatroda aynı eserin farklı temsillerinde, metinle ilişkili veya metinden bağımsız olarak farklı mekân ve dekor uygulamaları olabileceği belirtilir. yazar, yönetmen, yapımcı, oyuncu, tasarımcı ve teknik ekip iş birliğiyle gerçekleştirildiği /yorumlandığı ifade edilir.",
+                  "b": "Modern tiyatroda efekt, ışık vb. uygulamalardan bahsedilir. Bu uygulamaların metin çerçevesinde"
+                }
+              },
+              "A.3.8": {
+                "baslik": "Metnin dil, üslup ve anlatım/sunum özelliklerini belirler.",
+                "aciklama": {
+                  "a": "Geleneksel tiyatronun dil, üslup ve anlatım/sunum özellikleri (seslenmeler, tekerlemeler, deyimler, gazeller, beyitler, şarkı-türkü-müzikler, yanlış anlamalar, taklitler, ağız özellikleri vb.) belirlendikten sonra bunların metnin türü ve içeriğiyle ilişkisi ele alınır. Modern tiyatroda ise yazara özgü üslup özellikleri ele alınacaktır. 9"
+                }
+              },
+              "A.3.9": {
+                "baslik": "Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri",
+                "aciklama": {
+                  "a": "Metinde, metnin yazıldığı dönemin gerçekliğini yansıtan unsurlara ve/veya metnin dönemin gerçekliğiyle ilişkisine değinilir. ilişkisi incelenir.",
+                  "b": "Bazı metinlerde içeriğin/göstergelerin genel anlamda doğal, toplumsal veya bireysel gerçeklikle",
+                  "c": "Bu hususlar değerler eğitimi çerçevesinde ele alınır."
+                }
+              },
+              "A.3.10": {
+                "baslik": "Metinde edebiyat, sanat ve fikir akımlarının/anlayışlarının yansımalarını değerlendirir.",
+                "aciklama": {
+                  "a": "Bu kazanım 10,11 ve 12. sınıf düzeylerinde ele alınacaktır. metinde görülen edebî, felsefi, estetik anlayışın; diğer metinler veya yazarlarla bağlantılarının/etkileşimlerinin belirlenmesi sağlanır. ç. Modern tiyatro metinlerinde -varsa- geleneksel tiyatro unsurları/etkileri tespit edilir.",
+                  "b": "Metnin; bağlı olduğu edebî dönem, akım, gelenek, topluluk vb. açısından değerlendirilmesi ve/veya",
+                  "c": "Metnin aynı, benzer veya farklı anlayıştaki metinlerle karşılaştırılması sağlanır."
+                }
+              },
+              "A.3.11": {
+                "baslik": "Metni yorumlar.",
+                "aciklama": {
+                  "a": "Metindeki açık ve örtük iletileri; metinle ilgili tespitlerini, eleştirilerini, güncellemelerini ve beğenisini metne dayanarak/gerekçelendirerek ilgili kazanımlar çerçevesinde ifade etmesi sağlanır. hususlara örnekler verilebilir.",
+                  "b": "Türk sineması ve tiyatrosunda geleneksel tiyatro unsurları ve/veya tipleriyle benzerlik gösteren"
+                }
+              },
+              "A.3.12": {
+                "baslik": "Yazar ve metin arasındaki ilişkiyi değerlendirir.",
+                "aciklama": {
+                  "a": "Metnin yazarın ünlü eserlerinden biri olması, yazarın tanınmasına katkısı, metnin edebiyat ve/veya toplum hayatındaki akisleri vb. hususlar ele alınır.",
+                  "b": "Yazarın diğer önemli eserlerinden bahsedilir."
+                }
+              },
+              "A.3.13": {
+                "baslik": "Türün ve dönemin/akımın diğer önemli yazarlarını ve eserlerini sıralar.",
+                "aciklama": {
+                  "a": "Önde gelen, temsil edici diğer yazar ve eserlerden bahsedilir. pişekâr ve Karagözcülere (Kel Hasan, Abdürrezzak, İsmail Dümbüllü vs.) değinilir. alınacaktır.",
+                  "b": "Geleneksel tiyatroda ise kalıplaşmış ünlü oyunlara (Örnek: Kanlı Nigâr) ve ünlü meddah, kavuklu,",
+                  "c": "Türün ve dönemin/akımın diğer önemli yazar ve eserleri 10,11 ve 12. sınıf düzeylerinde ele"
+                }
+              },
+              "A.3.14": {
+                "baslik": "Metinlerden hareketle dil bilgisi çalışmaları yapar.",
+                "aciklama": {}
+              }
+            }
+          },
+          "A.4": {
+            "baslik": "BİLGİLENDİRİCİ (ÖĞRETİCİ) METİNLER",
+            "alt": {
+              "A.4.1": {
+                "baslik": "Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder.",
+                "aciklama": {
+                  "a": "Öğrencilerin  bilmediği  kelime  ve  kelime  gruplarının  anlamını  metindeki  bağlamından  hareketle tahmin etmesi ve tahminini kaynaklardan yararlanarak kontrol etmesi sağlanır. 10"
+                }
+              },
+              "A.4.2": {
+                "baslik": "Metnin türünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirler.",
+                "aciklama": {
+                  "a": "Metin türlerinin ortaya çıkmasında sözlü ve yazılı kültürün, toplumsal değişimlerin ve etkileşimlerin, yayın organlarının ve teknolojinin etkisi üzerinde durulur."
+                }
+              },
+              "A.4.3": {
+                "baslik": "Metin ile metnin konusu, amacı ve hedef kitlesi arasında ilişki kurar.",
+                "aciklama": {}
+              },
+              "A.4.4": {
+                "baslik": "Metnin ana düşüncesi ve yardımcı düşüncelerini belirler.",
+                "aciklama": {}
+              },
+              "A.4.5": {
+                "baslik": "Metindeki anlatım biçimlerini, düşünceyi geliştirme yollarını ve bunların işlevlerini belirler.",
+                "aciklama": {}
+              },
+              "A.4.6": {
+                "baslik": "Metnin görsel unsurlarla ilişkisini belirler.",
+                "aciklama": {
+                  "a": "Bazı  metin  türlerinde  resim,  karikatür,  fotoğraf,  çizim,  grafik,  tablo,  diyagram,  istatistiksel  veri  gibi unsurların metin türüyle ilişkisi ve metne katkısı üzerinde durulur."
+                }
+              },
+              "A.4.7": {
+                "baslik": "Metnin üslup özelliklerini belirler.",
+                "aciklama": {
+                  "a": "Metinde yazara/metne özgü dil ve anlatım özellikleri belirlenir (Cümle yapıları, deyimler, kelime kadrosu, söz sanatları, akıcılık,  nesnellik, öznellik, duygusallık, coşkunluk gibi hususlar dikkate alınır.)."
+                }
+              },
+              "A.4.8": {
+                "baslik": "Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri",
+                "aciklama": {
+                  "a": "Metinde, metnin yazıldığı dönemin gerçekliğini yansıtan unsurlara ve/veya metnin dönemin gerçekliğiyle ilişkisine değinilir. ilişkisi incelenir.",
+                  "b": "Bazı metinlerde içeriğin/göstergelerin genel anlamda doğal, toplumsal veya bireysel gerçeklikle",
+                  "c": "Bu hususlar değerler eğitimi çerçevesinde ele alınır."
+                }
+              },
+              "A.4.9": {
+                "baslik": "Metinde ortaya konulan bilgi ve yorumları ayırt eder.",
+                "aciklama": {
+                  "a": "Ortaya konulan bilgi, tespit ve yorumlar/görüşler;  gerekçe, kanıt, tutarlılık, geçerlilik, doğruluk açısından değerlendirilir."
+                }
+              },
+              "A.4.10": {
+                "baslik": "Metinde yazarın bakış açısını belirler.",
+                "aciklama": {
+                  "a": "Bilgilendirici/öğretici metinlerde yazar ile anlatıcının aynı şey olduğu yani edebî (sanatsal/kurgusal) metinlerden farklı olarak gerçek bir kişi olduğu belirtilir. aldığı yanında, yönlendirme yapıp yapmadığı, taraf olup olmadığı, öznel veya nesnel davranıp davranmadığı gibi hususların bakış açısına etkide bulunduğu hatırlatılır.",
+                  "b": "Yazarın konuya ve okuyucuya yönelik yaklaşımı/tavrı belirlenir. Yazarın konuyu hangi açıdan ele"
+                }
+              },
+              "A.4.11": {
+                "baslik": "Metinde fikrî, felsefi veya siyasi akım, gelenek veya anlayışların yansımalarını",
+                "aciklama": {
+                  "a": "Metinde görülen veya metnin ortaya koyduğu fikrî, felsefi, siyasi veya estetik anlayışın; diğer metinler veya yazarlarla bağlantılarının/etkileşimlerinin belirlenmesi sağlanır. 11",
+                  "b": "Metni aynı, benzer veya farklı anlayıştaki metinlerle karşılaştırır."
+                }
+              },
+              "A.4.12": {
+                "baslik": "Metni yorumlar.",
+                "aciklama": {
+                  "a": "Metindeki açık ve örtük iletileri; metinle ilgili tespitlerini, eleştirilerini, güncellemelerini ve beğenisini metne dayanarak/gerekçelendirerek ilgili kazanımlar çerçevesinde ifade etmesi sağlanır."
+                }
+              },
+              "A.4.13": {
+                "baslik": "Yazar ve metin arasındaki ilişkiyi değerlendirir.",
+                "aciklama": {
+                  "a": "Yazarın diğer önemli eserlerinden bahsedilir.",
+                  "b": "E-posta, haber, blog gibi metinler için bu kazanıma ilişkin bir çalışma yapılması zorunlu değildir."
+                }
+              },
+              "A.4.14": {
+                "baslik": "Türün ve dönemin/akımın diğer önemli yazarlarını ve eserlerini sıralar.",
+                "aciklama": {
+                  "a": "Önde gelen, temsil eden diğer yerli ve yabancı yazar ve eserlerden bahsedilir."
+                }
+              },
+              "A.4.15": {
+                "baslik": "Metinlerden hareketle dil bilgisi çalışmaları yapar.",
+                "aciklama": {}
+              }
+            }
+          }
+        }
+      },
+      "B": {
+        "baslik": "YAZMA",
+        "alt": {}
+      },
+      "C": {
+        "baslik": "SÖZLÜ İLETİŞİM",
+        "alt": {
+          "C.1": {
+            "baslik": "KONUŞMA",
+            "alt": {
+              "C.1.1": {
+                "baslik": "İletişim sürecini oluşturan ögeleri ve iletişimde dilin önemini belirler.",
+                "aciklama": {
+                  "a": "Bu kazanım sadece 9.sınıfta işlenecektir. açıklanır.",
+                  "b": "İletişimin tanımı ve ögeleri (gönderici, alıcı, ileti, kanal, geri bildirim, kod, bağlam) örneklerle"
+                }
+              },
+              "C.1.2": {
+                "baslik": "Konuşmanın konusunu, amacını, hedef kitlesini ve türünü belirler.",
+                "aciklama": {}
+              },
+              "C.1.3": {
+                "baslik": "Konuyla ilgili gözlem, inceleme veya araştırma yapar.",
+                "aciklama": {}
+              },
+              "C.1.4": {
+                "baslik": "Konuşma metnini planlar.",
+                "aciklama": {}
+              },
+              "C.1.5": {
+                "baslik": "Konuşma planına uygun olarak konuşma kartları hazırlar.",
+                "aciklama": {}
+              },
+              "C.1.6": {
+                "baslik": "Konuşmasında yararlanacağı görsel ve işitsel araçları hazırlar.",
+                "aciklama": {}
+              },
+              "C.1.7": {
+                "baslik": "Konuşmasına uygun sunu hazırlar.",
+                "aciklama": {
+                  "a": "Yazılı, görsel ve işitsel unsurların, sunuda doğru ve işlevsel olarak kullanımının önemi ve nasıl gerçekleştirileceği açıklanır."
+                }
+              },
+              "C.1.8": {
+                "baslik": "Konuşma provası yapar.",
+                "aciklama": {
+                  "a": "Konuşma öncesinde konuşma yapılacak yerin, kullanılacak araçların, konuşma içeriği ve süresinin kontrol edilmesinin önemi vurgulanır."
+                }
+              },
+              "C.1.9": {
+                "baslik": "Boğumlama, vurgulama, tonlama ve duraklamaya dikkat ederek konuşur.",
+                "aciklama": {
+                  "a": "Konuşmacının sesleri ve heceleri birbirine karıştırmadan, yutmadan, tam ve doğru çıkarması, kelime ve cümle vurgusuna dikkat etmesi; ses tonunu amacına, ortama, içeriğe ve hedef kitleye uygun olarak ayarlaması gerektiği vurgulanır. belirtilir.",
+                  "b": "Konuşurken nefes almak için sözün anlamına uygun duraklamalar yapılmasının önemi"
+                }
+              },
+              "C.1.10": {
+                "baslik": "Konuşurken gereksiz ses ve kelimeler kullanmaktan kaçınır.",
+                "aciklama": {
+                  "a": "Konuşma sırasında \"hım, eee, ııı\" gibi sesleri veya \"işte, hani, yani, şey, mesela, atıyorum\" vb. kelimeleri gereksiz yere ve dinleyiciyi rahatsız edecek düzeyde kullanmaktan kaçınılması gerektiği vurgulanır."
+                }
+              },
+              "C.1.11": {
+                "baslik": "Konuşmasında beden dilini doğru ve etkili biçimde kullanır.",
+                "aciklama": {
+                  "a": "Konuşmacının  içeriğe  ve  hitap  ettiği  kitleye  uygun  jest  ve  mimikler  kullanmasının,  dinleyici  ile  göz teması  kurmasının,  heyecanını  kontrol  etmesinin,  dış  görünümünü  ve  kıyafetini  konuşma  yapacağı ortama göre ayarlamasının önemi vurgulanır."
+                }
+              },
+              "C.1.12": {
+                "baslik": "Konuşmasına etkili bir başlangıç yapar.",
+                "aciklama": {
+                  "a": "Konuşmaya etkili bir başlangıç yapmak için içeriğe uygun soru sorma, şiir okuma; bir fıkra, hikâye, anı anlatma gibi tekniklere başvurulabileceği vurgulanır."
+                }
+              },
+              "C.1.13": {
+                "baslik": "Konuşmasının içeriğini zenginleştirir.",
+                "aciklama": {
+                  "a": "Bir  konuşmanın  deyim,  atasözü,  vecize,  terim,  alıntı,  kısa  hikâye,  anı,  şiir,  fıkra,  söz  sanatları, istatistiklerden yararlanma vb. unsurlarla zenginleştirilebileceği vurgulanır."
+                }
+              },
+              "C.1.14": {
+                "baslik": "Konuşmasında  önemli  noktaları  vurgulayan  ve  konuşmayı  takip  etmeyi  kolaylaştıran",
+                "aciklama": {
+                  "a": "ifadeler kullanır. Konuşmacının  önemli  noktaları  vurgulamak  ve  dinleyicilerin  ilgisini  canlı  tutmak  için  çeşitli  geçiş ifadelerini (bundan dolayı, özellikle, kısacası vb.) kullanabileceğine dikkat çekilir."
+                }
+              },
+              "C.1.15": {
+                "baslik": "Konuşmasını etkili bir biçimde sonlandırır.",
+                "aciklama": {
+                  "a": "Konuşmanın genel iletisinin, konuşmanın sonunda da vurgulanmasının önemi açıklanır."
+                }
+              },
+              "C.1.16": {
+                "baslik": "Konuşmasında süreyi verimli kullanır.",
+                "aciklama": {}
+              },
+              "C.1.17": {
+                "baslik": "Konuşmasında teknolojik araçları etkili biçimde kullanır.",
+                "aciklama": {}
+              }
+            }
+          },
+          "C.2": {
+            "baslik": "DİNLEME",
+            "alt": {
+              "C.2.1": {
+                "baslik": "Amacına uygun dinleme tekniklerini kullanır.",
+                "aciklama": {
+                  "a": "Not  alarak  dinleme,  empati  kurarak  dinleme,  seçici  dinleme,  eleştirel  dinleme  vb.  tekniklerin kullanılabileceği vurgulanır."
+                }
+              },
+              "C.2.2": {
+                "baslik": "Dinlediği konuşmanın konu ve ana düşüncesini tespit eder.",
+                "aciklama": {}
+              },
+              "C.2.3": {
+                "baslik": "Dinlediği konuşmada konu akışını takip eder.",
+                "aciklama": {
+                  "a": "Dinlediği konuşmadaki temel kavramların ve ayrıntıların belirlenmesi sağlanır."
+                }
+              },
+              "C.2.4": {
+                "baslik": "Dinlediği konuşmadaki açık ve örtük iletileri belirler.",
+                "aciklama": {}
+              },
+              "C.2.5": {
+                "baslik": "Dinlediklerini özetler.",
+                "aciklama": {}
+              },
+              "C.2.6": {
+                "baslik": "Dinlediklerini ön bilgileriyle karşılaştırır.",
+                "aciklama": {}
+              },
+              "C.2.7": {
+                "baslik": "Dinlediği konuşmanın tutarlılığını sorgular.",
+                "aciklama": {
+                  "a": "Konuşma;  konu  akışındaki  uyum,  olaylar,  bilgiler  ve  düşünceler  arasındaki  tutarlılık  açısından değerlendirilir."
+                }
+              },
+              "C.2.8": {
+                "baslik": "Dinlediği konuşmada öne sürülen düşüncelerin dayanaklarının geçerliliğini sorgular.",
+                "aciklama": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
