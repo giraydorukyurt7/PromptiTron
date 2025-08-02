@@ -1,0 +1,908 @@
+{
+  "yks": {
+    "cografya": {
+      "9": {
+        "Doğal Sistemler": {
+          "9.1.1": {
+            "baslik": "Doğa ve insan etkileşimini örneklerle açıklar.",
+            "aciklama": {
+              "a": "Dünyadan ve Türkiye'den örnekler verilir.",
+              "b": "Doğa-insan etkileşiminde insanların doğaya karşı göstermesi gereken duyarlılığa yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.2": {
+            "baslik": "Coğrafyanın konularını ve bölümlenmesini açıklar.",
+            "aciklama": {
+              "a": "Coğrafyanın ilişkili olduğu disiplinlere yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.3": {
+            "baslik": "Coğrafya biliminin gelişimini açıklar.",
+            "aciklama": {
+              "a": "Coğrafya biliminin önemine değinilir.",
+              "b": "Coğrafya biliminin gelişimine katkı sağlayan Türk ve Müslüman bilim insanlarının çalışmalarına da yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.4": {
+            "baslik": "Dünya’nın şekli ve hareketlerinin etkilerini değerlendirir.",
+            "aciklama": {
+              "a": "Dünya’nın Güneş Sistemi içindeki yerine kısaca değinilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.5": {
+            "baslik": "Koordinat sistemini kullanarak zaman ve yere ait özellikler hakkında çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Mutlak ve göreceli konum kavramlarına yer verilir.",
+              "b": "Türkiye’nin konumuna yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.6": {
+            "baslik": "Haritayı oluşturan unsurlardan yararlanarak harita kullanır.",
+            "aciklama": {
+              "a": "Harita Projeksiyonlarına yer verilir.",
+              "b": "Farklı harita türlerine ve kullanım amaçlarına yer verilir.",
+              "c": "Ölçek ile uzunluk ve alan ilişkilerinde basit örneklere yer verilir. Alan hesaplamalarında sadece gerçek alan hesaplamalarına yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.7": {
+            "baslik": "Bilgileri haritalara aktarmada kullanılan yöntem ve teknikleri açıklar.",
+            "aciklama": {
+              "a": "Haritacılık tarihinde önemli olan Türk ve Müslüman bilim insanları ve çalışmaları üzerinde durulur.",
+              "b": "Coğrafi Bilgi Sistemlerine (CBS) ve uzaktan algılama tekniklerine yer verilir.",
+              "c": "Mekânsal verilerin haritaya aktarımında nokta, çizgi ve alansal gösterimlerden yararlanılması sağlanır."
+            },
+            "ozel_program": false
+          },
+          "9.1.8": {
+            "baslik": "Haritalarda yer şekillerinin gösteriminde kullanılan yöntem ve teknikleri açıklar.",
+            "aciklama": {
+              "a": "Eş yükselti eğrilerinin özelliklerine yer verilir.",
+              "b": "Eş yükselti eğrileri ile çizilmiş haritalar üzerinde yer şekillerinin ayırt edilmesine yer verilir.",
+              "c": "Haritalarda yer şekillerini gösterme yöntemlerinden renklendirme ve kabartma yöntemlerine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.9": {
+            "baslik": "Atmosferin katman la rı ve özellikleri ile hava olaylarını ilişkilendirir.",
+            "aciklama": {
+              "a": "105"
+            },
+            "ozel_program": false
+          },
+          "9.1.10": {
+            "baslik": "Örneklerden yararlanarak hava durumu ile iklim özelliklerini etkileri açısından karşılaştırır.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "9.1.11": {
+            "baslik": "İklim elemanlarının oluşumunu ve dağılışını açıklar.",
+            "aciklama": {
+              "a": "İklim elemanlarına ait temel kavramlara ve iklim elamanlarını etkileyen faktörlere yer verilir.",
+              "b": "İklim elemanlarının günlük hayata etkilerine örnekler üzerinden yer verilir.",
+              "c": "Yaşanılan yerdeki iklim elemanlarına ait verilerden yararlanılarak tablo ve grafikler çizilir ve günlük hayatla ilişkilendirilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.12": {
+            "baslik": "Yeryüzündeki farklı iklim tiplerinin özellikleri ve dağılışları hakkında çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Gerçek istasyonlara ait klimatolojik verilerin yer aldığı iklim grafiklerine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.1.13": {
+            "baslik": "Türkiye’de görülen iklim tiplerinin özellikleri hakkında çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Türkiye’nin iklimini etkileyen faktörlere yer verilir.",
+              "b": "Türkiye’deki iklim elemanlarının özellikleri üzerinde durulur.",
+              "c": "Türkiye’de görülen iklim tipleri ve özelliklerine yer verilir. BEŞERÎ SİSTEMLER"
+            },
+            "ozel_program": false
+          }
+        },
+        "Beşerî Sistemler": {
+          "9.2.1": {
+            "baslik": "Yerleşmelerin gelişimini etkileyen faktörleri analiz eder.",
+            "aciklama": {
+              "a": "Yerleşme yeri seçiminde etkili olan faktörlere yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.2.2": {
+            "baslik": "Yerleşme doku ve tiplerinin oluşumunda etkili olan faktörleri örneklerle açıklar.",
+            "aciklama": {
+              "a": "Toplu ve dağınık yerleşmelerin oluşumunda etkili olan faktörlere yer verilir.",
+              "b": "Kır ve şehir yerleşmelerinin oluşumunda etkili olan faktörlere yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.2.3": {
+            "baslik": "Türkiye’de yerleşmelerin dağılışını etkileyen faktörleri örneklerle açıklar.",
+            "aciklama": {
+              "a": "Türkiye’deki ilk yerleşme örneklerine (Göbeklitepe, Çatalhöyük, Alacahöyük) yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.2.4": {
+            "baslik": "Türkiye’deki yerleşim birimlerini idari fonksiyonlarına göre ayırt eder.",
+            "aciklama": {
+              "a": "Türkiye’nin idari yapısı verilirken ülkenin mevcut sınırlar dâhilinde bölünmez bütünlüğüne vurgu yapılır. KÜRESEL ORTAM : BÖLGELER VE ÜLKELER"
+            },
+            "ozel_program": false
+          }
+        },
+        "Küresel Ortam: Bölgeler ve Ülkeler": {
+          "9.3.1": {
+            "baslik": "Dünyadaki farklı bölge örneklerini, özellikleri ve bölge belirlemede kullanılan kriterler açısından değerlendirir.",
+            "aciklama": {
+              "a": "Şekilsel ve işlevsel bölge ayrımına yer verilir.",
+              "b": "Türkiye’den ve dünyadan farklı bölge örneklerine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "9.3.2": {
+            "baslik": "Bölge sınırlarının amaca göre değişebilirliğini örneklerle açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "9.3.3": {
+            "baslik": "Harita kullanarak çeşitli coğrafi kriterlerle belirlenmiş bölgelerde bulunan ülkeleri sınıflandırır.",
+            "aciklama": {
+              "a": "ÇEVRE VE TOPLUM"
+            },
+            "ozel_program": false
+          }
+        },
+        "Çevre ve Toplum": {
+          "9.4.1": {
+            "baslik": "İnsanların doğal çevreyi kullanma biçimlerini örneklendirir.",
+            "aciklama": {
+              "a": "Karadeniz Sahil Yolu, Maltepe Sahil Parkı, Avrasya Tüneli, Osman Gazi Köprüsü, Ordu-Giresun Hava Limanı, Marmaray ve BAE- Dubai Palmiye gibi örneklere değinilir."
+            },
+            "ozel_program": false
+          },
+          "9.4.2": {
+            "baslik": "Doğal ortamda insan etkisiyle meydana gelen değişimleri sonuçları açısından değerlendirir.",
+            "aciklama": {
+              "a": "Örnek olaylardan hareketle insanın atmosfer, litosfer, hidrosfer ve biyosfer üzerindeki etkilerine yer verilir.",
+              "b": "İnsanların doğal ortam üzerinde gerçekleştirdikleri değişimlerde, doğaya karşı duyarlı olmalarının gerekliliği vurgulanır. 106"
+            },
+            "ozel_program": false
+          }
+        }
+      },
+      "10": {
+        "Doğal Sistemler": {
+          "10.1.1": {
+            "baslik": "Dünya’nın tektonik oluşumunu açıklar.",
+            "aciklama": {
+              "a": "Dünya’nın iç yapısı ile ilgili temel bilgiler verilir.",
+              "b": "Levha tektoniği kuramına yer verilir."
+            },
+            "ozel_program": false
+          },
+          "10.1.2": {
+            "baslik": "Jeolojik zamanların özelliklerini tektonik olaylarla ilişkilendirerek açıklar.",
+            "aciklama": {
+              "a": "Jeolojik zamanların adlandırılması Türkçe olarak da yapılır.",
+              "b": "Jeolojik zamanların özelliklerine yer verilirken Türkiye’nin jeolojik geçmişine değinilir.",
+              "c": "Türkiye'nin tektonizmasına yer verilir."
+            },
+            "ozel_program": false
+          },
+          "10.1.3": {
+            "baslik": "İç kuvvetleri; yer şekillerinin oluşum sürecine etkileri açısından açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.4": {
+            "baslik": "Kayaçların özellikleri ile yeryüzü şekillerinin oluşum süreçlerini ilişkilendirir.",
+            "aciklama": {
+              "a": "Kayaçların kullanım alanlarına yönelik örneklere yer verilir."
+            },
+            "ozel_program": false
+          },
+          "10.1.5": {
+            "baslik": "Türkiye’deki yer şekillerinin oluşum sürecine iç kuvvetlerin etkisini açıklar.",
+            "aciklama": {
+              "a": "Türkiye’deki faylar, levha hareketleri ve depremler arasındaki ilişkiye yer verilir."
+            },
+            "ozel_program": false
+          },
+          "10.1.6": {
+            "baslik": "Dış kuvvetleri yer şekillerinin oluşum sürecine etkileri açısından açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.7": {
+            "baslik": "Türkiye’deki yer şekillerinin oluşum sürecine dış kuvvetlerin etkisini açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.8": {
+            "baslik": "Türkiye’deki ana yer şekillerini temel özellikleri ve dağılışları açısından değerlendirir.",
+            "aciklama": {
+              "a": "Dağ, ova ve platolar ele alınır."
+            },
+            "ozel_program": false
+          },
+          "10.1.9": {
+            "baslik": "Yeryüzündeki su varlıklarını özelliklerine göre sınıflandırır.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.10": {
+            "baslik": "Türkiye’deki su varlıklarının genel özelliklerini ve dağılışını açıklar.",
+            "aciklama": {
+              "a": "Su varlıklarının dağılışının harita üzerinden gösterilmesi sağlanır."
+            },
+            "ozel_program": false
+          },
+          "10.1.11": {
+            "baslik": "Türkiye’deki su varlığını verimli kullanmanın ekonomik, sosyal ve kültürel etkilerini değerlendirir.",
+            "aciklama": {
+              "a": "Su kaynakları içinde denizlerimizin potansiyeli ve ülkemiz için önemi üzerinde durulur.",
+              "b": "Su kaynaklarımızın sürdürülebilir kullanımı için bireylere düşen sorumluluklara değinilir."
+            },
+            "ozel_program": false
+          },
+          "10.1.12": {
+            "baslik": "Yeryüzündeki toprak çeşitliliğini oluşum süreçleri ile ilişkilendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.13": {
+            "baslik": "Türkiye’deki toprakların dağılışını etkileyen faktörler ile toprak tiplerini ilişkilendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.14": {
+            "baslik": "Türkiye topraklarının kullanımını verimlilik açısından değerlendirir.",
+            "aciklama": {
+              "a": "Türkiye’de erozyonun etkisine vurgu yapılır.",
+              "b": "Gelecek nesillere daha yaşanabilir bir ülke bırakabilmek için topraklarımızın korunmasının gerekliliğine değinilir. 107"
+            },
+            "ozel_program": false
+          },
+          "10.1.15": {
+            "baslik": "Bitki toplulukları ve türlerini genel özelliklerine göre sınıflandırır.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.16": {
+            "baslik": "Bitki topluluklarının dağılışı ile iklim ve yer şekillerini ilişkilendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.1.17": {
+            "baslik": "Türkiye’deki doğal bitki topluluklarının dağılışını yetişme şartları açısından analiz eder.",
+            "aciklama": {
+              "a": "Türkiye’deki endemik ve relikt bitkilerin dağılışı, önemi ve korunması gerekliliği üzerinde durulur. BEŞERİ SİSTEMLER"
+            },
+            "ozel_program": false
+          }
+        },
+        "Beşerî Sistemler": {
+          "10.2.1": {
+            "baslik": "İstatistiki verilerden yararlanarak nüfus özellikleri ve nüfusun önemi hakkında çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Nüfus artış ve azalışının olumlu ve olumsuz etkilerine örnek ülkeler üzerinden yer verilir.",
+              "b": "Nitelikli genç nüfusun ülkelerin kalkınmasındaki önemi vurgulanır.",
+              "c": "Nüfus artış hızı ile ülkelerin kalkınması arasındaki ilişkiye yer verilir."
+            },
+            "ozel_program": false
+          },
+          "10.2.2": {
+            "baslik": "İstatistiki verilerden yararlanarak dünya nüfusunun tarihsel süreçteki değişimine ilişkin çıkarımlarda bulunur.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.2.3": {
+            "baslik": "Nüfusun dağılışı üzerinde etkili olan faktörler ile dünya nüfusunun dağılışını ilişkilendirir.",
+            "aciklama": {
+              "a": "Nüfus yoğunluğunu hesaplama yöntemlerinden sadece “Aritmetik Nüfus Yoğunluğu”na yer verilir."
+            },
+            "ozel_program": false
+          },
+          "10.2.4": {
+            "baslik": "Nüfus piramitlerinden hareketle nüfusun yapısıyla ilgili çıkarımlarda bulunur.",
+            "aciklama": {
+              "b": "Nüfus piramidi oluşturulması sağlanır."
+            },
+            "ozel_program": false
+          },
+          "10.2.5": {
+            "baslik": "Türkiye’de nüfusun tarihsel seyrini sosyal ve ekonomik faktörler açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.2.6": {
+            "baslik": "Türkiye’de nüfusun dağılışını, nüfusun dağılışında etkili olan faktörler açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.2.7": {
+            "baslik": "Güncel verilerden yararlanarak Türkiye nüfusunun yapısal özelliklerini analiz eder.",
+            "aciklama": {
+              "a": "Türkiye nüfusunun cinsiyet yapısı verilirken toplumsal cinsiyet adaleti ve eşitliğine değinilir."
+            },
+            "ozel_program": false
+          },
+          "10.2.8": {
+            "baslik": "Tarihî metin, belge ve haritalardan yararlanarak dünyadaki göçlerin nedenleri ve sonuçları hakkında çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Tarihteki önemli Türk göçlerinin sebepleri üzerinde durulur.",
+              "b": "Güncel mülteci göçlerine yer verilir ."
+            },
+            "ozel_program": false
+          },
+          "10.2.9": {
+            "baslik": "Türkiye’deki göçleri sebep ve sonuçları açısından değerlendirir.",
+            "aciklama": {
+              "a": "Cumhuriyet’ten günümüze gerçekleşen iç ve dış göçlerin ekonomik, sosyal ve kültürel etkilerine yer verilir.",
+              "b": "Türkiye’ye göç etmek zorunda kalan topluluklara karşı saygılı ve paylaşımcı bir tutum sergilemenin gerekliliği vurgulanır."
+            },
+            "ozel_program": false
+          },
+          "10.2.10": {
+            "baslik": "Göçün mekânsal etkilerini Türkiye'den örneklerle açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.2.11": {
+            "baslik": "Ekonomik faaliyetleri temel özelliklerine göre ayırt eder.",
+            "aciklama": {
+              "a": "Birincil, ikincil, üçüncül, dördüncül ve beşincil faaliyetlere yer verilir.",
+              "b": "Ulaşım ve iletişimin ekonomik faaliyetler üzerindeki etkilerine değinilir."
+            },
+            "ozel_program": false
+          },
+          "10.2.12": {
+            "baslik": "Ekonomik faaliyet türlerinin oransal dağılımına ilişkin verileri, ülkelerin gelişmişlik düzeyleriyle ilişkilendirerek çıkarımda",
+            "aciklama": {
+              "a": "bulunur. 108 KÜRESEL ORTAM: BÖLGELER VE ÜLKELER"
+            },
+            "ozel_program": false
+          }
+        },
+        "Küresel Ortam: Bölgeler ve Ülkeler": {
+          "10.3.1": {
+            "baslik": "Uluslararası ulaşım hatlarını bölgesel ve küresel etkileri açısından analiz eder.",
+            "aciklama": {
+              "a": "İstanbul’daki   3. Hava Limanı ve Kanal İstanbul projelerinin bölgesel ve küresel etkilerine yer verilir. ÇEVRE VE TOPLUM"
+            },
+            "ozel_program": false
+          }
+        },
+        "Çevre ve Toplum": {
+          "10.4.1": {
+            "baslik": "Afetlerin oluşum nedenlerini ve özelliklerini açıklar.",
+            "aciklama": {
+              "a": "Coğrafi problemlerin çözümünde CBS ve diğer mekânsal teknolojilerden yararlanıldığına dair örneklere yer verilir."
+            },
+            "ozel_program": false
+          },
+          "10.4.2": {
+            "baslik": "Afetlerin dağılışları ile etkilerini ilişkilendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.4.3": {
+            "baslik": "Türkiye’deki afetlerin dağılışları ile etkilerini ilişkilendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "10.4.4": {
+            "baslik": "Afetlerden korunma yöntemlerini açıklar.",
+            "aciklama": {
+              "a": "Farklı ülkelerde doğal afetlere karşı yapılan uygulamalara yer verilir.",
+              "b": "Ülkemizde depremler başta olmak üzere, afetlere karşı bilinç oluşturmanın önemi üzerinde durulur.",
+              "c": "Afetlerin meydana gelme sürecinde bireylere düşen sorumluluklara değinilir."
+            },
+            "ozel_program": false
+          }
+        }
+      },
+      "11": {
+        "Doğal Sistemler": {
+          "11.1.1": {
+            "baslik": "Biyoçeşitliliğin oluşumu ve azalmasında etkili olan faktörleri açıklar.",
+            "aciklama": {
+              "a": "Öğrencilerin biyoçeşitliliğin korunması için yapılan çalışmalar hakkında bilgi toplamaları, bireysel ya da grup olarak biyoçeşitliliğin korunması konusunda halkı bilinçlendirmek amacıyla kamu spotu hazırlamaları sağlanır."
+            },
+            "ozel_program": false
+          },
+          "11.1.2": {
+            "baslik": "Ekosistemi oluşturan unsurları ayırt eder.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "11.1.3": {
+            "baslik": "Madde döngüleri ve enerji akışını ekosistemin devamlılığı açısından analiz eder.",
+            "aciklama": {
+              "a": "Azot, karbon, su ve besin döngüleri ile enerji akışına yer verilir.",
+              "b": "İnsan faaliyetlerinin karbon, azot, oksijen ve su döngülerine olan etkileri örneklendirilir."
+            },
+            "ozel_program": false
+          },
+          "11.1.4": {
+            "baslik": "Su ekosisteminin unsurlarını ve işleyişini açıklar.",
+            "aciklama": {
+              "a": "Su döngüsü ve dünyadaki su varlığının doğal sistemlerin işleyişi üzerindeki etkilerine değinilir.",
+              "b": "Ramsar Sözleşmesi’ne vurgu yapılır.",
+              "c": "Türkiye’deki sulak alanların endemik zenginliğinin önemi ve korunmasının gerekliliği üzerinde durulur. 109 BEŞERİ SİSTEMLER"
+            },
+            "ozel_program": true
+          }
+        },
+        "Beşerî Sistemler": {
+          "11.2.1": {
+            "baslik": "Ülkelerin farklı dönemlerde izledikleri nüfus politikaları ve sonuçlarını karşılaştırır.",
+            "aciklama": {
+              "a": "Dönemsel olarak nüfus politikalarında farklılık görülen bir ülkenin nüfus politikalarının incelenmesi sağlanır.",
+              "b": "Günümüzde farklı ülkelerin izlediği nüfus politikaları karşılaştırılır."
+            },
+            "ozel_program": false
+          },
+          "11.2.2": {
+            "baslik": "Türkiye’nin nüfus politikalarını gerekçeleri açısından değerlendirir.",
+            "aciklama": {
+              "a": "TÜİK verilerinden hareketle Türkiye’de nüfus politikalarındaki değişimin grafik, tablo vb. kullanılarak yorumlanması sağlanır. 11.2.3 . Türkiye’nin nüfus projeksiyonlarına dayalı senaryolar oluşturur. Farklı nüfus senaryolarına göre Türkiye’nin nüfus yapısına ilişkin çıkarımlara yer verilir."
+            },
+            "ozel_program": true
+          },
+          "11.2.4": {
+            "baslik": "Şehirleri fonksiyonel özellikleri açısından karşılaştırır.",
+            "aciklama": {
+              "a": "Tarihsel süreçte şehirlerin fonksiyonel özelliklerindeki değişimlerin küresel etkilerine yer verilir.",
+              "b": "Tarihsel süreçteki başlıca Türk-İslam şehirlerinin (Semerkant, Buhara, Konya vb.) öne çıkan özelliklerine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.5": {
+            "baslik": "Şehirlerin küresel ve bölgesel etkilerini fonksiyonel açıdan yorumlar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.2.6": {
+            "baslik": "Türkiye’deki şehirleri fonksiyonlarına göre ayırt eder.",
+            "aciklama": {
+              "a": "Türkiye’den örneklerle “Sakin Şehirler”e yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.7": {
+            "baslik": "Türkiye’deki kır yerleşme tiplerini ayırt eder.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.2.8": {
+            "baslik": "Doğal unsurları üretim, dağıtım ve tüketim süreçleri üzerindeki etkisi açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "11.2.9": {
+            "baslik": "Beşerî unsurları üretim, dağıtım ve tüketim süreçleri üzerindeki etkisi açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "11.2.10": {
+            "baslik": "Üretim, dağıtım ve tüketim sektörleri arasındaki ilişkiyi ekonomiye etkisi açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.2.11": {
+            "baslik": "Doğal kaynaklar ile ekonomi ilişkisini açıklar.",
+            "aciklama": {
+              "a": "Doğal kaynaklar sınıflandırılır.",
+              "b": "Tarihsel süreçte “doğal kaynakların değeri ve kullanımındaki değişim”e farklı bölgelerden örneklerle yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.12": {
+            "baslik": "Türkiye’deki doğal kaynaklar ile ekonomi arasındaki ilişkiyi analiz eder.",
+            "aciklama": {
+              "a": "Türkiye’deki doğal kaynakların ekonomiye yansımasının, istatistiki veriler ve görsellerden yararlanarak yorumlanması sağlanır."
+            },
+            "ozel_program": true
+          },
+          "11.2.13": {
+            "baslik": "Türkiye’de uygulanan ekonomi politikalarını mekânsal etkileri açısından değerlendirir.",
+            "aciklama": {
+              "a": "Cumhuriyet’ten günümüze izlenen ekonomik politikalar içinde mekânsal farklılıkları gidermeye yönelik projeler ve uygulamalar ele alınır."
+            },
+            "ozel_program": false
+          },
+          "11.2.14": {
+            "baslik": "Türkiye ekonomisinin sektörel dağılımından hareketle ülke ekonomisi hakkında çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Tarihsel süreçte sektörel değişime yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.15": {
+            "baslik": "Türkiye’de tarım sektörünün özelliklerini açıklar.",
+            "aciklama": {
+              "a": "Tarım, hayvancılık, ormancılık ve balıkçılıkla ilgili temel kavramlara yer verilir.",
+              "b": "Türkiye'de tarımsal üretimi etkileyen faktörlere yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.16": {
+            "baslik": "Tarımın Türkiye ekonomisindeki yerini açıklar.",
+            "aciklama": {
+              "a": "Türkiye'de yetiştirilen başlıca tarımsal ürünlerin dağılışına yer verilir.",
+              "b": "Ülkelerin, tarımsal üretimdeki yeterliğinin önemine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.17": {
+            "baslik": "Türkiye'nin madenleri ve enerji kaynaklarının dağılışını açıklar.",
+            "aciklama": {
+              "a": "Madenlerin ve enerji kaynaklarının başlıca özelliklerine (rezerv, kullanım alanları v",
+              "b": "Madenlerin ve enerji kaynaklarının dağılışının harita üzerinden gösterilmesi sağlanır. 110",
+              "c": "Ülkemizde yaşanan maden kazalarına değinilerek madenlerde alınması gereken iş sağlığı ve güvenliği önlemlerine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.18": {
+            "baslik": "Türkiye’nin maden ve enerji kaynaklarının etkin kullanımını ülke ekonomisine katkısı açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "11.2.19": {
+            "baslik": "Türkiye'de sanayi sektörünün özelliklerini açıklar.",
+            "aciklama": {
+              "a": "Türkiye'de sanayiyi etkileyen faktörlere yer verilir.",
+              "b": "Türkiye’de sanayi sektörünün dağılışına yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.2.20": {
+            "baslik": "Türkiye sanayisini, ülke ekonomisindeki yeri açısından analiz eder.",
+            "aciklama": {
+              "a": "Savunma sanayi alanında ki  gelişmelere de yer verilir. KÜRESEL ORTAM: BÖLGELER VE ÜLKELER"
+            },
+            "ozel_program": false
+          }
+        },
+        "Küresel Ortam: Bölgeler ve Ülkeler": {
+          "11.3.1": {
+            "baslik": "İlk kültür merkezlerinin ortaya çıkışı, yayılışı ve dağılışlarını belirleyen faktörleri açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.3.2": {
+            "baslik": "Farklı kültürel bölgelerin yeryüzünde yayılışına etki eden faktörleri açıklar.",
+            "aciklama": {
+              "a": "Kültürü oluşturan unsurlara yer verilir.",
+              "b": "Farklı kültür bölgelerinin dağılış ve yayılış güzergâhları (İslam, Çin, Hint, Batı, Doğu, Slav-Rus ve Afrika kültür bölgeleri) dikkate alınarak kültür ile mekân arasındaki ilişkiye yer verilir.",
+              "c": "Kültürel çeşitliliğin önemine değinilerek farklı kültürlere karşı saygılın olmanın gerekliliği vurgulanır."
+            },
+            "ozel_program": false
+          },
+          "11.3.3": {
+            "baslik": "Türk kültürünün yayılış alanlarını bölgesel özellikler açısından analiz eder.",
+            "aciklama": {
+              "a": "Türk kültürünün doğuşu, gelişimi ve özellikleri mekânla ilişkilendirilerek verilir.",
+              "b": "Türk kültürünü temsil eden başlıca maddi ve manevi unsurlara örnekler üzerinden yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.3.4": {
+            "baslik": "Türkiye’nin tarih boyunca medeniyetler merkezi olmasını konumu açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.3.5": {
+            "baslik": "Ülkeler ve bölgeler arasındaki ticaret ile ham madde, üretim ve pazar alanlarını ilişkilendirir.",
+            "aciklama": {
+              "a": "Dünya üzerindeki önemli ham madde, üretim ve pazar alanlarının oluşumunda etkili olan faktörler ile bu alanlar arasındaki ilişkiye yer verilir."
+            },
+            "ozel_program": true
+          },
+          "11.3.6": {
+            "baslik": "Ülkeler arası etkileşimde turizm faaliyetlerinin rolünü açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.3.7": {
+            "baslik": "Sanayileşmiş bir ülkeyi sanayileşme süreçleri açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "11.3.8": {
+            "baslik": "Farklı gelişmişlik düzeylerine sahip ülkelerin tarım-ekonomi ilişkisini analiz eder.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.3.9": {
+            "baslik": "Bölgesel ve küresel ölçekteki örgütleri etki alanları açısından değerlendirir.",
+            "aciklama": {
+              "a": "Bölgesel ve küresel ölçekteki örgütlerin (AB, BDT, BM, D-8, G-20, İİT, KEİK, NATO, OECD, OPEC) amaçları, işlevleri ve etki alanları itibarıyla tanıtılır.",
+              "b": "Türkiye’nin küresel ve  bö lgesel ölçekteki siyasi, askeri ve ekonomik örgütlerle ilişkisine yer verilir. 111 ÇEVRE VE TOPLUM"
+            },
+            "ozel_program": false
+          }
+        },
+        "Çevre ve Toplum": {
+          "11.4.1": {
+            "baslik": "Çevre sorunlarını oluşum sebeplerine göre sınıflandırır.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "11.4.2": {
+            "baslik": "Madenlerin ve enerji kaynaklarının çevre üzerindeki etkilerini örneklerle açıklar.",
+            "aciklama": {
+              "a": "Madenlerin ve enerji kaynaklarının üretimi, dağıtımı ve tüketimindeki etkilerine yer verilir."
+            },
+            "ozel_program": true
+          },
+          "11.4.3": {
+            "baslik": "Yenilenemeyen kaynakların kullanımını tükenebilirlik ve alternatif kaynaklar açısından analiz eder.",
+            "aciklama": {
+              "a": "Yenilenemeyen enerji kaynaklarının kullanımı konusunda bireylere düşen sorumluluklar üzerinde durulur."
+            },
+            "ozel_program": false
+          },
+          "11.4.4": {
+            "baslik": "Farklı gelişmişliğe sahip ülkelerdeki doğal kaynak kullanımını çevresel etkileri açısından değerlendirir.",
+            "aciklama": {
+              "a": "Doğal kaynakların etkin kullanımında çevre planlamasının önemine değinilir.",
+              "b": "Türkiye'den örneklere yer verilir."
+            },
+            "ozel_program": false
+          },
+          "11.4.5": {
+            "baslik": "Arazi kullanımına ilişkin farklı uygulamaları çevre üzerindeki etkileri açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "11.4.6": {
+            "baslik": "Çevre sorunlarının oluşum ve yayılma süreçlerini küresel etkileri açısından analiz eder.",
+            "aciklama": {
+              "a": "Çevre ve insan sağlığı açısından atıklardan korunma yöntemlerine yer verilir.",
+              "b": "Teknolojik değişimlerin çevresel sonuçları ve insana etkilerine örnekler üzerinden değinilir."
+            },
+            "ozel_program": false
+          },
+          "11.4.7": {
+            "baslik": "Doğal kaynakların sürdürülebilir kullanımını geri dönüşüm stratejileri açısından değerlendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          }
+        }
+      },
+      "12": {
+        "Doğal Sistemler": {
+          "12.1.1": {
+            "baslik": "Doğa olaylarının ekstrem durumlarını ve etkilerini açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "12.1.2": {
+            "baslik": "Doğal sistemlerdeki değişimlerle ilgili geleceğe yönelik çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Gelecekte, doğal sistemlerdeki değişimlerin canlı yaşamı üzerindeki olası sonuçlarına vurgu yapılır.",
+              "b": "Çölleşme ve çölleşmeye karşı alınması gereken önlemler üzerinde durulur.",
+              "c": "Kyoto Protokolü’ne değinilir. 112 BEŞERİ SİSTEMLER"
+            },
+            "ozel_program": true
+          }
+        },
+        "Beşerî Sistemler": {
+          "12.2.1": {
+            "baslik": "Bir bölgedeki baskın ekonomik faaliyet türünü sosyal ve kültürel hayata etkileri açısından analiz eder.",
+            "aciklama": {
+              "a": "Tarım, sanayi, hizmet gibi ekonomik faaliyetlerin, sosyal ve kültürel hayata olan etkilerine yer verilir."
+            },
+            "ozel_program": true
+          },
+          "12.2.2": {
+            "baslik": "Şehirleşme, göç ve sanayileşme ilişkisini toplumsal etkileri açısından yorumlar.",
+            "aciklama": {
+              "a": "Şehir hayatı içerisinde, birlikte yaşamanın gereği olarak öz denetimin önemi vurgulanır."
+            },
+            "ozel_program": false
+          },
+          "12.2.3": {
+            "baslik": "Nüfus, yerleşme ve ekonomik faaliyetlerde gelecekte olabilecek değişimlerle ilgili çıkarımlarda bulunur.",
+            "aciklama": {
+              "a": "Teknolojik değişimler ve doğa ilişkisine ait örneklerden yararlanılarak doğa ve uzayın kullanımına ait değerlendirmelere yer verilir ."
+            },
+            "ozel_program": true
+          },
+          "12.2.4": {
+            "baslik": "Ülkemizdeki işlevsel bölgeleri özelliklerine göre analiz eder.",
+            "aciklama": {
+              "a": "İşlevsel bölgenin tanımına ve hangi kriterlere göre belirlendiğine yer verilir.",
+              "b": "İşlevsel bölgelerin oluşturulma gerekçelerine yer verilir.",
+              "c": "Türkiye İstatistik Kurumu, Karayolları Genel Müdürlüğü, Devlet Su İşleri Genel Müdürlüğü, Devlet Meteoroloji İşleri Genel Müdürlüğü, Orman Genel Müdürlüklerine ait işlevsel bölge örneklerine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.2.5": {
+            "baslik": "Türkiye’deki bölgesel kalkınma projelerini ekonomik, sosyal ve kültürel etkileri açısından değerlendirir.",
+            "aciklama": {
+              "a": "Kalkınma projelerinin gerekçeleri üzerinde durulur."
+            },
+            "ozel_program": false
+          },
+          "12.2.6": {
+            "baslik": "Hizmet sektörünün Türkiye’nin ekonomik kalkınmasıyla olan ilişkisini açıklar.",
+            "aciklama": {
+              "a": "Ulaşım, ticaret ve turizm sektörlerine vurgu yapılır."
+            },
+            "ozel_program": false
+          },
+          "12.2.7": {
+            "baslik": "Ulaşım sisteminin gelişiminde etkili olan faktörleri açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "12.2.8": {
+            "baslik": "Ulaşım ağları ile yerleşme ve ekonomik faaliyetler arasında ilişki kurar.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "12.2.9": {
+            "baslik": "Türkiye’deki ulaşım sisteminin gelişim sürecini açıklar.",
+            "aciklama": {
+              "a": "İstatistiki veriler ve grafiklerden yararlanarak ulaşım sistemindeki gelişmelerin ülkemiz için önemine vurgu yapılır."
+            },
+            "ozel_program": false
+          },
+          "12.2.10": {
+            "baslik": "Dünya ticaret merkezleri ve ağlarını küresel ekonomideki yerleri açısından analiz eder.",
+            "aciklama": {
+              "a": "Avrupa Birliği, Kuzey Amerika Serbest Ticaret Bölgesi, Güney Ortak Pazarı ve Uzak Doğu Ticaret Bölgesi’ne yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.2.11": {
+            "baslik": "Türkiye’deki ticaret merkezlerinin ticarete konu olan ürünlere ve akış yönlerine etkilerini açıklar.",
+            "aciklama": {
+              "a": "Ticaret uygulamalarına yer verilerek e-ticarette siber güvenliğin önemine vurgu yapılır. 12.2.12 . Tarihî ticaret yollarını Türkiye'nin konumu açısından değerlendirir. İpek ve baharat yollarına yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.2.13": {
+            "baslik": "Türkiye’nin dış ticaretini ve dünya pazarlarındaki yerini ticarete konu olan ürünler açısından analiz eder.",
+            "aciklama": {
+              "a": "Ticarete konu olan ürünler ve ticaretin Türkiye ekonomisindeki önemi vurgulanır."
+            },
+            "ozel_program": false
+          },
+          "12.2.14": {
+            "baslik": "Türkiye'deki doğal ve kültürel sembollerin mekânla ilişkisini açıklar.",
+            "aciklama": {
+              "a": "Türkiye'deki doğal ve kültürel sembollerin mekân algısına olan etkisine yer verilir.",
+              "b": "Türkiye’nin dünya miras listesinde yer alan doğal varlıklar ile şehirleri sembolize eden doğal ve kültürel değerlere yer verilir.",
+              "c": "Coğrafi işaret kavramı ve Türkiye’deki örneklerine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.2.15": {
+            "baslik": "Türkiye’nin turizm potansiyelini ve varlıklarını açıklar.",
+            "aciklama": {
+              "a": "12.2.16 .Türkiye’nin turizm politikalarını çevresel, kültürel ve ekonomik etkileri açısından değerlendirir."
+            },
+            "ozel_program": false
+          },
+          "12.2.17": {
+            "baslik": "Turizmin Türkiye ekonomisindeki yerini değerlendirir.",
+            "aciklama": {
+              "a": "Türkiye’nin turizmdeki yeri diğer ülkelerle karşılaştırılarak verilir. 113 KÜRESEL ORTAM: BÖLGELER VE ÜLKELER"
+            },
+            "ozel_program": true
+          }
+        },
+        "Küresel Ortam: Bölgeler ve Ülkeler": {
+          "12.3.1": {
+            "baslik": "Kıtaların ve okyanusların konumsal önemindeki değişimi örneklerle açıklar.",
+            "aciklama": {
+              "a": "Tarihsel süreçte kıtaların ve okyanusların konumsal önemini etkileyen faktörlere ve değişimine yer verilir.",
+              "b": "Coğrafi keşiflerle birlikte sömürgeciliğe de yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.3.2": {
+            "baslik": "Ülkelerin konumunun bölgesel ve küresel etkilerini değerlendirir.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "12.3.3": {
+            "baslik": "Tarihsel süreçte Türkiye’nin jeopolitik konumunu değerlendirir.",
+            "aciklama": {
+              "a": "Kıbrıs’ın, Türkiye’nin jeopolitik konumuna olan etkisine yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.3.4": {
+            "baslik": "Türkiye’nin içinde yer aldığı jeopolitik bölgelerle olan ilişkisini açıklar.",
+            "aciklama": {
+              "a": "Ülkemizin bölgesel ve küresel bağlantılar açısından önemli bir ulaşım merkezi olduğu vurgulanır."
+            },
+            "ozel_program": true
+          },
+          "12.3.5": {
+            "baslik": "Türk kültür bölgeleri ile ülkemiz arasındaki tarihî ve kültürel bağları açıklar.",
+            "aciklama": {
+              "a": "Kültür havzamızı oluşturan Türkistan, Kafkasya, Balkanlar, Ortadoğu ve Kuzey Afrika ile ülkemiz arasındaki tarihî ve kültürel etkileşime yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.3.6": {
+            "baslik": "Teknolojik gelişmelerin, bölgeler ve ülkeler arası kültürel ve ekonomik etkileşimdeki rolünü açıklar.",
+            "aciklama": {},
+            "ozel_program": true
+          },
+          "12.3.7": {
+            "baslik": "Ülkelerin gelişmişlik seviyelerinin belirlenmesinde etkili olan faktörleri açıklar.",
+            "aciklama": {
+              "a": "Ülkelerin gelişiminde inovasyon, girişimcilik ve dijitalleşmenin önemine vurgu yapılır."
+            },
+            "ozel_program": false
+          },
+          "12.3.8": {
+            "baslik": "Gelişmiş ve gelişmekte olan ülkelerin ekonomik özelliklerini karşılaştırır.",
+            "aciklama": {
+              "a": "Gelişmiş ve gelişmekte olan ülkelerin farklı gelişmişliklerinin nedenleri üzerinde durulur.",
+              "b": "Gayrisafi Millî Hasıla ve İnsani Gelişme Endeksi (İGE) gibi gelişmişlik ölçütlerinden yararlanılır."
+            },
+            "ozel_program": false
+          },
+          "12.3.9": {
+            "baslik": "Ülkelerin bölgesel ve küresel ilişkilerini doğal kaynak potansiyeli açısından değerlendirir.",
+            "aciklama": {
+              "a": "Doğal kaynaklar üzerinde, küresel güçlerin ekonomik ve siyasi etkilerine de yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.3.10": {
+            "baslik": "Dünyadaki başlıca enerji nakil hatlarının bölge ve ülkelere etkisini açıklar.",
+            "aciklama": {
+              "a": "Türkiye’nin enerji koridoru olma özelliğine değinilir. 12.3.11 .Ülkeler arasında sorun oluşturan mekânsal unsurları günümüz çatışma alanlarıyla ilişkilendirir. Sınır aşan sular sorunu dü n yadan ve Türkiye’den örneklerle ele alınır. 114 ÇEVRE VE TOPLUM"
+            },
+            "ozel_program": false
+          }
+        },
+        "Çevre ve Toplum": {
+          "12.4.1": {
+            "baslik": "Doğal çevrenin sınırlılığını açıklar.",
+            "aciklama": {
+              "a": "kavramlarının ilişkilendirilmesi sağlanır.",
+              "b": "Sınırlı kaynak, tükenebilirlik, aşırı baskı, çevre sorunu ve doğayla uyumlu kalkınma (sürdürülebilir kalkınm"
+            },
+            "ozel_program": true
+          },
+          "12.4.2": {
+            "baslik": "Farklı gelişmişlik düzeyine sahip ülkelerin çevre sorunlarının önlenmesine yönelik politika ve uygulamalarını karşılaştırır.",
+            "aciklama": {
+              "a": "Çevre sorunlarının önlenmesinde insana düşen sorumluluğa yer verilir."
+            },
+            "ozel_program": false
+          },
+          "12.4.3": {
+            "baslik": "Çevresel örgüt ve anlaşmaların çevre yönetimi ve korunmasına etkilerini açıklar.",
+            "aciklama": {},
+            "ozel_program": false
+          },
+          "12.4.4": {
+            "baslik": "Ortak doğal ve kültürel mirasa yönelik tehditleri açıklar.",
+            "aciklama": {
+              "a": "Doğal ve kültürel mirasa  yö nelik tehditlere karşı duyarlı olmanın önemine vurgu yapılır. Not:  Kırmızı renkle gösterilen kazanımlar ve açıklamalar, 11 ve 12. sınıf seviyesinde sadece 4 saatlik öğretim programında yer alan kazanım ve açıklamalardır. 115"
+            },
+            "ozel_program": true
+          }
+        }
+      }
+    }
+  }
+}
