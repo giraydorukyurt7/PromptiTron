@@ -1,2 +1,15 @@
-Transcripts
-Wordclouds
+chroma_db/chroma.sqlite3
+chroma_db/2b335118-722d-4a39-ab7a-d973cde8931a/data_level0.bin
+chroma_db/2b335118-722d-4a39-ab7a-d973cde8931a/header.bin
+chroma_db/2b335118-722d-4a39-ab7a-d973cde8931a/index_metadata.pickle
+chroma_db/2b335118-722d-4a39-ab7a-d973cde8931a/length.bin
+chroma_db/2b335118-722d-4a39-ab7a-d973cde8931a/link_lists.bin
+chroma_db/2dc1d66f-0755-4d75-ba68-8df1e78637e6/data_level0.bin
+chroma_db/2dc1d66f-0755-4d75-ba68-8df1e78637e6/header.bin
+chroma_db/2dc1d66f-0755-4d75-ba68-8df1e78637e6/index_metadata.pickle
+chroma_db/2dc1d66f-0755-4d75-ba68-8df1e78637e6/length.bin
+chroma_db/2dc1d66f-0755-4d75-ba68-8df1e78637e6/link_lists.bin
+chroma_db/405a8611-cc08-45ce-80eb-306e2183fb62/data_level0.bin
+chroma_db/405a8611-cc08-45ce-80eb-306e2183fb62/header.bin
+chroma_db/405a8611-cc08-45ce-80eb-306e2183fb62/length.bin
+chroma_db/405a8611-cc08-45ce-80eb-306e2183fb62/link_lists.bin
