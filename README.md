@@ -1,5 +1,7 @@
 # PromptiTron
 
+![PromptiTron Hero Screenshot](screenshots/Screenshot_1.jpg)
+
 PromptiTron is a curriculum-aware educational assistant that combines Retrieval-Augmented Generation (RAG), LLM-based workflows, and multiple user interfaces for learning support.
 
 The project is designed as a practical AI education system with support for:
@@ -32,27 +34,193 @@ This repository should be viewed as a multi-interface educational assistant proj
 - Multi-interface usage through console, API, and web UI
 - Docker-ready deployment structure
 
-## Architecture
+## Visual Overview & Screenshots
 
-### Backend
-- Python
-- FastAPI
-- Pydantic
-- ChromaDB
-- LangChain / LangGraph
-- Google Gemini integration
+[Open the visual overview PDF](https://github.com/giraydorukyurt7/PromptiTron/blob/main/screenshots/PromptiTron_Visual_Overview.pdf)
 
-### Frontend
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
+| | | |
+| :---: | :---: | :---: |
+| ![1](screenshots/Screenshot_1.jpg) | ![2](screenshots/Screenshot_2.jpg) | ![3](screenshots/Screenshot_3.jpg) |
+| ![4](screenshots/Screenshot_4.jpg) | ![5](screenshots/Screenshot_5.jpg) | ![6](screenshots/Screenshot_6.jpg) |
+| ![7](screenshots/Screenshot_7.jpg) | ![8](screenshots/Screenshot_8.jpg) | ![9](screenshots/Screenshot_9.jpg) |
+| ![10](screenshots/Screenshot_10.jpg) | ![11](screenshots/Screenshot_11.jpg) | ![12](screenshots/Screenshot_12.jpg) |
+| ![13](screenshots/Screenshot_13.jpg) | ![14](screenshots/Screenshot_14.jpg) | ![15](screenshots/Screenshot_15.jpg) |
+| ![16](screenshots/Screenshot_16.jpg) | ![17](screenshots/Screenshot_17.jpg) | ![18](screenshots/Screenshot_18.jpg) |
+| ![19](screenshots/Screenshot_19.jpg) | ![20](screenshots/Screenshot_20.jpg) | ![21](screenshots/Screenshot_21.jpg) |
+| ![22](screenshots/Screenshot_22.jpg) | ![23](screenshots/Screenshot_23.jpg) | ![24](screenshots/Screenshot_24.jpg) |
 
-### Interfaces
-- Console app
-- REST API
-- Web frontend
+## System Architecture
+
+```mermaid
+flowchart TB
+    User[👤 Student] --> UI[🖥️ Web UI]
+
+    subgraph Frontend["📱 Frontend Layer"]
+        UI --> Pages[📄 Pages]
+        Pages --> Components[🧩 Components]
+        Components --> Hooks[🔗 API Hooks]
+    end
+
+    Hooks --> API[🌐 FastAPI]
+
+    subgraph APILayer["🔧 API Layer"]
+        API --> Routers[📍 Routers]
+        Routers --> Controllers[⚙️ Controllers]
+    end
+
+    Controllers --> AICore[🤖 AI Core]
+
+    subgraph AISystem["🧠 AI System"]
+        AICore --> Gemini[✨ Gemini 2.5]
+        AICore --> Agents[👨‍🏫 Experts]
+        AICore --> Memory[💭 Memory]
+    end
+
+    AICore --> RAG[🔍 RAG Engine]
+
+    subgraph RAGSystem["🔍 RAG System"]
+        RAG --> ChromaDB[(📊 ChromaDB)]
+        RAG --> Search[🔍 Search]
+        RAG --> Embeddings[🔢 Embeddings]
+    end
+
+    subgraph DataLayer["💾 Data Layer"]
+        JSON[(📚 JSON Files)]
+        SQLite[(🗄️ SQLite DB)]
+        Uploads[(📁 File Storage)]
+    end
+
+    subgraph External["🌍 External APIs"]
+        GoogleAPI[🔮 Google API]
+        YouTubeAPI[🎥 YouTube API]
+    end
+
+    ChromaDB --> JSON
+    Memory --> SQLite
+    Controllers --> Uploads
+    Gemini --> GoogleAPI
+    AICore --> YouTubeAPI
+```
+
+## Data Flow
+
+```mermaid
+flowchart TD
+    User[👤 User] --> InputType{🎯 Input Type}
+
+    InputType -->|Chat| ChatFlow[💬 Chat]
+    InputType -->|Questions| QuestionFlow[❓ Questions]
+    InputType -->|File| FileFlow[📄 File]
+    InputType -->|YouTube| YouTubeFlow[🎥 YouTube]
+    InputType -->|Curriculum| CurriculumFlow[📚 Curriculum]
+
+    ChatFlow --> Validate1[✅ Validation]
+    QuestionFlow --> Validate2[✅ Validation]
+    FileFlow --> Validate3[✅ Validation]
+    YouTubeFlow --> Validate4[✅ Validation]
+    CurriculumFlow --> Validate5[✅ Validation]
+
+    Validate1 --> Process1[⚙️ Processing]
+    Validate2 --> Process2[⚙️ Processing]
+    Validate3 --> Process3[⚙️ Processing]
+    Validate4 --> Process4[⚙️ Processing]
+    Validate5 --> Process5[⚙️ Processing]
+
+    Process1 --> Context[🔧 Context Builder]
+    Process2 --> Context
+    Process3 --> Context
+    Process4 --> Context
+    Process5 --> Context
+
+    Context --> RAGCheck{🔍 RAG Needed?}
+
+    RAGCheck -->|Yes| RAGSystem[🔍 RAG System]
+    RAGCheck -->|No| AgentRouter[🤖 Agent Router]
+
+    RAGSystem --> VectorSearch[🔢 Vector Search]
+    VectorSearch --> ChromaDB[(📊 ChromaDB)]
+    ChromaDB --> ContextAugment[➕ Context Enrichment]
+
+    ContextAugment --> AgentRouter
+    AgentRouter --> ExpertSelect{👨‍🏫 Expert Selection}
+
+    ExpertSelect -->|Math| MathExpert[📐 Mathematics]
+    ExpertSelect -->|Physics| PhysicsExpert[⚛️ Physics]
+    ExpertSelect -->|Chemistry| ChemExpert[🧪 Chemistry]
+    ExpertSelect -->|Biology| BioExpert[🧬 Biology]
+    ExpertSelect -->|General| GeneralExpert[🎓 General]
+
+    MathExpert --> LLMProcess[🤖 LLM Processing]
+    PhysicsExpert --> LLMProcess
+    ChemExpert --> LLMProcess
+    BioExpert --> LLMProcess
+    GeneralExpert --> LLMProcess
+
+    LLMProcess --> GeminiAPI[✨ Gemini API]
+    GeminiAPI --> ResponseGen[📝 Response Generation]
+
+    ResponseGen --> ResponseVal[✅ Response Validation]
+    ResponseVal --> MemoryUpdate[💭 Memory Update]
+
+    MemoryUpdate --> FinalOutput[📤 Output]
+    FinalOutput --> User
+
+    Validate1 -->|Error| ErrorHandler[❌ Error]
+    Validate2 -->|Error| ErrorHandler
+    Validate3 -->|Error| ErrorHandler
+    Validate4 -->|Error| ErrorHandler
+    Validate5 -->|Error| ErrorHandler
+    GeminiAPI -->|API Error| ErrorHandler
+
+    ErrorHandler --> ErrorResponse[⚠️ Error Response]
+    ErrorResponse --> User
+```
+
+## Input / Output Processes
+
+```mermaid
+flowchart LR
+    subgraph Inputs["📥 INPUTS"]
+        Chat[💬 Chat Message]
+        Questions[❓ Question Parameters]
+        Files[📄 File Upload]
+        YouTube[🎥 YouTube URL]
+        Curriculum[📚 Curriculum Selection]
+    end
+
+    subgraph Processing["⚙️ PROCESSING"]
+        Validate[✅ Validation]
+        Context[🔧 Context Building]
+        RAG[🔍 RAG Search]
+        Agent[🤖 Agent Selection]
+        LLM[✨ LLM Processing]
+    end
+
+    subgraph Outputs["📤 OUTPUTS"]
+        ChatResp[💬 Chat Response]
+        QuestList[❓ Question List]
+        Analysis[📊 Content Analysis]
+        VideoSum[🎥 Video Summary]
+        CurriculumOut[📚 Curriculum Output]
+    end
+
+    Chat --> Validate
+    Questions --> Validate
+    Files --> Validate
+    YouTube --> Validate
+    Curriculum --> Validate
+
+    Validate --> Context
+    Context --> RAG
+    RAG --> Agent
+    Agent --> LLM
+
+    LLM --> ChatResp
+    LLM --> QuestList
+    LLM --> Analysis
+    LLM --> VideoSum
+    LLM --> CurriculumOut
+```
 
 ## Project Structure
 
@@ -66,6 +234,7 @@ PromptiTron/
 ├── chroma_db/            # Vector database persistence
 ├── scripts/              # Utility scripts
 ├── diagrams/             # Diagrams and architecture visuals
+├── screenshots/          # Product screenshots and visual overview files
 ├── README.md
 ├── README-Docker.md
 └── README-Dokploy.md
@@ -76,7 +245,7 @@ PromptiTron/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/PromptiTron.git
+git clone https://github.com/giraydorukyurt7/PromptiTron.git
 cd PromptiTron
 ```
 
@@ -176,11 +345,16 @@ Frontend example (`client/.env.local`):
 NEXT_PUBLIC_API_URL=http://localhost:8000
 ```
 
+## System Diagrams
+
+Additional diagram files are available in the [diagrams](./diagrams) directory.
+
 ## Related Documentation
 
 - [Docker Deployment Guide](./README-Docker.md)
 - [Dokploy Deployment Guide](./README-Dokploy.md)
-- [Frontend README](./client/README.md)
+- [Frontend README](https://github.com/giraydorukyurt7/PromptiTron/blob/main/client/README.md)
+- [Visual Overview PDF](https://github.com/giraydorukyurt7/PromptiTron/blob/main/screenshots/PromptiTron_Visual_Overview.pdf)
 
 ## Notes
 
