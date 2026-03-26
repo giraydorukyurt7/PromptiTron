@@ -1,0 +1,77 @@
+flowchart TD
+    User[👤 Kullanıcı] --> InputType{🎯 Girdi Tipi}
+    
+    InputType -->|Chat| ChatFlow[💬 Chat]
+    InputType -->|Questions| QuestionFlow[❓ Sorular]
+    InputType -->|File| FileFlow[📄 Dosya]
+    InputType -->|YouTube| YouTubeFlow[🎥 YouTube]
+    InputType -->|Curriculum| CurriculumFlow[📚 Müfredat]
+    
+    ChatFlow --> Validate1[✅ Validasyon]
+    QuestionFlow --> Validate2[✅ Validasyon]
+    FileFlow --> Validate3[✅ Validasyon]
+    YouTubeFlow --> Validate4[✅ Validasyon]
+    CurriculumFlow --> Validate5[✅ Validasyon]
+    
+    Validate1 --> Process1[⚙️ İşleme]
+    Validate2 --> Process2[⚙️ İşleme]
+    Validate3 --> Process3[⚙️ İşleme]
+    Validate4 --> Process4[⚙️ İşleme]
+    Validate5 --> Process5[⚙️ İşleme]
+    
+    Process1 --> Context[🔧 Context Builder]
+    Process2 --> Context
+    Process3 --> Context
+    Process4 --> Context
+    Process5 --> Context
+    
+    Context --> RAGCheck{🔍 RAG Gerekli?}
+    
+    RAGCheck -->|Evet| RAGSystem[🔍 RAG Sistemi]
+    RAGCheck -->|Hayır| AgentRouter[🤖 Agent Router]
+    
+    RAGSystem --> VectorSearch[🔢 Vector Arama]
+    VectorSearch --> ChromaDB[(📊 ChromaDB)]
+    ChromaDB --> ContextAugment[➕ Context Genişletme]
+    
+    ContextAugment --> AgentRouter
+    AgentRouter --> ExpertSelect{👨‍🏫 Uzman Seçimi}
+    
+    ExpertSelect -->|Math| MathExpert[📐 Matematik]
+    ExpertSelect -->|Physics| PhysicsExpert[⚛️ Fizik]  
+    ExpertSelect -->|Chemistry| ChemExpert[🧪 Kimya]
+    ExpertSelect -->|Biology| BioExpert[🧬 Biyoloji]
+    ExpertSelect -->|General| GeneralExpert[🎓 Genel]
+    
+    MathExpert --> LLMProcess[🤖 LLM İşleme]
+    PhysicsExpert --> LLMProcess
+    ChemExpert --> LLMProcess
+    BioExpert --> LLMProcess
+    GeneralExpert --> LLMProcess
+    
+    LLMProcess --> GeminiAPI[✨ Gemini API]
+    GeminiAPI --> ResponseGen[📝 Yanıt Üretimi]
+    
+    ResponseGen --> ResponseVal[✅ Yanıt Validasyon]
+    ResponseVal --> MemoryUpdate[💭 Hafıza Güncelleme]
+    
+    MemoryUpdate --> FinalOutput[📤 Çıktı]
+    FinalOutput --> User
+    
+    %% Error Handling
+    Validate1 -->|Hata| ErrorHandler[❌ Hata]
+    Validate2 -->|Hata| ErrorHandler
+    Validate3 -->|Hata| ErrorHandler
+    Validate4 -->|Hata| ErrorHandler
+    Validate5 -->|Hata| ErrorHandler
+    GeminiAPI -->|API Hatası| ErrorHandler
+    
+    ErrorHandler --> ErrorResponse[⚠️ Hata Yanıtı]
+    ErrorResponse --> User
+    
+    classDef input fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#ffffff
+    classDef validation fill:#10b981,stroke:#059669,stroke-width:2px,color:#ffffff
+    classDef processing fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    classDef rag fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    classDef agent fill:#ef4444,stroke:#dc2626,stroke-width:2px,color:#ffffff
+    classDef output fill:#059669,stroke:#047857,stroke-width:2px,color:#ffffff

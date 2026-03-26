@@ -1,0 +1,45 @@
+flowchart LR
+    subgraph Inputs["📥 GİRDİLER"]
+        Chat[💬 Chat Mesajı]
+        Questions[❓ Soru Parametreleri]
+        Files[📄 Dosya Yükleme]
+        YouTube[🎥 YouTube URL]
+        Curriculum[📚 Müfredat Seçimi]
+    end
+    
+    subgraph Processing["⚙️ İŞLEME"]
+        Validate[✅ Validasyon]
+        Context[🔧 Context Oluşturma]
+        RAG[🔍 RAG Arama]
+        Agent[🤖 Agent Seçimi]
+        LLM[✨ LLM İşleme]
+    end
+    
+    subgraph Outputs["📤 ÇIKTILAR"]
+        ChatResp[💬 Chat Yanıtı]
+        QuestList[❓ Soru Listesi]
+        Analysis[📊 İçerik Analizi]
+        VideoSum[🎥 Video Özeti]
+        CurriculumOut[📚 Müfredat İçeriği]
+    end
+    
+    Chat --> Validate
+    Questions --> Validate
+    Files --> Validate
+    YouTube --> Validate
+    Curriculum --> Validate
+    
+    Validate --> Context
+    Context --> RAG
+    RAG --> Agent
+    Agent --> LLM
+    
+    LLM --> ChatResp
+    LLM --> QuestList
+    LLM --> Analysis
+    LLM --> VideoSum
+    LLM --> CurriculumOut
+    
+    classDef input fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#ffffff
+    classDef processing fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    classDef output fill:#10b981,stroke:#059669,stroke-width:2px,color:#ffffff

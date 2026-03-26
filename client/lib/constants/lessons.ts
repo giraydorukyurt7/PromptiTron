@@ -1,0 +1,126 @@
+import {
+    CircleQuestionMark,
+    NotebookPen,
+    NotebookText,
+    Video,
+    Search,
+    FileText,
+    Upload,
+    Globe,
+    BarChart3,
+    Settings,
+    MessageSquare,
+    Youtube,
+    BookOpen,
+} from "lucide-react";
+
+export const categories = [
+    {
+        id: "lgs",
+        title: "LGS (Yakında)",
+        href: "/lgs",
+        isActive: false,
+    },
+    {
+        id: "yks",
+        title: "YKS",
+        href: "/yks",
+        isActive: true,
+    },
+    {
+        id: "university",
+        title: "Üniversite ve Sonrası (Yakında)",
+        href: "/universite-ve-sonrasi",
+        isActive: false,
+    },
+];
+
+export const API_MODULES = [
+    {
+        id: "chat",
+        name: "AI Asistan",
+        description: "Ders soruları sorun ve açıklama alın",
+        icon: MessageSquare,
+        href: "/ai-chat",
+        color: "bg-blue-500",
+    },
+    {
+        id: "questions",
+        name: "Soru Oluştur",
+        description: "Tüm derslerden test soruları üretin",
+        icon: CircleQuestionMark,
+        href: "/services/questions",
+        color: "bg-green-500",
+    },
+    {
+        id: "study-plan",
+        name: "Çalışma Planı",
+        description: "Kişiselleştirilmiş YKS hazırlık planı",
+        icon: NotebookPen,
+        href: "/services/study-plan",
+        color: "bg-purple-500",
+    },
+    {
+        id: "search",
+        name: "Bilgi Ara",
+        description: "Müfredat ve konu bilgilerinde arama",
+        icon: Search,
+        href: "/services/search",
+        color: "bg-yellow-500",
+    },
+    {
+        id: "content-analysis",
+        name: "İçerik Analizi",
+        description: "Metin zorluk analizi",
+        icon: BarChart3,
+        href: "/services/content-analysis",
+        color: "bg-orange-500",
+    },
+    {
+        id: "document-analysis",
+        name: "Doküman Analizi",
+        description: "PDF, Word analizi + soru çıkarma",
+        icon: FileText,
+        href: "/services/document-analysis",
+        color: "bg-red-500",
+    },
+    {
+        id: "web-analysis",
+        name: "Web Sitesi Analizi",
+        description: "URL'den eğitim içeriği analizi",
+        icon: Globe,
+        href: "/services/web-analysis",
+        color: "bg-cyan-500",
+    },
+    {
+        id: "youtube-analysis",
+        name: "YouTube Video Analizi",
+        description: "Video transkript + analiz",
+        icon: Youtube,
+        href: "/services/youtube-analysis",
+        color: "bg-pink-500",
+    },
+    {
+        id: "curriculum",
+        name: "Müfredat Göster",
+        description: "Ders müfredatlarını inceleyin",
+        icon: BookOpen,
+        href: "/yks",
+        color: "bg-indigo-500",
+    },
+    {
+        id: "system-status",
+        name: "Sistem Durumu",
+        description: "API ve servis durumları",
+        icon: Settings,
+        href: "/services/system-status",
+        color: "bg-gray-500",
+    },
+];
+
+export const MODULES = [
+    { name: "Soru Üret", icon: CircleQuestionMark },
+    { name: "Plan Oluştur", icon: NotebookPen },
+    { name: "Video Özeti Çıkar", icon: Video },
+    { name: "Konu Özeti", icon: NotebookText },
+];

@@ -1,0 +1,113 @@
+# Core Web Framework
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+starlette==0.47.2
+pydantic==2.11.7
+pydantic-settings==2.10.1
+
+# Google AI & LangChain Ecosystem
+google-generativeai==0.8.5
+google-ai-generativelanguage==0.6.15
+google-api-core==2.25.1
+google-api-python-client==2.177.0
+google-auth==2.40.3
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-core==0.3.72
+langchain-google-genai==2.0.10
+langchain-text-splitters==0.3.9
+langgraph==0.6.3
+langgraph-checkpoint==2.1.1
+langgraph-prebuilt==0.6.3
+langsmith==0.4.10
+
+# CrewAI Multi-Agent System
+crewai==0.152.0
+crewai-tools==0.0.1
+
+# Vector Database & RAG
+chromadb==1.0.15
+sentence-transformers==5.0.0
+transformers==4.54.1
+torch==2.7.1
+tokenizers==0.21.4
+huggingface-hub==0.34.3
+
+# Machine Learning & Data Science
+numpy==2.3.2
+scikit-learn==1.7.1
+scipy==1.16.1
+pandas  # Not in freeze, but commonly used
+
+# AI & ML Utilities
+instructor==1.10.0
+tenacity==9.1.2
+openai==1.98.0
+tiktoken==0.9.0
+
+# HTTP & Web Utilities
+httpx==0.28.1
+httpx-sse==0.4.1
+requests==2.32.4
+aiohttp==3.12.15
+python-multipart==0.0.20
+
+# Document Processing & File Handling
+python-docx==1.2.0
+pdfplumber==0.11.7
+pdfminer.six==20250506
+pypdfium2==4.30.0
+pillow==11.3.0
+openpyxl==3.1.5
+
+# Security & Authentication
+cryptography==45.0.5
+PyJWT==2.10.1
+passlib[bcrypt]  # For password hashing
+bcrypt==4.3.0
+
+# Data Processing & Serialization
+jsonschema==4.25.0
+jsonpatch==1.33
+orjson==3.11.1
+PyYAML==6.0.2
+
+# Database
+sqlalchemy==2.0.42
+
+# Console & UI
+rich==14.1.0
+typer==0.16.0
+colorama==0.4.6
+coloredlogs==15.0.1
+
+# Development Tools
+python-dotenv==1.1.1
+click==8.2.1
+tqdm==4.67.1
+
+# HTML Processing (for Swagger diagnostics)
+beautifulsoup4==4.13.4
+lxml==6.0.0
+
+# Web Scraping & Additional Tools
+flask==3.1.1
+flask-cors==6.0.1
+markdown2==2.5.4
+
+# Optional Development Dependencies
+# pytest==7.4.3
+# pytest-asyncio==0.21.1
+# black==23.11.0
+# flake8==6.1.0
+
+# System Monitoring & Observability
+opentelemetry-api==1.36.0
+opentelemetry-sdk==1.36.0
+opentelemetry-exporter-otlp-proto-grpc==1.36.0
+
+# Additional Utilities
+backoff==2.2.1
+diskcache==5.6.3
+filelock==3.18.0
+decorator==5.2.1

@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promptitron Unified - Mermaid Akış Diyagramları</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 40px 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header h1 {
+            font-size: 3em;
+            margin: 0;
+            font-weight: 700;
+            background: linear-gradient(45deg, #fff, #f8f9ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+        }
+        
+        .diagram-section {
+            background: white;
+            margin: 30px 0;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .diagram-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15);
+        }
+        
+        .diagram-header {
+            background: linear-gradient(135deg, #4f46e5, #7c3aed);
+            color: white;
+            padding: 25px 30px;
+            font-size: 1.5em;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .diagram-header .icon {
+            font-size: 2em;
+        }
+        
+        .diagram-content {
+            padding: 30px;
+            background: #fafafa;
+        }
+        
+        .mermaid {
+            text-align: center;
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+            margin: 20px 0;
+        }
+        
+        .description {
+            background: #f8fafc;
+            border-left: 5px solid #4f46e5;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 0 10px 10px 0;
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #374151;
+        }
+        
+        .description h3 {
+            margin: 0 0 15px 0;
+            color: #1f2937;
+            font-size: 1.3em;
+        }
+        
+        .description ul {
+            margin: 10px 0 0 0;
+            padding-left: 20px;
+        }
+        
+        .description li {
+            margin: 8px 0;
+        }
+        
+        .navigation {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+        }
+        
+        .navigation h3 {
+            margin: 0 0 15px 0;
+            color: #1f2937;
+            font-size: 1.1em;
+        }
+        
+        .navigation a {
+            display: block;
+            color: #4f46e5;
+            text-decoration: none;
+            padding: 8px 12px;
+            border-radius: 8px;
+            margin: 5px 0;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+        
+        .navigation a:hover {
+            background: #4f46e5;
+            color: white;
+            transform: translateX(5px);
+        }
+        
+        .footer {
+            text-align: center;
+            color: white;
+            padding: 40px 20px;
+            margin-top: 60px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .footer p {
+            margin: 5px 0;
+            opacity: 0.8;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .navigation {
+                position: relative;
+                top: 0;
+                right: 0;
+                margin: 20px 0;
+            }
+            
+            .diagram-header {
+                font-size: 1.2em;
+                padding: 20px;
+            }
+            
+            .diagram-content {
+                padding: 20px;
+            }
+        }
+        
+        /* Mermaid styling overrides */
+        .mermaid svg {
+            max-width: 100%;
+            height: auto;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🚀 Promptitron Unified</h1>
+            <p>AI Eğitim Sistemi - Mermaid Akış Diyagramları</p>
+        </div>
+        
+        <!-- Navigation -->
+        <div class="navigation">
+            <h3>📍 Diyagram Listesi</h3>
+            <a href="#system-architecture">🏗️ Sistem Mimarisi</a>
+            <a href="#data-flow">🔄 Veri Akışı</a>
+            <a href="#input-output">📊 Girdi-Çıktı Süreçleri</a>
+        </div>
+        
+        <!-- System Architecture Diagram -->
+        <div class="diagram-section" id="system-architecture">
+            <div class="diagram-header">
+                <span class="icon">🏗️</span>
+                <span>Sistem Mimarisi</span>
+            </div>
+            <div class="diagram-content">
+                <div class="description">
+                    <h3>Sistem Mimarisi Diyagramı</h3>
+                    <p>Bu diyagram Promptitron Unified sisteminin genel mimarisini gösterir. Sistem şu ana katmanlardan oluşur:</p>
+                    <ul>
+                        <li><strong>Frontend Katmanı:</strong> Next.js tabanlı web arayüzü ve React bileşenleri</li>
+                        <li><strong>API Gateway:</strong> FastAPI tabanlı RESTful API servisleri</li>
+                        <li><strong>Core AI Sistemi:</strong> Gemini entegrasyonu, uzman ajanlar ve hafıza yönetimi</li>
+                        <li><strong>RAG Sistemi:</strong> ChromaDB vektör arama ve hibrit arama motoru</li>
+                        <li><strong>Veri Katmanı:</strong> JSON müfredat verileri, SQLite ve dosya yönetimi</li>
+                        <li><strong>Harici Servisler:</strong> Google API, YouTube ve web servisleri</li>
+                    </ul>
+                </div>
+
+                <div class="mermaid" id="diagram-1">
+                    flowchart TB
+    User[👤 Student] --> UI[🖥️ Web UI]
+    
+    subgraph Frontend["📱 Frontend Layer"]
+        UI --> Pages[📄 Pages]
+        Pages --> Components[🧩 Components]
+        Components --> Hooks[🔗 API Hooks]
+    end
+    
+    Hooks --> API[🌐 FastAPI]
+    
+    subgraph APILayer["🔧 API Layer"]
+        API --> Routers[📍 Routers]
+        Routers --> Controllers[⚙️ Controllers]
+    end
+    
+    Controllers --> AICore[🤖 AI Core]
+    
+    subgraph AISystem["🧠 AI System"]
+        AICore --> Gemini[✨ Gemini 2.5]
+        AICore --> Agents[👨‍🏫 Experts]
+        AICore --> Memory[💭 Memory]
+    end
+    
+    AICore --> RAG[🔍 RAG Engine]
+    
+    subgraph RAGSystem["🔍 RAG System"]
+        RAG --> ChromaDB[(📊 ChromaDB)]
+        RAG --> Search[🔍 Search]
+        RAG --> Embeddings[🔢 Embeddings]
+    end
+    
+    subgraph DataLayer["💾 Data Layer"]
+        JSON[(📚 JSON Files)]
+        SQLite[(🗄️ SQLite DB)]
+        Uploads[(📁 File Storage)]
+    end
+    
+    subgraph External["🌍 External APIs"]
+        GoogleAPI[🔮 Google API]
+        YouTubeAPI[🎥 YouTube API]
+    end
+    
+    ChromaDB --> JSON
+    Memory --> SQLite
+    Controllers --> Uploads
+    Gemini --> GoogleAPI
+    AICore --> YouTubeAPI
+    
+    classDef frontend fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#ffffff
+    classDef api fill:#10b981,stroke:#059669,stroke-width:2px,color:#ffffff
+    classDef ai fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    classDef rag fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    classDef data fill:#6b7280,stroke:#4b5563,stroke-width:2px,color:#ffffff
+    classDef external fill:#ef4444,stroke:#dc2626,stroke-width:2px,color:#ffffff
+                </div>
+            </div>
+        </div>
+        
+        <!-- Data Flow Diagram -->
+        <div class="diagram-section" id="data-flow">
+            <div class="diagram-header">
+                <span class="icon">🔄</span>
+                <span>Veri Akışı</span>
+            </div>
+            <div class="diagram-content">
+                <div class="description">
+                    <h3>Veri Akış Diyagramı</h3>
+                    <p>Bu diyagram kullanıcı isteğinden sistem yanıtına kadar olan tüm veri akışını detaylarıyla gösterir:</p>
+                    <ul>
+                        <li><strong>Girdi Türleri:</strong> Chat mesajları, soru üretimi, dosya yükleme, YouTube analizi</li>
+                        <li><strong>Validasyon:</strong> Girdi kontrolü, format doğrulama ve güvenlik kontrolleri</li>
+                        <li><strong>AI İşleme:</strong> Context oluşturma, ajan seçimi ve LLM işleme</li>
+                        <li><strong>RAG Entegrasyonu:</strong> Vektör arama, semantik eşleştirme ve context genişletme</li>
+                        <li><strong>Hafıza Yönetimi:</strong> Session güncelleme ve uzun dönem hafıza</li>
+                        <li><strong>Hata Yönetimi:</strong> Kapsamlı hata kontrolü ve kullanıcı bilgilendirme</li>
+                    </ul>
+                </div>
+
+                <div class="mermaid" id="diagram-2">
+                    flowchart TD
+    User[👤 Kullanıcı] --> InputType{🎯 Girdi Tipi}
+    
+    InputType -->|Chat| ChatFlow[💬 Chat]
+    InputType -->|Questions| QuestionFlow[❓ Sorular]
+    InputType -->|File| FileFlow[📄 Dosya]
+    InputType -->|YouTube| YouTubeFlow[🎥 YouTube]
+    InputType -->|Curriculum| CurriculumFlow[📚 Müfredat]
+    
+    ChatFlow --> Validate1[✅ Validasyon]
+    QuestionFlow --> Validate2[✅ Validasyon]
+    FileFlow --> Validate3[✅ Validasyon]
+    YouTubeFlow --> Validate4[✅ Validasyon]
+    CurriculumFlow --> Validate5[✅ Validasyon]
+    
+    Validate1 --> Process1[⚙️ İşleme]
+    Validate2 --> Process2[⚙️ İşleme]
+    Validate3 --> Process3[⚙️ İşleme]
+    Validate4 --> Process4[⚙️ İşleme]
+    Validate5 --> Process5[⚙️ İşleme]
+    
+    Process1 --> Context[🔧 Context Builder]
+    Process2 --> Context
+    Process3 --> Context
+    Process4 --> Context
+    Process5 --> Context
+    
+    Context --> RAGCheck{🔍 RAG Gerekli?}
+    
+    RAGCheck -->|Evet| RAGSystem[🔍 RAG Sistemi]
+    RAGCheck -->|Hayır| AgentRouter[🤖 Agent Router]
+    
+    RAGSystem --> VectorSearch[🔢 Vector Arama]
+    VectorSearch --> ChromaDB[(📊 ChromaDB)]
+    ChromaDB --> ContextAugment[➕ Context Genişletme]
+    
+    ContextAugment --> AgentRouter
+    AgentRouter --> ExpertSelect{👨‍🏫 Uzman Seçimi}
+    
+    ExpertSelect -->|Math| MathExpert[📐 Matematik]
+    ExpertSelect -->|Physics| PhysicsExpert[⚛️ Fizik]  
+    ExpertSelect -->|Chemistry| ChemExpert[🧪 Kimya]
+    ExpertSelect -->|Biology| BioExpert[🧬 Biyoloji]
+    ExpertSelect -->|General| GeneralExpert[🎓 Genel]
+    
+    MathExpert --> LLMProcess[🤖 LLM İşleme]
+    PhysicsExpert --> LLMProcess
+    ChemExpert --> LLMProcess
+    BioExpert --> LLMProcess
+    GeneralExpert --> LLMProcess
+    
+    LLMProcess --> GeminiAPI[✨ Gemini API]
+    GeminiAPI --> ResponseGen[📝 Yanıt Üretimi]
+    
+    ResponseGen --> ResponseVal[✅ Yanıt Validasyon]
+    ResponseVal --> MemoryUpdate[💭 Hafıza Güncelleme]
+    
+    MemoryUpdate --> FinalOutput[📤 Çıktı]
+    FinalOutput --> User
+    
+    %% Error Handling
+    Validate1 -->|Hata| ErrorHandler[❌ Hata]
+    Validate2 -->|Hata| ErrorHandler
+    Validate3 -->|Hata| ErrorHandler
+    Validate4 -->|Hata| ErrorHandler
+    Validate5 -->|Hata| ErrorHandler
+    GeminiAPI -->|API Hatası| ErrorHandler
+    
+    ErrorHandler --> ErrorResponse[⚠️ Hata Yanıtı]
+    ErrorResponse --> User
+    
+    classDef input fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#ffffff
+    classDef validation fill:#10b981,stroke:#059669,stroke-width:2px,color:#ffffff
+    classDef processing fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    classDef rag fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    classDef agent fill:#ef4444,stroke:#dc2626,stroke-width:2px,color:#ffffff
+    classDef output fill:#059669,stroke:#047857,stroke-width:2px,color:#ffffff
+                </div>
+            </div>
+        </div>
+        
+        <!-- Input/Output Processes Diagram -->
+        <div class="diagram-section" id="input-output">
+            <div class="diagram-header">
+                <span class="icon">📊</span>
+                <span>Girdi-Çıktı Süreçleri</span>
+            </div>
+            <div class="diagram-content">
+                <div class="description">
+                    <h3>Girdi-Çıktı Süreçleri Diyagramı</h3>
+                    <p>Bu diyagram sistemin tüm girdi türlerini ve bunların nasıl işlenip çıktıya dönüştüğünü detaylandırır:</p>
+                    <ul>
+                        <li><strong>Girdi Kategorileri:</strong> Chat, müfredat seçimi, soru parametreleri, içerik analizi, YouTube</li>
+                        <li><strong>İşleme Katmanı:</strong> Validasyon, ön işleme, AI işleme, veri işleme</li>
+                        <li><strong>Çıktı Türleri:</strong> Chat yanıtları, sorular, analizler, müfredat içeriği</li>
+                        <li><strong>Metadata:</strong> Yanıt metadata, log verisi ve performans metrikleri</li>
+                        <li><strong>Hata Yönetimi:</strong> Hata yanıtları ve kurtarma seçenekleri</li>
+                    </ul>
+                </div>
+
+                <div class="mermaid" id="diagram-3">
+                    
+                    flowchart LR
+    subgraph Inputs["📥 GİRDİLER"]
+        Chat[💬 Chat Mesajı]
+        Questions[❓ Soru Parametreleri]
+        Files[📄 Dosya Yükleme]
+        YouTube[🎥 YouTube URL]
+        Curriculum[📚 Müfredat Seçimi]
+    end
+    
+    subgraph Processing["⚙️ İŞLEME"]
+        Validate[✅ Validasyon]
+        Context[🔧 Context Oluşturma]
+        RAG[🔍 RAG Arama]
+        Agent[🤖 Agent Seçimi]
+        LLM[✨ LLM İşleme]
+    end
+    
+    subgraph Outputs["📤 ÇIKTILAR"]
+        ChatResp[💬 Chat Yanıtı]
+        QuestList[❓ Soru Listesi]
+        Analysis[📊 İçerik Analizi]
+        VideoSum[🎥 Video Özeti]
+        CurriculumOut[📚 Müfredat İçeriği]
+    end
+    
+    Chat --> Validate
+    Questions --> Validate
+    Files --> Validate
+    YouTube --> Validate
+    Curriculum --> Validate
+    
+    Validate --> Context
+    Context --> RAG
+    RAG --> Agent
+    Agent --> LLM
+    
+    LLM --> ChatResp
+    LLM --> QuestList
+    LLM --> Analysis
+    LLM --> VideoSum
+    LLM --> CurriculumOut
+    
+    classDef input fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#ffffff
+    classDef processing fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    classDef output fill:#10b981,stroke:#059669,stroke-width:2px,color:#ffffff
+                </div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <p><strong>Promptitron Unified AI Education System</strong></p>
+            <p>🤖 Powered by Google Gemini 2.5 | 🔍 ChromaDB Vector Search | ⚡ Next.js & FastAPI</p>
+            <p>📊 Diyagramlar Mermaid.js ile oluşturulmuştur</p>
+        </div>
+    </div>
+
+    <script>
+        // Mermaid configuration
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis',
+                padding: 20
+            },
+            themeVariables: {
+                primaryColor: '#4f46e5',
+                primaryTextColor: '#ffffff',
+                primaryBorderColor: '#3730a3',
+                lineColor: '#6b7280',
+                secondaryColor: '#f8fafc',
+                tertiaryColor: '#f1f5f9'
+            }
+        });
+
+        // Function to load and render mermaid diagram
+        async function loadDiagram(fileName, elementId, loadingId) {
+            try {
+                const response = await fetch(fileName);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const diagramText = await response.text();
+                
+                // Hide loading spinner
+                document.getElementById(loadingId).style.display = 'none';
+                
+                // Render mermaid diagram
+                const element = document.getElementById(elementId);
+                element.textContent = diagramText;
+                mermaid.init(undefined, element);
+                
+            } catch (error) {
+                console.error(`Error loading ${fileName}:`, error);
+                document.getElementById(loadingId).innerHTML = 
+                    '<div style="color: #ef4444; padding: 20px; text-align: center;">' +
+                    '<strong>⚠️ Diyagram yüklenemedi</strong><br>' +
+                    '<small>Dosya: ' + fileName + '</small><br>' +
+                    '<small>Hata: ' + error.message + '</small>' +
+                    '</div>';
+            }
+        }
+
+
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('.navigation a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Add intersection observer for navigation highlighting
+        const observerOptions = {
+            root: null,
+            rootMargin: '-20% 0px -70% 0px',
+            threshold: 0
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                const navLink = document.querySelector(`.navigation a[href="#${entry.target.id}"]`);
+                if (navLink) {
+                    if (entry.isIntersecting) {
+                        // Remove active class from all links
+                        document.querySelectorAll('.navigation a').forEach(link => {
+                            link.style.background = '';
+                            link.style.color = '#4f46e5';
+                        });
+                        // Add active class to current link
+                        navLink.style.background = '#4f46e5';
+                        navLink.style.color = 'white';
+                    }
+                }
+            });
+        }, observerOptions);
+
+        // Observe all diagram sections
+        document.querySelectorAll('.diagram-section').forEach(section => {
+            observer.observe(section);
+        });
+    </script>
+</body>
+</html>

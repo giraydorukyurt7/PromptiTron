@@ -1,0 +1,55 @@
+flowchart TB
+    User[👤 Student] --> UI[🖥️ Web UI]
+    
+    subgraph Frontend["📱 Frontend Layer"]
+        UI --> Pages[📄 Pages]
+        Pages --> Components[🧩 Components]
+        Components --> Hooks[🔗 API Hooks]
+    end
+    
+    Hooks --> API[🌐 FastAPI]
+    
+    subgraph APILayer["🔧 API Layer"]
+        API --> Routers[📍 Routers]
+        Routers --> Controllers[⚙️ Controllers]
+    end
+    
+    Controllers --> AICore[🤖 AI Core]
+    
+    subgraph AISystem["🧠 AI System"]
+        AICore --> Gemini[✨ Gemini 2.5]
+        AICore --> Agents[👨‍🏫 Experts]
+        AICore --> Memory[💭 Memory]
+    end
+    
+    AICore --> RAG[🔍 RAG Engine]
+    
+    subgraph RAGSystem["🔍 RAG System"]
+        RAG --> ChromaDB[(📊 ChromaDB)]
+        RAG --> Search[🔍 Search]
+        RAG --> Embeddings[🔢 Embeddings]
+    end
+    
+    subgraph DataLayer["💾 Data Layer"]
+        JSON[(📚 JSON Files)]
+        SQLite[(🗄️ SQLite DB)]
+        Uploads[(📁 File Storage)]
+    end
+    
+    subgraph External["🌍 External APIs"]
+        GoogleAPI[🔮 Google API]
+        YouTubeAPI[🎥 YouTube API]
+    end
+    
+    ChromaDB --> JSON
+    Memory --> SQLite
+    Controllers --> Uploads
+    Gemini --> GoogleAPI
+    AICore --> YouTubeAPI
+    
+    classDef frontend fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#ffffff
+    classDef api fill:#10b981,stroke:#059669,stroke-width:2px,color:#ffffff
+    classDef ai fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    classDef rag fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    classDef data fill:#6b7280,stroke:#4b5563,stroke-width:2px,color:#ffffff
+    classDef external fill:#ef4444,stroke:#dc2626,stroke-width:2px,color:#ffffff

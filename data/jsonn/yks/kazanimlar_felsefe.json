@@ -1,0 +1,318 @@
+{
+  "yks": {
+    "felsefe": {
+      "10": {
+        "FELSEFEYİ TANIMA": {
+          "10.1.1": {
+            "baslik": "Felsefenin anlamını açıklar.",
+            "aciklama": {
+              "a": "kavramlarının felsefeyle ilişkisine değinilir.",
+              "b": "Felsefe  (philosophi",
+              "c": "Farklı düşünürlerin (Platon, Aristoteles, el-kindî, Fârâbî, İbn Sînâ, I. Kant, K. Jaspers, Hilmi Ziya Ülken ve Takiyettin Mengüşoğlu) felsefe tanımlarına yer verilerek bu tanımların benzer ve farklı noktalarının belirtilmesi sağlanır.",
+              "d": "Bilişim teknolojileri kullanılarak “Filozof kimdir?” sorusuna ilişkin bir sunum hazırlanması   ve sunumun sınıf ortamında paylaşılması sağlanır."
+            }
+          },
+          "10.1.2": {
+            "baslik": "Felsefi düşüncenin özelliklerini açıklar.",
+            "aciklama": {
+              "a": "Felsefi düşüncenin ortaya çıkışı üzerinde kısaca durulur.",
+              "b": "Felsefenin sorgulama, merak etme, şüphe duyma, hayret etme,  yığılımlı ilerleme, eleştirel, refleksif, rasyonel, sistemli, tutarlı ve evrensel olma özellikleri vurgulanır.",
+              "c": "N.  Uygur’un “Bir Felsefe Sorusu Nedir?” adlı makalesinden alınan veya derlenen bir metinden hareketle felsefi soruların özelliklerinin yorumlanması sağlanır."
+            }
+          },
+          "10.1.3": {
+            "baslik": "Felsefenin insan ve toplum hayatı üzerindeki rolünü örneklerle açıklar.",
+            "aciklama": {
+              "a": "Felsefenin bireysel ve toplumsal işlevlerine değinilir.",
+              "b": "Felsefe hayat ilişkisinin günlük hayattan örneklerle yorumlanması sağlanır. 221"
+            }
+          }
+        },
+        "FELSEFE İLE DÜŞÜNME": {
+          "10.2.1": {
+            "baslik": "Düşünme ve akıl yürütmeye ilişkin kavramları açıklar.",
+            "aciklama": {
+              "a": "Görüş, argüman, önerme, tümdengelim, tümevarım, analoji, tutarlılık, çelişiklik, gerçeklik, doğruluk ve temellendirme kavramları üzerinde durulur.",
+              "b": "Örnek metinler verilerek bu metinlerdeki akıl yürütme biçimlerinin, tutarlı ve çelişik ifadelerin belirlenmesi sağlanır."
+            }
+          },
+          "10.2.2": {
+            "baslik": "Düşünme ve akıl yürütmede dili doğru kullanmanın önemini açıklar.",
+            "aciklama": {
+              "a": "Dilin ifade etme ve kavramlaştırma işlevi üzerinde durulur.",
+              "b": "Kavramları yanlış kullanmanın, anlamı nasıl değiştirdiğine ilişkin günlük hayattan örnekler verilmesi sağlanır."
+            }
+          },
+          "10.2.3": {
+            "baslik": "Bir konuyla ilgili felsefi sorular oluşturur.",
+            "aciklama": {
+              "a": "Seçilen konu örnekleri üzerinden öğrencilere sorular yöneltilerek öğrencilerin konuya ilişkin kendi sorularını yapılandırmaları sağlanır."
+            }
+          },
+          "10.2.4": {
+            "baslik": "Felsefi bir görüşü veya argümanı sorgular.",
+            "aciklama": {
+              "a": "Bir konuşma veya bir metin seçilerek konuşmacının yahut yazarın ileri sürdüğü görüş ve argümanların tespit edilmesi ve tartışılması sağlanır.",
+              "b": "Öğrencilerin gazete, dergi, roman, televizyon haberi, tartışma programı veya filmlerde geçen felsefi bir görüşü tespit etmeleri ve bu görüşü temellendiren argümanları sınıf ortamında tartışmaları sağlanır. 222"
+            }
+          }
+        },
+        "FELSEFENİN TEMEL KONULARI VE PROBLEMLERİ": {
+          "10.3.1": {
+            "baslik": "Varlık felsefesinin konusunu ve problemlerini açıklar.",
+            "aciklama": {
+              "a": "“Varlık var mıdır?”, \"Varlığın mahiyeti nedir?\", \"Evrende amaçlılık var mıdır?” problemlerinden hareketle varlık felsefesinin konusu kısaca açıklanır.",
+              "b": "Felsefi bir metin üzerinden varlık türlerinin sınıflandırılması sağlanır.",
+              "c": "Öğrencilerin hikâye, roman, kısa film veya belgesellerden birinde işlenen konuyu varlık felsefesi açısından değerlendirmeleri ve sınıfta paylaşmaları sağlanır."
+            }
+          },
+          "10.3.2": {
+            "baslik": "Bilgi felsefesinin konusunu ve problemlerini açıklar.",
+            "aciklama": {
+              "a": "“Doğru bilgi mümkün müdür?\", \"Bilginin kaynağı nedir?\", \"Bilginin sınırları ve doğru bilginin ölçütleri nelerdir?” problemlerinden hareketle bilgi felsefesinin konusu kısaca açıklanır.",
+              "b": "Felsefi bir metnin üzerinden doğruluk ve gerçeklik kavramları arasındaki ilişkinin tartışılması sağlanır.",
+              "c": "Öğrencilerin dergi ve gazete haberleri, internet, sosyal medya veya TV programlarında paylaşılan bilgileri, bilginin değeri ve güvenilirliği açısından tartışmaları sağlanır."
+            }
+          },
+          "10.3.3": {
+            "baslik": "Bilim felsefesinin konusunu ve problemlerini açıklar.",
+            "aciklama": {
+              "a": "“Bilim nedir?\", \"Bilimsel yöntem nedir?”, “Bilimin değeri nedir?” problemlerinden hareketle bilim felsefesinin konusu kısaca açıklanır .",
+              "b": "Bilim felsefe ilişkisi üzerinde durulur.",
+              "c": "B. Russell’ın “Bilgelikle birleştiğinde bilimin sağladığı kudret tüm insanlığa büyük ölçüde refah ve mutluluk getirebilir; tek başına ise yalnız yıkıntıya yol açar.” sözünden hareketle bilimle hayat arasındaki ilişkinin tartışılması sağlanır."
+            }
+          },
+          "10.3.4": {
+            "baslik": "Ahlak felsefesinin konusunu ve  problemlerini  açıklar.",
+            "aciklama": {
+              "a": "“İyi ve kötünün ölçütü nedir?\", \"Özgürlük ve sorumluluk arasında nasıl bir ilişki vardır?\", \"Evrensel bir ahlak yasası var mıdır?” problemlerinden hareketle ahlak felsefesinin konusu kısaca açıklanır .",
+              "b": "Felsefi bir metnin üzerinden, iyilik ve mutluluk   ilişkisinin yorumlanması sağlanır.",
+              "c": "Okul ortamında yaşanan durumlardan ve olaylardan hareketle özgürlük, sorumluluk ve kural (norm) ilişkisinin tartışılması sağlanır. 2 23"
+            }
+          },
+          "10.3.5": {
+            "baslik": "Din felsefesinin konusunu ve sorularını açıklar.",
+            "aciklama": {
+              "a": "\"Tanrı’nın varlığı ile ilgili görüşler nelerdir?”, “Evren sonlu mudur, sonsuz mudur?”, “Ölümden sonra yaşam var mıdır?” problemlerinden hareketle din felsefesinin konusu kısaca açıklanır.",
+              "b": "Teoloji ve din felsefesi farkı üzerinde durulur.",
+              "c": "“Ben kimim?” sorusunun felsefe, bilim ve din açısından nasıl ele alındığının tartışılması sağlanır."
+            }
+          },
+          "10.3.6": {
+            "baslik": "Siyaset felsefesinin konusunu ve problemlerini açıklar.",
+            "aciklama": {
+              "a": "\"Hak,  adalet  ve  özgürlük  nedir?\",  “ İktidarın kaynağı  nedir?\", \"İdeal  devlet  düzeni olabilir mi?” problemlerinden hareketle siyaset felsefesinin konusu kısaca açıklanır .",
+              "b": "Geçmişten günümüze egemenlik sorununun temel hak ve özgürlükler açısından tartışılması sağlanır.",
+              "c": "Öğrencilerin  ülkemizde  yaşanan  sorunlardan  birini  araştırarak  birey,  toplum  ve devlet ilişkileri bağlamında tartışmaları sağlanır."
+            }
+          },
+          "10.3.7": {
+            "baslik": "Sanat felsefesinin konusunu ve problemlerini açıklar.",
+            "aciklama": {
+              "a": "“Güzel nedir?\", \"Sanat nedir?\", \"Sanat eserinin özellikleri nelerdir?” problemlerinden hareketle sanat felsefesinin konusu kısaca açıklanır .",
+              "b": "Felsefi bir metin üzerinden sanat ve duyarlılık ilişkisinin yorumlanması sağlanır.",
+              "c": "Öğrencilerin   yaşadığı   şehrin   mimari   yapısını   estetik   açıdan tartışmaları sağlanır. 2 24"
+            }
+          }
+        },
+        "FELSEFİ OKUMA VE YAZMA": {
+          "10.4.1": {
+            "baslik": "Felsefi bir metni analiz eder.",
+            "aciklama": {
+              "a": "Felsefi bir metin örneğinde; “Metinde hangi felsefi kavramlar geçmektedir?”, “ Metinde hangi felsefi problem veya problemler ele alınmaktadır?”, “ Felsefi probleme veya problemlere filozofun bakış açısı nasıldır?”, “ Kullanılan kavramlar ve savunulan görüşler, güncel sorunların anlaşılması ve çözümlenmesi için nasıl bir katkı sunabilir?” soruları yoluyla analiz ve değerlendirme yapılması sağlanır."
+            }
+          },
+          "10.4.2": {
+            "baslik": "Verilen konu hakkında alternatif görüşler geliştirir.",
+            "aciklama": {
+              "a": "Metin alıntılarına yer verilerek öğrencilerin bu alıntılardaki konu veya durumla ilgili öne sürülen görüşleri belirlemeleri ve “Bu konuya farklı bir açıdan bakılabilir mi?”, “Bu konuyla ilgili sizden görüş öne sürmeniz istenseydi görüşünüz ne olurdu?” gibi sorulardan hareketle aynı konuyla ilgili özgün görüşler geliştirmeleri sağlanır."
+            }
+          },
+          "10.4.3": {
+            "baslik": "Bir konu hakkında felsefi bir deneme yazar.",
+            "aciklama": {
+              "a": "Felsefi denemenin ne olduğu ve nasıl yazıldığı açıklanır.",
+              "b": "Tutarlı, sistematik ve temellendirilmiş bir felsefi denemenin yazılması sağlanır."
+            }
+          },
+          "10.4.4": {
+            "baslik": "Felsefi akıl yürütme becerilerini diğer alanlarda kullanır.",
+            "aciklama": {
+              "a": "Felsefeden farklı bir konuda yazılmış bir metni, felsefenin varlık, bilgi ve değer alanları üzerinden yorumlanması sağlanır. 2 25"
+            }
+          }
+        }
+      },
+      "11": {
+        "MÖ 6. YÜZYIL-MS 2. YÜZYIL FELSEFESİ": {
+          "11.1.1": {
+            "baslik": "Felsefenin ortaya çıkışını hazırlayan düşünce ortamını açıklar.",
+            "aciklama": {
+              "a": "Sümer, Mezopotamya, Mısır, Çin, Hint ve İran medeniyetlerinde varlık, bilgi ve değer anlayışlarının felsefenin doğuşundaki etkilerine değinilir.",
+              "b": "Anadolu’da yaşamış filozofların (Thales, Anaksimandros, Anaksimenes, Anaksagoras, Herakleitos, Epiktetos, Diogenes, Lukianos, Ksenofanes ve Aristoteles) doğduğu ve yaşadığı yer vurgulanarak haklarında kısaca biyografik bilgi verilir."
+            }
+          },
+          "11.1.2": {
+            "baslik": "MÖ 6. yüzyıl-MS 2. yüzyıl   felsefesinin karakteristik özelliklerini açıklar.",
+            "aciklama": {
+              "a": "Filozofların ilk neden hakkındaki düşünceleri (Thales, Anaksimandros, Anaksimenes, Empedokles ve Demokritos) ve değişim düşüncesi (Lao Tse, Herakleitos ve Parmenides) ele alınır.",
+              "b": "Sokrates ve Sofistlerin (Protagoras ve Gorgias) bilgi ve ahlak anlayışları ele alınır.",
+              "c": "Platon ve Aristoteles’in varlık, bilgi ve değer anlayışları ele alınır."
+            }
+          },
+          "11.1.3": {
+            "baslik": "Örnek felsefi metinlerden hareketle  MÖ 6. yüzyıl-MS 2. yüzyıl   filozoflarının felsefi",
+            "aciklama": {
+              "a": "Konfüçyüs’ün “İdeal Bir İnsan ve Topluma Dair Konuşmalar” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun ahlak görüşünün irdelenmesi sağlanır.",
+              "b": "Platon’un  “Sokrates’in  Savunması”  adlı  eserinden  alınan  veya  derlenen  bir  metinden hareketle Sokrates’in “bilgelik ve erdem” anlayışının irdelenmesi sağlanır.",
+              "c": "Platon’un “Devlet” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun varlık, bilgi ve siyaset görüşlerinin irdelenmesi sağlanır.",
+              "d": "Aristoteles’in “Nikomakhos’a Etik” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun “altın orta” düşüncesinin irdelenmesi sağlanır."
+            }
+          },
+          "11.1.4": {
+            "baslik": "MÖ 6. yüzyıl-MS 2. yüzyıl  felsefesindeki örnek düşünce ve argümanları felsefi açıdan",
+            "aciklama": {
+              "a": "Protagoras’ın “İnsan her şeyin ölçüsüdür.” sözünün dayandığı argümanların tartışılması sağlanır.",
+              "b": "Öğrencilerin, “bilgi erdem ilişkisini” günlük hayatla ilişkilendiren özgün bir metin yazmaları sağlanır. 2 26"
+            }
+          }
+        },
+        "MS 2. YÜZYIL-MS 15. YÜZYIL FELSEFESİ": {
+          "11.2.1": {
+            "baslik": "MS 2. yüzyıl-MS 15. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+            "aciklama": {
+              "a": "MÖ 6. yüzyıl-MS 2. yüzyıl   felsefesinin MS 2. yüzyıl-MS 15. yüzyıl felsefesi üzerindeki etkilerine değinilir."
+            }
+          },
+          "11.2.2": {
+            "baslik": "MS 2. yüzyıl-MS 15. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+            "aciklama": {
+              "a": "MS 2. yüzyıl-MS 15. yüzyıl Hristiyan felsefesinin temel özellikleri ve problemleri üzerinde durulur.",
+              "b": "MS 2. yüzyıl-MS 15. yüzyıl İslam felsefesinin temel özellikleri ve problemleri üzerinde durulur.",
+              "c": "MS 2. yüzyıl-MS 15. yüzyıl felsefesinin temel problemlerinden “inanç akıl ilişkisi” konusunda Hristiyan ve İslam felsefesinin yaklaşımları arasındaki farklar vurgulanır.",
+              "d": "8-12. yüzyıl arasındaki çeviri faaliyetlerinin İslam felsefesine ve Batı felsefesine etkileri üzerinde durulur ."
+            }
+          },
+          "11.2.3": {
+            "baslik": "Örnek felsefi metinlerden hareketle MS 2. yüzyıl-MS 15. yüzyıl filozoflarının felsefi",
+            "aciklama": {
+              "a": "St. Augustinus’un “İtiraflar” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun “Tanrı ve evren” ile ilgili görüşlerinin irdelenmesi sağlanır.",
+              "b": "Fârâbî’nin  “el-medînetü’l  fâzıla”  adlı  eserinden  alınan  veya  derlenen  bir metinden hareketle filozofun ahlak ve siyaset görüşlerinin irdelenmesi sağlanır.",
+              "c": "İbn Sînâ’nın “Salâmân ve absâl” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun varlık görüşünün irdelenmesi sağlanır.",
+              "d": "Gazâlî’nin  “el-münkız  mine'd-dalâl”  adlı  eserinden  alınan  veya  derlenen  bir metinden hareketle filozofun bilgi görüşünün irdelenmesi sağlanır.",
+              "e": "İbn  Rüşd’ün  “Tehâfut  et-tehâfut  el-felâsife”  adlı  eserinden  alınan  veya  derlenen  bir metinden hareketle filozofun “din felsefe ilişkisi” ile ilgili görüşlerinin irdelenmesi sağlanır."
+            }
+          },
+          "11.2.4": {
+            "baslik": "MS 2. yüzyıl-MS 15. yüzyıl felsefesindeki örnek düşünce ve argümanları felsefi açıdan",
+            "aciklama": {
+              "a": "Mevlânâ, Yûnus Emre ve Hacı Bektâş Velî‘nin eserlerinden alınan veya derlenen bir metinden hareketle tasavvuf düşüncesindeki insan anlayışının tartışılması sağlanır.",
+              "b": "“Anlamak için inanıyorum” düşüncesinden hareketle “inanç akıl ilişkisini” ele alan özgün bir metin yazılması sağlanır. 2 27"
+            }
+          }
+        },
+        "15. YÜZYIL-17. YÜZYIL FELSEFESİ": {
+          "11.3.1": {
+            "baslik": "15. yüzyıl-17. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+            "aciklama": {
+              "a": "12. yüzyıldaki çeviri faaliyetlerinin 15. Yüzyıl-17. yüzyıl   felsefesi üzerindeki etkilerine değinilir.",
+              "b": "MÖ 6. yüzyıl- MS 2. yüzyıl ve MS 2. yüzyıl-MS 15. yüzyıl felsefesinin 15. yüzyıl-17. yüzyıl felsefesi üzerindeki etkilerine değinilir."
+            }
+          },
+          "11.3.2": {
+            "baslik": "15. yüzyıl-17. yüzyıl   felsefesinin karakteristik özelliklerini açıklar.",
+            "aciklama": {
+              "a": "Skolastik düşünce ile modern düşüncenin temel farkları üzerinde durulur.",
+              "b": "Hümanizm, bilimsel yöntem, kartezyen felsefe ve hukuk felsefesi üzerinde durulur.",
+              "c": "N. Kopernik, G. Galileo, F. Bacon ve I. Newton’un bilimsel çalışmalarının 15. yüzyıl-17. yüzyıl felsefesi üzerindeki etkilerine değinilir."
+            }
+          },
+          "11.3.3": {
+            "baslik": "Örnek felsefi metinlerden hareketle 15. yüzyıl-17. yüzyıl filozoflarının felsefi görüşlerini",
+            "aciklama": {
+              "a": "R.  Descartes’ın “Felsefenin  İlkeleri” adlı  eserinden  alınan  veya  derlenen  bir metinden hareketle filozofun bilgi ve varlık görüşlerinin irdelenmesi sağlanır.",
+              "b": "B.  Spinoza’nın “Ethica” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun ahlak görüşünün irdelenmesi sağlanır.",
+              "c": "T.  Hobbes’un “Leviathan” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun siyaset görüşlerinin irdelenmesi sağlanır."
+            }
+          },
+          "11.3.4": {
+            "baslik": "15. yüzyıl-17. yüzyıl felsefesindeki örnek düşünce ve argümanları felsefi açıdan",
+            "aciklama": {
+              "a": "F.  Bacon’ın “Bilgi  güçtür.” sözünün  olumlu  ve  olumsuz  yönlerinin  günlük hayattan örneklerle tartışılması sağlanır.",
+              "b": "Ütopya kavramı ve türleri üzerinde durularak özgün bir ütopya yazılması sağlanır. 2 28"
+            }
+          }
+        },
+        "18. YÜZYIL-19. YÜZYIL FELSEFESİ": {
+          "11.4.1": {
+            "baslik": "18. yüzyıl -19. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+            "aciklama": {
+              "a": "15. yüzyıl-17. yüzyıl felsefesinin 18. yüzyıl -19. yüzyıl felsefesi üzerindeki etkilerine değinilir."
+            }
+          },
+          "11.4.2": {
+            "baslik": "18. yüzyıl  - 19. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+            "aciklama": {
+              "a": "18. yüzyıl -19. yüzyıl felsefesinin temel özellikleri ve problemleri üzerinde durulur.",
+              "b": "18. yüzyıl -19. yüzyıl felsefesinin, dönemin dil ve edebiyatla ilişkisine değinilir."
+            }
+          },
+          "11.4.3": {
+            "baslik": "Örnek felsefi metinlerinden hareketle 18. yüzyıl -19. yüzyıl filozoflarının felsefi görüşlerini",
+            "aciklama": {
+              "a": "J. Locke’un “İnsan Zihni Üzerine Bir Deneme” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun bilginin kaynağı konusundaki görüşlerinin irdelenmesi sağlanır.",
+              "b": "I. Kant’ın ”Ahlak Metafiziğinin Temellendirilmesi” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun “ödev ahlakı” anlayışının irdelenmesi sağlanır.",
+              "c": "F. Hegel’in “Tinin Fenomenolojisi” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun “diyalektik idealizm” anlayışının irdelenmesi sağlanır."
+            }
+          },
+          "11.4.4": {
+            "baslik": "18. yüzyıl -19. yüzyıl felsefesindeki örnek düşünce ve argümanları felsefi açıdan",
+            "aciklama": {
+              "a": "J. J. Rousseau’nun “İnsan özgür doğar oysa her yerde zincire vurulmuştur.” sözünden hareketle özgürlük probleminin tartışılması sağlanır.",
+              "b": "Günlük hayatta kullanılan bilgilerde aklın ve deneyin rolüne ilişkin özgün bir metin yazılması sağlanır. 2 29"
+            }
+          }
+        },
+        "20. YÜZYIL FELSEFESİ": {
+          "11.5.1": {
+            "baslik": "20. yüzyıl felsefesini hazırlayan düşünce ortamını açıklar.",
+            "aciklama": {
+              "a": "18. yüzyıl -19. yüzyıl felsefesinin 20. yüzyıl felsefi akımları üzerindeki etkilerine değinilir."
+            }
+          },
+          "11.5.2": {
+            "baslik": "20. yüzyıl felsefesinin karakteristik özelliklerini açıklar.",
+            "aciklama": {
+              "a": "20. yüzyıl felsefesinin temel özellikleri, problemleri ve bazı ana akımları (fenomenoloji, hermeneutik, varoluşçuluk, diyalektik materyalizm, mantıksal pozitivizm, yeni ontoloji) üzerinde durulur.",
+              "b": "Türkiye’de felsefi düşünceye katkıda bulunan felsefeciler üzerinde durulur."
+            }
+          },
+          "11.5.3": {
+            "baslik": "Örnek felsefi metinlerden hareketle 20. yüzyıl filozoflarının felsefi görüşlerini analiz eder.",
+            "aciklama": {
+              "a": "F. Nietzsche’nin “Böyle Buyurdu Zerdüşt” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun “yeni değerler inşası ve güç istenci” görüşlerinin irdelenmesi sağlanır.",
+              "b": "H. Bergson’un  “Bilincin  Dolaysız  Verileri Üzerine Deneme” adlı  eserinden  alınan  veya derlenen  bir  metinden  hareketle  filozofun  bilginin  kaynağı  konusundaki  düşüncelerinin irdelenmesi sağlanır.",
+              "c": "J. P. Sartre’ın “Varoluşçuluk” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun “varoluş” görüşlerinin irdelenmesi sağlanır.",
+              "d": "T. Kuhn’un “Bilimsel Devrimlerin Yapısı” adlı eserinden alınan veya derlenen bir metinden hareketle filozofun bilim anlayışının irdelenmesi sağlanır."
+            }
+          },
+          "11.5.4": {
+            "baslik": "20. yüzyıl felsefesi örnek düşünce ve argümanları felsefi açıdan değerlendirir.",
+            "aciklama": {
+              "a": "N. Topçu’nun “İsyan Ahlakı” adlı eserinden alınan veya derlenen bir metinden hareketle düşünürün ahlak hakkındaki görüşlerinin tartışılması sağlanır.",
+              "b": "T.  Mengüşoğlu’nun “İnsan Felsefesi” adlı eserinden alınan ve derlenen bir metinden hareketle filozofun “insanı bir bütün olarak gören” düşüncelerinin tartışılması sağlanır.",
+              "c": "K. Popper’ın “Ben yanılmış olabilirim ve sen haklı olabilirsin ve ortak çaba sonucunda belki doğruluğa biraz daha yaklaşabiliriz.” sözünden hareketle bilginin doğruluğu ile ilgili özgün bir metin yazılması sağlanır."
+            }
+          },
+          "11.5.5": {
+            "baslik": "Harita üzerinde 20 ve 21. yüzyıl felsefecilerinin isimlerini ve yaşadıkları coğrafyayı gösterir.",
+            "aciklama": {
+              "a": "Felsefeciler ve yaşadıkları yerler, Türkiye ve Dünya haritası üzerinde gösterilir.",
+              "b": "Felsefecilerin, isimleri ve yaşadıkları coğrafyanın ezberletilmesi yoluna gidilmez. 230"
+            }
+          }
+        }
+      }
+    }
+  }
+}

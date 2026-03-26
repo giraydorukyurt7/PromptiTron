@@ -1,0 +1,116 @@
+version: '3.8'
+
+services:
+  # Main API Service
+  promptitron-api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.5-flash}
+      - TEMPERATURE=${TEMPERATURE:-0.7}
+      - HOST=0.0.0.0
+      - PORT=8000
+      - ENVIRONMENT=production
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      - chroma-db
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Console Application Service  
+  promptitron-console:
+    build:
+      context: .
+      dockerfile: Dockerfile.console
+    environment:
+      - PYTHONPATH=/app
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.5-flash}
+      - TEMPERATURE=${TEMPERATURE:-0.7}
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      - chroma-db
+    restart: "no"  # Console app should not auto-restart
+    stdin_open: true
+    tty: true
+
+  # ChromaDB Vector Database
+  chroma-db:
+    image: chromadb/chroma:latest
+    ports:
+      - "8001:8000"
+    environment:
+      - CHROMA_SERVER_HOST=0.0.0.0
+      - CHROMA_SERVER_HTTP_PORT=8000
+      - CHROMA_SERVER_CORS_ALLOW_ORIGINS=["*"]
+    volumes:
+      - chroma_data:/chroma/chroma
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Document Processing Service (Optional)
+  promptitron-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.worker
+    environment:
+      - PYTHONPATH=/app
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.5-flash}
+      - TEMPERATURE=${TEMPERATURE:-0.7}
+      - WORKER_MODE=document_processor
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./uploads:/app/uploads
+    depends_on:
+      - chroma-db
+      - promptitron-api
+    restart: unless-stopped
+
+  # System Monitor and Health Check Service
+  promptitron-monitor:
+    build:
+      context: .
+      dockerfile: Dockerfile.monitor
+    ports:
+      - "8002:8002"
+    environment:
+      - PYTHONPATH=/app
+      - MONITOR_PORT=8002
+      - API_URL=http://promptitron-api:8000
+      - CHROMA_URL=http://chroma-db:8000
+    volumes:
+      - ./logs:/app/logs
+    depends_on:
+      - promptitron-api
+      - chroma-db
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
+    driver: local
+
+networks:
+  default:
+    driver: bridge

@@ -1,0 +1,1451 @@
+{
+  "yks": {
+    "matematik": {
+      "9": {
+        "alt": {
+          "9.1": {
+            "baslik": "Mantık",
+            "alt": {
+              "9.1.1": {
+                "baslik": "Önermeler ve Bileşik Önermeler",
+                "terimler_ve_kavramlar": "önerme, bileşik önerme, önermenin değili, ve, veya, ya da bağlaçları, De Morgan",
+                "sembol_ve_gosterimler": "𝑝𝑝, 𝑝𝑝 ′ (𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 ~𝑝𝑝), ≡,∀, ∃, ∧, ∨, ∨ , ⇒, ⇔",
+                "alt": {
+                  "9.1.1.1": {
+                    "baslik": "Önermeyi, önermenin doğruluk değerini, iki önermenin denkliğini ve önermenin değilini açıklar.",
+                    "aciklama": {
+                      "a": "Boole ve Leibniz’in çalışmalarına yer verilir."
+                    }
+                  },
+                  "9.1.1.2": {
+                    "baslik": "Bileşik önermeyi örneklerle açıklar, ‘‘ve, veya, ya da’’ bağlaçları ile kurulan bileşik",
+                    "aciklama": {
+                      "a": "önermelerin özelliklerini ve De Morgan kurallarını doğruluk tablosu kullanarak gösterir."
+                    }
+                  },
+                  "9.1.1.3": {
+                    "baslik": "Koşullu önermeyi ve iki yönlü koşullu önermeyi açıklar.",
+                    "aciklama": {
+                      "a": "Koşullu önermenin karşıtı, tersi, karşıt tersi verilir.",
+                      "b": "𝑝𝑝⇒𝑞𝑞≡𝑝𝑝 ′   ∨𝑞𝑞   olduğu doğruluk tablosu yardımıyla gösterilir.",
+                      "c": "‘‘ ve, veya, ya da, ise’’ bağlaçları kullanılarak verilen,  en fazla üç önerme içeren ve en fazla dört bileşenli bileşik önermelere denk basit önermeler buldurulur.",
+                      "ç": "𝑝𝑝⇔𝑞𝑞≡(𝑝𝑝⇒𝑞𝑞) ∧(𝑞𝑞⇒𝑝𝑝)  olduğu doğruluk tablosu ile gösterilir."
+                    }
+                  },
+                  "9.1.1.4": {
+                    "baslik": "Her ( ∀ ) ve bazı ( ∃ ) niceleyicilerini örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Sözel olarak verilen ve niceleyici içeren açık önermeler,  sembolik mantık diliyle; sembolik mantık diliyle verilen ve niceleyici içeren açık önermeler de sözel olarak ifade edilir."
+                    }
+                  },
+                  "9.1.1.5": {
+                    "baslik": "Tanım, aksiyom, teorem ve ispat kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Bir teoremin hipotezi ve hükmü belirtilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.2": {
+            "baslik": "Kümeler",
+            "alt": {
+              "9.2.1": {
+                "baslik": "Kümelerde Temel Kavramlar",
+                "terimler_ve_kavramlar": "küme, eleman, evrensel küme, boş küme, alt küme, öz alt küme, sonlu küme,",
+                "sembol_ve_gosterimler": "∈, ∉, ∅, { }, ⊂, ⊃, ⊆, ⊇, ⊈, s(A)",
+                "alt": {
+                  "9.2.1.1": {
+                    "baslik": "Kümeler ile ilgili temel kavramlar hatırlatılır.",
+                    "aciklama": {
+                      "a": "Kümelerle ilgili gerçek hayattan örneklere yer verilir.",
+                      "b": "Kümelerin farklı gösterimlerine yer verilir.",
+                      "c": "Cantor’un çalışmalarına yer verilir. 118"
+                    }
+                  },
+                  "9.2.1.2": {
+                    "baslik": "Alt kümeyi kullanarak işlemler yapar.",
+                    "aciklama": {
+                      "a": "Alt küme kavramı ve özellikleri ele alınır.",
+                      "b": "Alt küme kavramıyla ilgili gerçek hayattan örneklere yer verilir.",
+                      "c": "Kombinasyon gerektiren problemlere girilmez."
+                    }
+                  },
+                  "9.2.1.3": {
+                    "baslik": "İki kümenin eşitliğini kullanarak işlemler yapar .",
+                    "aciklama": {
+                      "a": "İki kümenin eşitliği kavramı alt küme ile ilişkilendirilir.",
+                      "b": "Denk küme kavramı verilmez."
+                    }
+                  }
+                }
+              },
+              "9.2.2": {
+                "baslik": "Kümelerde İşlemler",
+                "terimler_ve_kavramlar": "birleşim, kesişim, fark, tümleme, ayrık kümeler, De Morgan kuralları, sıralı ikili,",
+                "sembol_ve_gosterimler": "∪, ∩, 𝐴𝐴−𝐵𝐵 𝑣𝑣𝑣𝑣𝑣𝑣𝑎𝑎 𝐴𝐴∖𝐵𝐵, 𝐴𝐴’, 𝐴𝐴𝐴𝐴𝐴𝐴, 𝑠𝑠(𝐴𝐴𝐴𝐴𝐴𝐴)",
+                "alt": {
+                  "9.2.2.1": {
+                    "baslik": "Kümelerde birleşim, kesişim, fark, tümleme işlemleri yardımıyla problemler çözer.",
+                    "aciklama": {
+                      "a": "Kümelerin birleşim, kesişim, fark ve tümleme işlemlerinin özellikleri verilir.",
+                      "b": "Ayrık küme kavramına yer verilir.",
+                      "c": "En fazla üç kümenin birleşiminin eleman sayısını veren ilişkiler üzerinde durulur.",
+                      "ç": "Kümelerle yapılan işlemler ve sembolik mantıkta kullanılan sembol, gösterim ve bunlarla ifade edilen işlemler arasında aşağıdaki ilişkilendirmeler yapılır.",
+                      "d": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  },
+                  "9.2.2.2": {
+                    "baslik": "İki kümenin kartezyen çarpımıyla ilgili işlemler yapar.",
+                    "aciklama": {
+                      "a": "Sıralı ikili ve sıralı ikililerin eşitliği örneklerle açıklanır.",
+                      "b": "Kartezyen çarpımın eleman sayısı buldurulur.",
+                      "c": "Sadece sonlu sayıda elemanı olan kümelerin kartezyen çarpımlarının grafik çizimi yapılır. Sembolik Mantık 0 1 ∨ ∧ ′ ≡ Kümeler ∅ 𝐸 𝐸 ∪ ∩ ′ = Sembolik Mantık Kümeler 𝑝 𝑝 ∨𝑝 𝑝 ′   ≡1 𝐴 𝐴 ∪𝐴 𝐴 ′   = 𝐸 𝐸 𝑝 𝑝 ∧𝑝 𝑝 ′   ≡0 𝐴 𝐴 ∩𝐴 𝐴 ′   = ∅ 𝑝 𝑝 ∧(𝑞 𝑞 ∨𝑟 𝑟 ) ≡(𝑝 𝑝 ∧𝑞 𝑞 ) ∨(𝑝 𝑝∧ 𝑟 𝑟 ) 𝐴 𝐴 ∩(𝐵 𝐵 ∪𝐶 𝐶 ) = (𝐴 𝐴 ∩𝐵 𝐵 ) ∪(𝐴 𝐴 ∩𝐶 𝐶 ) (𝑝 𝑝 ∧𝑞 𝑞 ) ′   ≡𝑝 𝑝 ′   ∨𝑞 𝑞 ′ (𝐴 𝐴 ∩𝐵 𝐵 ) ′   = 𝐴 𝐴 ′   ∪𝐵 𝐵 ′ 119"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.3": {
+            "baslik": "Denklemler ve Eşitsizlikler",
+            "alt": {
+              "9.3.1": {
+                "baslik": "Sayı Kümeleri",
+                "terimler_ve_kavramlar": "doğal sayılar, tam sayılar, rasyonel sayılar, irrasyonel sayılar, gerçek (reel) sayılar",
+                "sembol_ve_gosterimler": "ℕ ,  ℤ ,  ℚ ,  ℚ ′,  ℝ ,  ℤ + ,  ℚ + ,  ℝ + ,  ℤ − ,  ℚ − ,  ℝ − ,  ℝ × ℝ ,  ℝ 2",
+                "alt": {
+                  "9.3.1.1": {
+                    "baslik": "Sayı kümelerini birbiriyle ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Doğal sayı, tam sayı, rasyonel sayı, irrasyonel sayı ve gerçek sayı kümelerinin sembolleri tanıtılarak bu sayı kümeleri arasındaki ilişki üzerinde durulur.",
+                      "b": "√ 2 , √ 3 ,√ 5  gibi sayıların sayı doğrusundaki yeri belirlenir.",
+                      "c": "Gerçek sayılar kümesinde toplama ve çarpma işlemlerinin özellikleri üzerinde durulur.",
+                      "ç": "ℝ  nin geometrik temsilinin sayı doğrusu,  ℝ × ℝ  nin geometrik temsilinin de kartezyen koordinat sistemi olduğu vurgulanır."
+                    }
+                  }
+                }
+              },
+              "9.3.2": {
+                "baslik": "Bölünebilme Kuralları",
+                "terimler_ve_kavramlar": "",
+                "sembol_ve_gosterimler": "EKOK, EBOB",
+                "alt": {
+                  "9.3.2.1": {
+                    "baslik": "Tam sayılarda bölünebilme kurallarıyla ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "2, 3, 4, 5, 8, 9, 10, 11 ile bu sayılardan elde edilen 6, 12, 15 gibi sayıların bölünebilme kuralları ele alınır."
+                    }
+                  },
+                  "9.3.2.2": {
+                    "baslik": "Tam sayılarda EBOB ve EKOK ile ilgili uygulamalar yapar.",
+                    "aciklama": {
+                      "a": "Gerçek hayat problemlerine yer verilir.",
+                      "b": "Elektronik tablolarda bulunan EBOB ve EKOK fonksiyonlarından yararlanılır."
+                    }
+                  },
+                  "9.3.2.3": {
+                    "baslik": "Gerçek hayatta periyodik olarak tekrar eden durumları içeren problemleri çözer.",
+                    "aciklama": {
+                      "a": "Modüler aritmetiğe girilmeden periyodik durum içeren problemlere yer verilir. 9.3.3.Birinci Dereceden Denklemler ve Eşitsizlikler Terimler ve Kavramlar:  bilinmeyen, değişken, denklem, denklemin derecesi, eşitsizlik, gerçek sayı aralıkları, çözüm kümesi, mutlak değer Sembol ve Gösterimler:   <, ≤, >, ≥, [𝑎𝑎, 𝑏𝑏],  (𝑎𝑎, 𝑏𝑏], [𝑎𝑎, 𝑏𝑏),  (𝑎𝑎, 𝑏𝑏), (−∞, ∞), |𝑥𝑥|"
+                    }
+                  },
+                  "9.3.3.1": {
+                    "baslik": "Gerçek sayılar kümesinde aralık kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Açık, kapalı ve yarı açık aralık kavramları ile bunların gösterimleri üzerinde durulur.",
+                      "b": "Aralıkların kartezyen çarpımlarına yer verilmez."
+                    }
+                  },
+                  "9.3.3.2": {
+                    "baslik": "Birinci dereceden bir bilinmeyenli denklem ve eşitsizliklerin çözüm kümelerini bulur.",
+                    "aciklama": {
+                      "a": "Birinci dereceden bir bilinmeyenli denklem ve eşitsizliklerin çözümü hatırlatılır.",
+                      "b": "Harezmî’nin denklemler konusundaki çalışmalarına yer verilir."
+                    }
+                  },
+                  "9.3.3.3": {
+                    "baslik": "Mutlak değer içeren birinci dereceden bir bilinmeyenli denklem ve eşitsizliklerin çözüm",
+                    "aciklama": {
+                      "a": "Bir gerçek sayının mutlak değeri hatır l atılarak mutlak değer özellikleri verilir. ( 𝑥 𝑥 , 𝑦 𝑦 ∈ℝ,𝑛 𝑛 ∈ ℤ  ve  𝑎𝑎, 𝑏𝑏∈ℝ + ) |𝑥 𝑥 | ≤𝑎 𝑎 ⇔−𝑎 𝑎 ≤𝑥 𝑥 ≤𝑎 𝑎 |𝑥 𝑥 | ≥𝑎 𝑎 ⇔(𝑥 𝑥 ≥𝑎 𝑎  ∨𝑥 𝑥 ≤−𝑎 𝑎 ) 𝑎 𝑎 ≤|𝑥 𝑥 | ≤𝑏 𝑏 ⇔(𝑎 𝑎 ≤𝑥 𝑥 ≤𝑏 𝑏   ∨ − 𝑏𝑏≤ 𝑥 𝑥 ≤−𝑎 𝑎 ) |𝑥 𝑥 . 𝑦 𝑦 | = |𝑥 𝑥 |. |𝑦 𝑦 | ฬ 𝑥 𝑦 𝑦 ฬ= |𝑥 𝑥 | |𝑦 𝑦 |   , (𝑦 𝑦 ≠0) |𝑥 𝑥 | = |−𝑥 𝑥 | |𝑥 𝑥 𝑛𝑛 | = |𝑥 𝑥 | 𝑛𝑛 |𝑥 𝑥 + 𝑦 𝑦 | ≤|𝑥 𝑥 | + |𝑦 𝑦 | 120",
+                      "b": "İkiden çok mutlak değer içeren denklem ve eşitsizliklere girilmez."
+                    }
+                  },
+                  "9.3.3.4": {
+                    "baslik": "Birinci dereceden iki bilinmeyenli denklem ve eşitsizlik sistemlerinin çözüm kümelerini bulur.",
+                    "aciklama": {
+                      "a": "Birinci dereceden iki bilinmeyenli denklem sistemlerinin çözüm kümeleri bulunurken yerine koyma, yok etme veya grafikle çözüm yöntemlerinden faydalanılır.",
+                      "b": "Birinci dereceden iki bilinmeyenli denklem ve eşitsizlik sistemlerinin çözümü, analitik düzlemde gösterilir."
+                    }
+                  }
+                }
+              },
+              "9.3.4": {
+                "baslik": "Üslü İfadeler ve Denklemler",
+                "terimler_ve_kavramlar": "üslü ifade, taban, üs, köklü ifade, rasyonel kuvvet",
+                "sembol_ve_gosterimler": "𝑥𝑥 𝑛𝑛 , √ 𝑥 𝑥 𝑚",
+                "alt": {
+                  "9.3.4.1": {
+                    "baslik": "Üslü ifadeleri içeren denklemleri çözer.",
+                    "aciklama": {
+                      "a": "Üslü ifade kavramı hatırlatılır.",
+                      "b": "Bir gerçek sayının tam sayı kuvveti ile ilgili uygulamalar yapılır.",
+                      "c": "Üslü ifadelerin özellikleri üzerinde durulur."
+                    }
+                  },
+                  "9.3.4.2": {
+                    "baslik": "Köklü ifadeleri içeren denklemleri çözer.",
+                    "aciklama": {
+                      "a": "Köklü ifadelerin özellikleri üzerinde durulur.",
+                      "b": "𝑥𝑥∈ℝ +   ve  𝑚𝑚, 𝑛𝑛∈ℤ + için  𝑛𝑛> 1 𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜 ü𝑧𝑧𝑧𝑧𝑧𝑧𝑧𝑧√ 𝑥 𝑥 𝑚 𝑛𝑛 = 𝑥𝑥 𝑚 𝑛 𝑛   olduğu vurgulanarak köklü ifadeler ve üslü ifadeler arasındaki ilişkiler üzerinde durulur.",
+                      "c": "En çok iki terimli köklü ifadelerin eşleniklerine yer verilir.",
+                      "ç": "Köklü ifadelerde sonsuza giden iç içe köklerle yapılan işlemlere yer verilmez."
+                    }
+                  }
+                }
+              },
+              "9.3.5": {
+                "baslik": "Denklemler ve Eşitsizliklerle İlgili Uygulamalar",
+                "terimler_ve_kavramlar": "oran, orantı, doğru orantı, ters orantı,  yüzde",
+                "sembol_ve_gosterimler": "%,",
+                "alt": {
+                  "9.3.5.1": {
+                    "baslik": "Oran ve orantı kavramlarını kullanarak problemler çözer.",
+                    "aciklama": {
+                      "a": "Oran, orantı, doğru orantı, ters orantı kavramları ile oran ve orantıya ait özellikler hatırlatılır.",
+                      "b": "Altın oran tanıtılarak gerçek   hayattan örnekler verilir ancak hesaplama yöntemlerine yer verilmez."
+                    }
+                  },
+                  "9.3.5.2": {
+                    "baslik": "Denklemler  ve eşitsizlikler ile ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "Gerçek hayat durumlarını temsil eden sözel ifadelerdeki ilişkilerin cebirsel, grafiksel ve sayısal temsilleri ile ilgili uygulamalar yapılır.",
+                      "b": "Farklı problem çözme stratejilerinin uygulanmasını gerektiren oran, orantı kavramlarının kullanıldığı problemlere (örneğin elektrik, su vb. fatura ve ödemeler; sayı, kesir, yaş, işçi, alım-satım, kâr-zarar, yüzde ve karışım problemleri; hız ve hareket (hız kavramı, sabit hız, ortalama hız, birimler arası dönüşüm (km/sa., m/sn.)) yer verilir; faiz, havuz, saat problemlerine girilmez.",
+                      "c": "Rutin olmayan problem türlerine de yer verilerek farklı problem çözme stratejilerinin uygulanmasına imkân verilir. 121 GEOMETRİ"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.4": {
+            "baslik": "Üçgenler",
+            "alt": {
+              "9.4.1": {
+                "baslik": "Üçgenlerde Temel Kavramlar",
+                "terimler_ve_kavramlar": "üçgen, açı, kenar, iç açı, dış açı, üçgen eşitsizliği, eşkenar üçgen, ikizkenar üçgen,",
+                "sembol_ve_gosterimler": "𝐴𝐴𝐴𝐴𝐴𝐴",
+                "alt": {
+                  "9.4.1.1": {
+                    "baslik": "Üçgende açı özellikleri ile ilgili işlemler yapar.",
+                    "aciklama": {
+                      "a": "Kültür ve medeniyetimizden geometrinin tarihsel gelişim sürecine katkı sağlamış bilim insanları ve bilim insanlarının yaptığı çalışmalar tanıtılır. Mustafa Kemal Atatürk’ün geometri üzerine yaptığı çalışmalardan bahsedilir.",
+                      "b": "Açı çeşitleri ve paralel iki doğrunun bir kesenle yaptığı açılar hatırlatılır.",
+                      "c": "Üçgende sadece iç ve dış açı özelliklerinin kullanıldığı sorulara yer verilir. İkizkenar ve eşkenar üçgenin açı özellikleri üzerinde durulur."
+                    }
+                  },
+                  "9.4.1.2": {
+                    "baslik": "Üçgenin kenar uzunlukları ile bu kenarların karşılarındaki açıların ölçülerini ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Bir üçgende en uzun kenarın karşısındaki açının ölçüsünün en büyük olduğu ve bunun tersinin de doğru olduğu gösterilir.",
+                      "b": "Dinamik matematik yazılımları kullanılarak oluşturulan üçgenlerin kenar ve açıları arasındaki ilişkinin gözlemlenmesi sağlanır."
+                    }
+                  },
+                  "9.4.1.3": {
+                    "baslik": "Uzunlukları verilen üç doğru parçasının hangi durumlarda üçgen oluşturduğunu değerlendirir.",
+                    "aciklama": {
+                      "a": "İki kenar uzunluğu verilen bir üçgenin üçüncü kenar uzunluğunun hangi aralıkta değerler alabileceğine ilişkin uygulamalar yapılır.",
+                      "b": "Dinamik matematik yazılımlarından yararlanılarak hangi durumlarda üçgen oluşacağının test edilmesi sağlanır."
+                    }
+                  }
+                }
+              },
+              "9.4.2": {
+                "baslik": "Üçgenlerde Eşlik ve Benzerlik",
+                "terimler_ve_kavramlar": "eşlik, Kenar-Açı-Kenar (K.A.K.), Kenar-Kenar-Kenar (K.K.K.), Açı-Kenar-Açı (A.K.A.),",
+                "sembol_ve_gosterimler": "≅,          ≅               ~,             ~",
+                "alt": {
+                  "9.4.2.1": {
+                    "baslik": "İki üçgenin eş olması için gerekli olan asgari koşulları değerlendirir.",
+                    "aciklama": {
+                      "a": "İki üçgenin eşliği hatırlatılır.",
+                      "b": "Kenar-Açı-Kenar (K.A.K.), Açı-Kenar-Açı (A.K.A.),  Kenar-Kenar-Kenar (K.K.K.) eşlik kuralları, ölçümler yapılarak oluşturulur.",
+                      "c": "Eş üçgenlerin karşılıklı yardımcı elemanlarının da eş olduğu gösterilir."
+                    }
+                  },
+                  "9.4.2.2": {
+                    "baslik": "İki üçgenin benzer olması için gerekli olan asgari koşulları değerlendirir.",
+                    "aciklama": {
+                      "a": "Kenar-Açı-Kenar (K.A.K.), Kenar-Kenar-Kenar (K.K.K.) ve Açı-Açı (A.A.) benzerlik kuralları, ölçümler yapılarak oluşturulur. ABC DEF ABC   DEF , ABC , 122",
+                      "b": "Eşlik ile benzerlik arasındaki ilişki incelenir.",
+                      "c": "Benzer üçgenlerin karşılıklı yardımcı elemanlarının da aynı benzerlik oranına sahip olduğu gösterilir.",
+                      "ç": "Bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "9.4.2.3": {
+                    "baslik": "Üçgenin bir kenarına paralel ve diğer iki kenarı kesecek şekilde çizilen doğrunun ayırdığı doğru",
+                    "aciklama": {
+                      "a": "parçaları arasındaki ilişkiyi kurar. Thales’ in çalışmalarına yer verilir."
+                    }
+                  },
+                  "9.4.2.4": {
+                    "baslik": "Üçgenlerin benzerliği ile ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  }
+                }
+              },
+              "9.4.3": {
+                "baslik": "Üçgenin Yardımcı Elemanları",
+                "terimler_ve_kavramlar": "açıortay, iç açıortay, dış açıortay, kenarortay, yükseklik, diklik merkezi, kenar orta",
+                "sembol_ve_gosterimler": "𝑛𝑛 𝐴𝐴  ,  𝑛𝑛 𝐴𝐴",
+                "alt": {
+                  "9.4.3.1": {
+                    "baslik": "Üçgenin iç ve dış açıortaylarının özelliklerini elde eder.",
+                    "aciklama": {
+                      "a": "Açıortay üzerinde alınan bir noktadan açının kollarına indirilen dikmelerin uzunluklarının eşit olduğu gösterilir.",
+                      "b": "İç ve dış açıortay uzunlukları formülle hesaplatılmaz.",
+                      "c": "Açıortay özelliklerinin gösteriminde pergel-cetvelden yararlanılır.",
+                      "ç": "Bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "9.4.3.2": {
+                    "baslik": "Üçgenin kenarortaylarının özelliklerini elde eder.",
+                    "aciklama": {
+                      "a": "Kenarortayların kesiştiği nokta ile bu noktanın kenarortay üzerinde ayırdığı parçalar arasındaki ilişki üzerinde durulur.",
+                      "b": "Kenarortayların kesiştiği noktanın, üçgenin ağırlık merkezi olduğuna ve üçgenin ağırlık merkeziyle ilgili özelliklerine yer verilir.",
+                      "c": "Dik üçgende, hipotenüse ait kenarortay uzunluğunun hipotenüs uzunluğunun yarısı olduğu gösterilir.",
+                      "ç": "Kenarortay uzunluğu formülle hesaplatılmaz.",
+                      "d": "Pergel-cetvel kullanarak veya bilgi ve iletişim teknolojileri yardımıyla üçgen üzerinde değişiklikler yapılarak ve üçgen çeşitlerine bağlı olarak değişikliklerin kenarortaylar üzerindeki etkisi gözlemlenir."
+                    }
+                  },
+                  "9.4.3.3": {
+                    "baslik": "Üçgenin kenar orta dikmelerinin bir noktada kesiştiğini gösterir.",
+                    "aciklama": {
+                      "a": "Bir doğru parçasının orta dikmesi üzerinde alınan her noktanın, doğru parçasının uç noktalarına eşit uzaklıkta olduğu ve bunun karşıtının da doğru olduğu gösterilir.",
+                      "b": "Pergel-cetvel veya bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "9.4.3.4": {
+                    "baslik": "Üçgenin çeşidine göre yüksekliklerinin kesiştiği noktanın konumunu belirler.",
+                    "aciklama": {
+                      "a": "Pergel-cetvel kullanarak veya bilgi ve iletişim teknolojileri yardımıyla bir üçgenin yükseklikleri çizilerek kesişimleri üzerinde durulur. Farklı üçgen çeşitleri üzerinde örnekler yapılır.",
+                      "b": "İkizkenar üçgenin tabanında alınan bir noktadan kenarlara çizilen dikmelerin uzunlukları toplamı ile üçgenin eş olan kenarlarına ait yükseklik arasındaki ilişki bulunur. 123",
+                      "c": "Eşkenar üçgen içerisinde alınan bir noktadan kenarlara indirilen dikmelerin uzunlukları toplamı ile üçgenin yüksekliği arasındaki ilişki bulunur."
+                    }
+                  }
+                }
+              },
+              "9.4.4": {
+                "baslik": "Dik Üçgen ve Trigonometri",
+                "terimler_ve_kavramlar": "Pisagor teoremi, Öklid teoremi, trigonometrik oran",
+                "sembol_ve_gosterimler": "sinx, cosx, tanx, cotx",
+                "alt": {
+                  "9.4.4.1": {
+                    "baslik": "Dik üçgende Pisagor teoremini elde ederek problemler çözer.",
+                    "aciklama": {
+                      "a": "Teorem elde edilirken model çeşitliliğine yer verilir.",
+                      "b": "Gerçek hayat problemlerine yer verilir.",
+                      "c": "Pythagoras ’ın çalışmalarına yer verilir."
+                    }
+                  },
+                  "9.4.4.2": {
+                    "baslik": "Öklid teoremini elde ederek problemler çözer.",
+                    "aciklama": {
+                      "a": "Gerçek hayat problemlerine yer verilir.",
+                      "b": "Euclid ’in çalışmalarına yer verilir."
+                    }
+                  },
+                  "9.4.4.3": {
+                    "baslik": "Dik üçgende dar açıların trigonometrik oranlarını hesaplar.",
+                    "aciklama": {
+                      "a": "Bir açının sinüs, kosinüs, tanjant ve kotanjant değerleri dik üçgen üzerinde tanımlanır.",
+                      "b": "Dik üçgende; 30°, 45° ve 60° nin trigonometrik değerleri özel üçgenler yardımıyla hesaplanır.",
+                      "c": "Gerçek hayat problemlerine yer verilir.",
+                      "ç": "Bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "9.4.4.4": {
+                    "baslik": "Birim çemberi tanımlar ve trigonometrik oranları birim çemberin üzerindeki noktanın",
+                    "aciklama": {
+                      "a": "Sadece 0° ve 180° arasındaki açıların trigonometrik oranları birim çember yardımıyla hesaplatılır.",
+                      "b": "Ebu’l Vefa ve Gıyaseddin Cemşid’in trigonometrik oranlarla ilgili çalışmalarından bahsedilir."
+                    }
+                  }
+                }
+              },
+              "9.4.5": {
+                "baslik": "Üçgenin Alanı",
+                "terimler_ve_kavramlar": "taban, yükseklik, alan",
+                "sembol_ve_gosterimler": "A (",
+                "alt": {
+                  "9.4.5.1": {
+                    "baslik": "Üçgenin alanı ile ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "Üçgenin alanı, bir kenarı ile bu kenara ait yükseklik kullanılarak hesaplatılır.",
+                      "b": "İki kenarının uzunluğu ve bu kenarlar arasındaki açının ölçüsü verilen üçgenin alanını hesaplar.",
+                      "c": "Aynı yüksekliğe sahip üçgenlerin alanlarıyla tabanları; aynı tabana sahip üçgenlerin alanlarıyla yükseklikleri arasındaki ilişki vurgulanır.",
+                      "ç": "Benzer üçgenlerin alanları ile benzerlik oranları arasındaki ilişki belirtilir.",
+                      "d": "Bilgi ve iletişim teknolojileri yardımıyla alan, taban ve yüksekliği değiştirilen bir üçgenin alanının nasıl değiştiği gözlemlenir. ABC) 124 VERİ, SAYMA VE OLASILIK"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.5": {
+            "baslik": "Veri",
+            "alt": {
+              "9.5.1": {
+                "baslik": "Merkezî Eğilim ve Yayılım Ölçüleri",
+                "terimler_ve_kavramlar": "veri, kesikli veri, sürekli veri, aritmetik ortalama, ortanca (medyan), tepe değer",
+                "sembol_ve_gosterimler": "𝑋𝑋 ഥ , S, Q, Q 2",
+                "alt": {
+                  "9.5.1.1": {
+                    "baslik": "Verileri merkezî eğilim ve yayılım ölçülerini hesaplayarak yorumlar.",
+                    "aciklama": {
+                      "a": "Veri kavramı, kesikli ve sürekli veri çeşitleri verilir.",
+                      "b": "Aritmetik ortalama, ortanca, tepe değer, en büyük değer, en küçük değer ve açıklık kavramları verilir.",
+                      "c": "Alt çeyrek, üst çeyrek ve çeyrekler açıklığına yer verilmez.",
+                      "ç": "Veri sayısı en fazla beş olan veri grupları için standart sapma hesaplanır.",
+                      "d": "Gerçek hayat durumlarında aritmetik ortalama, ortanca, tepe değer kavramları birlikte yorumlanır."
+                    }
+                  }
+                }
+              },
+              "9.5.2": {
+                "baslik": "Verilerin Grafikle Gösterilmesi",
+                "terimler_ve_kavramlar": "çizgi grafiği, sütun grafiği, daire grafiği, histogram, grup sayısı, grup genişliği",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "9.5.2.1": {
+                    "baslik": "Bir veri grubuna ilişkin histogram oluşturur.",
+                    "aciklama": {
+                      "a": "Histogram olu ş turulurken veri grubunun aç ı kl ığı  seçilen grup say ı s ı na bölünür ve a ş a ğı daki e ş itsizli ğ i sa ğ layan en küçük do ğ al say ı  de ğ eri grup geni ş li ğ i olarak belirlenir. 𝐴 𝐴 ç𝚤 𝚤 𝑘 𝑘 𝑘 𝑘 𝚤 𝚤 𝑘 𝑘 𝐺 𝐺 𝐺 𝐺 𝐺 𝐺 𝐺 𝐺  𝑠 𝑠 𝑠 𝑠 𝑠 𝑠 𝑠 𝑠 𝑠 𝑠 𝑠 𝑠 < 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔ş𝑙𝑙𝑙𝑙ğ𝑖𝑖",
+                      "b": "Veri gruplarının histogramı çizilir."
+                    }
+                  },
+                  "9.5.2.2": {
+                    "baslik": "Gerçek hayat durumunu yansıtan veri gruplarını uygun grafik türleriyle temsil ederek yorumlar.",
+                    "aciklama": {
+                      "a": "İkiden fazla veri grubunun karşılaştırıldığı durumlara da yer verilir.",
+                      "b": "Serpme ve kutu grafiklerine yer verilmez.",
+                      "c": "Grafik türleri bilgi ve iletişim teknolojileri kullanılarak çizilir.",
+                      "ç": "Tasarruf bilinci kazandırmak amacıyla ekmek israfı, su israfı gibi konulara ilişkin veriler kullanılarak grafik oluşturulması sağlanır. 125"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "10": {
+        "alt": {
+          "10.1": {
+            "baslik": "Sayma ve Olasılık",
+            "alt": {
+              "10.1.1": {
+                "baslik": "Sıralama ve Seçme",
+                "terimler_ve_kavramlar": "toplama yöntemi, çarpma yöntemi, faktöriyel, permütasyon, tekrarlı",
+                "sembol_ve_gosterimler": "𝑛𝑛! , 𝑃𝑃(𝑛𝑛, 𝑟𝑟) , 𝐶𝐶(𝑛𝑛, 𝑟𝑟),",
+                "alt": {
+                  "10.1.1.1": {
+                    "baslik": "Olayların gerçekleşme sayısını toplama ve çarpma yöntemlerini kullanarak hesaplar.",
+                    "aciklama": {
+                      "a": "Sayma konusunun tarihsel gelişim sürecinden söz edilir ve bu süreçte rol alan Sâbit İbn Kurrâ‘nın çalışmalarına yer verilir.",
+                      "b": "Faktöriyel kavramı verilerek saymanın temel ilkesi ile ilişkilendirilir."
+                    }
+                  },
+                  "10.1.1.2": {
+                    "baslik": "n çeşit nesne ile oluşturulabilecek r li dizilişlerin (permütasyonların) kaç farklı şekilde",
+                    "aciklama": {
+                      "a": "yapılabileceğini hesaplar."
+                    }
+                  },
+                  "10.1.1.3": {
+                    "baslik": "Sınırlı sayıda tekrarlayan nesnelerin dizilişlerini (permütasyonlarını) açıklayarak problemler",
+                    "aciklama": {
+                      "a": "En az iki tanesi özdeş olan nesnelerin tüm farklı dizilişlerinin sayısı örnekler/problemler bağlamında ele alınır.",
+                      "b": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  },
+                  "10.1.1.4": {
+                    "baslik": "n elemanlı bir kümenin r tane elemanının kaç farklı şekilde seçilebileceğini hesaplar.",
+                    "aciklama": {
+                      "a": "Kombinasyon kavramı alt küme sayısı ile ilişkilendirilir.",
+                      "b": "Kombinasyon kavramının aşağıdaki temel özellikleri incelenir: •  𝐶𝐶(𝑛𝑛, 𝑟𝑟) = 𝐶𝐶(𝑛𝑛, 𝑛𝑛−𝑟𝑟) •  𝐶𝐶(𝑛𝑛, 0) +  𝐶𝐶(𝑛𝑛, 1) + ⋯+  𝐶𝐶(𝑛𝑛, 𝑛𝑛) = 2 𝑛𝑛"
+                    }
+                  },
+                  "10.1.1.5": {
+                    "baslik": "Pascal üçgenini açıklar.",
+                    "aciklama": {
+                      "a": "Pascal üçgeninin, aralarında Ömer Hayyam’ın da bulunduğu Hint, Çin, İslam medeniyetlerindeki matematikçi ve düşünürler tarafından Pascal’dan çok önceleri ele alındığı; bu çerçevede matematiksel bilginin oluşumunda farklı kültür ve bilim insanlarının rolü vurgulanır."
+                    }
+                  },
+                  "10.1.1.6": {
+                    "baslik": "Binom açılımını yapar.",
+                    "aciklama": {
+                      "a": "Binom açılımı Pascal üçgeni ile ilişkilendirilir.",
+                      "b": "Sadece iki terimli ifadelerin açılımı ele alınır.",
+                      "c": "Binom formülü ile ilgili örnekler yapılır ancak  (𝑎𝑎𝑎𝑎+ 𝑏𝑏𝑏𝑏) 𝑛𝑛  açılımında    𝑛𝑛∈ ℕ, 𝑎𝑎, 𝑏𝑏∈ℚ ′  şeklindeki örneklere yer verilmez. 126"
+                    }
+                  }
+                }
+              },
+              "10.1.2": {
+                "baslik": "Basit Olayların Olasılıkları",
+                "terimler_ve_kavramlar": "örnek uzay, olay, deney, çıktı, kesin olay, imkânsız olay, ayrık olay, ayrık olmayan",
+                "sembol_ve_gosterimler": "E, P(A), P(A’)",
+                "alt": {
+                  "10.1.2.1": {
+                    "baslik": "Örnek uzay, deney, çıktı, bir olayın tümleyeni, kesin olay, imkânsız olay, ayrık olay ve ayrık",
+                    "aciklama": {
+                      "a": "Örnek uzay, deney, çıktı kavramları eş olası durumlardan yola çıkılarak eş olası olmayan durumlar için de örneklendirilir ve tanımlanır.",
+                      "b": "Ayrık olay ve ayrık olmayan olay üzerinde durulur.",
+                      "c": "El Kindî ve Laplace'ın çalışmalarına yer verilir."
+                    }
+                  },
+                  "10.1.2.2": {
+                    "baslik": "Olasılık kavramı ile ilgili uygulamalar yapar.",
+                    "aciklama": {
+                      "a": "Eş olası olan ve olmayan olayların olasılıkları hesaplanır.",
+                      "b": "Tümleyen, ayrık olay ve ayrık olmayan olay ile ilgili olasılıklar hesaplanır.",
+                      "c": "Gerçek hayat problemlerine yer verilir. SAYILAR VE CEBİR"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.2": {
+            "baslik": "Fonksiyonlar",
+            "alt": {
+              "10.2.1": {
+                "baslik": "Fonksiyon Kavramı ve Gösterimi",
+                "terimler_ve_kavramlar": "fonksiyon, tanım kümesi, değer kümesi, görüntü kümesi, fonksiyonun grafiği, sabit",
+                "sembol_ve_gosterimler": ":   𝑓𝑓: 𝐴𝐴→𝐵𝐵, 𝑓𝑓(𝐴𝐴), 𝑦𝑦= 𝑓𝑓(𝑥𝑥), 𝑓𝑓+ 𝑔𝑔, 𝑓𝑓−𝑔𝑔, 𝑓𝑓. 𝑔𝑔,",
+                "alt": {
+                  "10.2.1.1": {
+                    "baslik": "Fonksiyonlarla ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "Fonksiyon kavramı açıklanır.",
+                      "b": "Sadece gerçek sayılar üzerinde tanımlanmış fonksiyonlar ele alınır.",
+                      "c": "İçine fonksiyon, örten fonksiyon, bire bir fonksiyon, eşit fonksiyon, birim (özdeşlik) fonksiyon, sabit fonksiyon, doğrusal fonksiyon, tek fonksiyon, çift fonksiyon ve parçalı tanımlı fonksiyon açıklanır.",
+                      "ç": "İki fonksiyonun eşitliği örneklerle açıklanır.",
+                      "d": "f ve g fonksiyonları kullanılarak   𝑓𝑓+ 𝑔𝑔, 𝑓𝑓−𝑔𝑔, 𝑓𝑓. 𝑔𝑔, 𝑓 𝑔 işlemleri yapılır, ancak parçalı tanımlı fonksiyonlarda bu işlemlere girilmez.",
+                      "e": "Gerçek hayat problemlerine ve tablo-grafik kullanımına yer verilir."
+                    }
+                  },
+                  "10.2.1.2": {
+                    "baslik": "Fonksiyonların grafiklerini çizer.",
+                    "aciklama": {
+                      "a": "f(x) = ax + b şeklindeki fonksiyonların grafikleri ile ilgili uygulamalar yapılır.",
+                      "b": "Parçalı tanımlı şekilde verilen fonksiyonların grafikleri çizilir. 127",
+                      "c": "f(x) = ax + b tipindeki fonksiyonların grafiği bilgi ve iletişim teknolojileri yardımıyla çizilerek a ve b katsayıları ile fonksiyon grafiği arasındaki ilişki ele alınır ."
+                    }
+                  },
+                  "10.2.1.3": {
+                    "baslik": "Fonksiyonların grafiklerini yorumlar.",
+                    "aciklama": {
+                      "a": "Grafiği verilen fonksiyonların tanım ve görüntü kümeleri gösterilir.",
+                      "b": "Bir fonksiyon grafiğinde, fonksiyonun x ekseni üzerinde tanımlı olduğu her bir noktadan y eksenine paralel çizilen doğruların, grafiği yalnızca bir noktada kestiğine (düşey/dikey doğru testi) işaret edilir.",
+                      "c": "Bir f fonksiyonunun grafiğinin y = f(x)  denkleminin grafiği olduğu ve grafiğin (varsa),   x eksenini kestiği noktaların f(x) = 0 denkleminin gerçek sayılardaki çözüm kümesi olduğu vurgulanır."
+                    }
+                  },
+                  "10.2.1.4": {
+                    "baslik": "Gerçek hayat durumlarından doğrusal fonksiyonlarla ifade edilebilenlerin grafik gösterimlerini",
+                    "aciklama": {
+                      "a": "yapar."
+                    }
+                  }
+                }
+              },
+              "10.2.2": {
+                "baslik": "İki Fonksiyonun Bileşkesi ve Bir Fonksiyonun Tersi",
+                "terimler_ve_kavramlar": "bileşke fonksiyon, fonksiyonun tersi, yatay doğru testi",
+                "sembol_ve_gosterimler": "𝑓𝑓 𝜊𝜊 𝑔𝑔, 𝑓𝑓 −1",
+                "alt": {
+                  "10.2.2.1": {
+                    "baslik": "Bire bir ve örten fonksiyonlar ile ilgili uygulamalar yapar.",
+                    "aciklama": {
+                      "a": "Bir fonksiyonun bire bir ve örtenliği grafik üzerinde yatay doğru testiyle incelenir ve cebirsel olarak ilişkilendirilir.",
+                      "b": "Bilgi ve iletişim teknolojileri yardımıyla bir fonksiyonun bire bir ve örten olup olmadığı belirlenir."
+                    }
+                  },
+                  "10.2.2.2": {
+                    "baslik": "Fonksiyonlarda bileşke işlemiyle ilgili işlemler yapar.",
+                    "aciklama": {
+                      "a": "Bileşke işlemi, fonksiyonların cebirsel ve grafik gösterimleri ile ilişkilendirilerek ele alınır.",
+                      "b": "Fonksiyonlarda bileşke işleminin birleşme özelliğinin olduğu belirtilir ,  değişme özelliğinin olmadığı örneklerle gösterilir.",
+                      "c": "Parçalı tanımlı fonksiyonların bileşkesine girilmez."
+                    }
+                  },
+                  "10.2.2.3": {
+                    "baslik": "Verilen bir fonksiyonun tersini bulur.",
+                    "aciklama": {
+                      "a": "Bir fonksiyonun tersinin de fonksiyon olması için gerekli şartlar belirtilir.",
+                      "b": "Sadece bire bir ve örten doğrusal fonksiyonun tersinin grafiği çizilir; fonksiyonun grafiği ile tersinin grafiğinin y=x doğrusuna göre simetrik olduğu gösterilir.",
+                      "c": "Parçalı tanımlı fonksiyonların tersi verilmez."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.3": {
+            "baslik": "Polinomlar",
+            "alt": {
+              "10.3.1": {
+                "baslik": "Polinom Kavramı ve Polinomlarla İşlemler",
+                "terimler_ve_kavramlar": "polinom, polinomun derecesi, polinomun katsayıları, polinomun baş katsayısı,",
+                "sembol_ve_gosterimler": ":  P(x)",
+                "alt": {
+                  "10.3.1.1": {
+                    "baslik": "Bir değişkenli polinom kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Polinomun derecesi, katsayıları ve sabit terimi belirtilir.",
+                      "b": "Sabit polinom, sıfır polinomu ve iki polinomun eşitliği örneklerle açıklanır. 128"
+                    }
+                  },
+                  "10.3.1.2": {
+                    "baslik": "Polinomlarla toplama, çıkarma, çarpma ve bölme işlemlerini yapar.",
+                    "aciklama": {
+                      "a": "dır. 𝑃𝑃(𝑎𝑎) =  0 ⇔𝑥𝑥 – 𝑎𝑎,   𝑃𝑃(𝑥𝑥)  in bir çarpanı olduğu vurgulanır.",
+                      "b": "Polinomun sıfırı kavramı bölme işlemiyle ilişkilendirilir."
+                    }
+                  }
+                }
+              },
+              "10.3.2": {
+                "baslik": "Polinomların Çarpanlara Ayrılması",
+                "terimler_ve_kavramlar": "çarpan, özdeşlik, değişken değiştirme, rasyonel ifade",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "10.3.2.1": {
+                    "baslik": "Bir polinomu çarpanlarına ayırır.",
+                    "aciklama": {
+                      "a": "Ortak çarpan parantezine alma ve değişken değiştirme yöntemleri kullanılarak çarpanlara ayırma uygulamaları yapılır.",
+                      "b": "Tam kare, iki kare farkı, iki terimin toplamının ve farkının küpü, iki terimin küplerinin toplamı ve farkına ait özdeşlikler kullanılarak çarpanlara ayırma uygulamaları yapılır.",
+                      "c": "𝑎𝑎𝑥𝑥 2   + 𝑏𝑏𝑏𝑏+ 𝑐𝑐  biçimindeki ifadeler çarpanlarına ayrılır."
+                    }
+                  },
+                  "10.3.2.2": {
+                    "baslik": "Rasyonel ifadelerin sadeleştirilmesi ile ilgili işlemler yapar.",
+                    "aciklama": {
+                      "a": "Rasyonel ifade kavramı tanıtılır.",
+                      "b": "Çarpanları polinom olmayan ifadelerde çarpanlara ayırma uygulamalarına yer verilmez."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.4": {
+            "baslik": "İkinci Dereceden Denklemler",
+            "alt": {
+              "10.4.1": {
+                "baslik": "İkinci Dereceden Bir Bilinmeyenli Denklemler",
+                "terimler_ve_kavramlar": "ikinci dereceden bir bilinmeyenli denklem, denklemin kökü, kökler toplamı, kökler",
+                "sembol_ve_gosterimler": "Δ, i, a+ib, z,      Ȼ, İm(z), Re(z)",
+                "alt": {
+                  "10.4.1.1": {
+                    "baslik": "İkinci dereceden bir bilinmeyenli denklem kavramını açıklar.",
+                    "aciklama": {
+                      "a": "İkinci dereceden bir bilinmeyenli denklemlerin tarihsel gelişim sürecine ve bu süreçte rol alan Brahmagupta, Harezmî ve Abdulhamid İbn Türk’ün çalışmalarına yer verilir."
+                    }
+                  },
+                  "10.4.1.2": {
+                    "baslik": "İkinci dereceden bir bilinmeyenli denklemleri çözer.",
+                    "aciklama": {
+                      "a": "ax 2  + bx + c biçimindeki cebirsel ifadelerin; tam kare ve iki kare farkına ait özdeşlikler kullanılarak çarpanlara ayrılmasıyla ilgili uygulamalar yapılır.",
+                      "b": "Denklemlerin çözümünde farklı yöntemlerden (çarpanlara ayırma, tam kareye tamamlama, değişken değiştirme, iki kare farkı, diskriminant) yararlanılır.",
+                      "c": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  },
+                  "10.4.1.3": {
+                    "baslik": "Bir karmaşık sayının a+ib (a,b  ∈ℝ ) biçiminde ifade edildiğini açıklar.",
+                    "aciklama": {
+                      "b": "𝑖𝑖 2 = −1 olmak üzere bir karmaşık sayı  𝑎𝑎+ 𝑖𝑖𝑖𝑖 (𝑎𝑎, 𝑏𝑏∈ℝ)  biçiminde gösterilir.",
+                      "c": "Köklerin birbirinin eşleniği olduğu belirtilir. 129",
+                      "ç": "Karmaşık sayının eşleniği dışındaki özelliklere ve işlemlere girilmez."
+                    }
+                  },
+                  "10.4.1.4": {
+                    "baslik": "İkinci dereceden bir bilinmeyenli denklemin kökleri ile katsayıları arasındaki ilişkileri",
+                    "aciklama": {
+                      "a": "Sadece kökler toplamı ve çarpımı ile denklemin katsayıları arasındaki ilişkiler üzerinde durulur.",
+                      "b": "Kökleri verilen ikinci dereceden denklemi elde etme ile ilgili uygulamalara yer verilir. GEOMETRİ"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.5": {
+            "baslik": "Dörtgenler ve Çokgenler",
+            "alt": {
+              "10.5.1": {
+                "baslik": "Çokgenler",
+                "terimler_ve_kavramlar": "çokgen, düzgün çokgen, köşegen",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "10.5.1.1": {
+                    "baslik": "Çokgen kavramını açıklayarak işlemler yapar.",
+                    "aciklama": {
+                      "a": "İçbükey çokgenlere girilmez.",
+                      "b": "Düzgün çokgenler hatırlatılır, iç ve dış açılarının ölçüleri bulunur.",
+                      "c": "Çokgenlerin köşegenleri ile ilgili özelliklere ve alan problemlerine yer verilmez."
+                    }
+                  }
+                }
+              },
+              "10.5.2": {
+                "baslik": "Dörtgenler ve Özellikleri",
+                "terimler_ve_kavramlar": "dışbükey dörtgen, içbükey dörtgen, köşegen,  çevre, alan",
+                "sembol_ve_gosterimler": "Ç(ABCD), A(ABCD)",
+                "alt": {
+                  "10.5.2.1": {
+                    "baslik": "Dörtgenin temel elemanlarını ve özelliklerini açıklayarak problemler çözer.",
+                    "aciklama": {
+                      "a": "Dışbükey ve içbükey dörtgen kavramları açıklanır. (Bundan sonra dörtgen denildiğinde dış bükey dörtgen anlaşılmalıdır.)",
+                      "b": "Dörtgenin iç ve dış açılarının ölçüleri toplamı bulunur.",
+                      "c": "Dörtgenin çevresi üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "10.5.3": {
+                "baslik": "Özel Dörtgenler",
+                "terimler_ve_kavramlar": "yamuk, ikizkenar yamuk, dik yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen,",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "10.5.3.1": {
+                    "baslik": "Özel dörtgenlerin açı, kenar, köşegen ve alan özelliklerini açıklayarak problemler çözer.",
+                    "aciklama": {
+                      "a": "Yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen, kare ve deltoid arasındaki hiyerarşik ilişkilere yer verilir.",
+                      "b": "Hiyerarşik ilişkiye göre her bir özel dörtgen kendi içerisinde; açı, kenar, köşegen ve alan özellikleri bağlamında ele alınır.",
+                      "c": "Origami, tangram kullanılarak uygulamalar yapılır.",
+                      "ç": "Geleneksel mimaride kullanılan motif örneklerinde yer alan çokgen örneklerine yer verilir.",
+                      "d": "Bilgi ve iletişim teknolojilerinden yararlanılır. 130"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.6": {
+            "baslik": "Uzay Geometri",
+            "alt": {
+              "10.6.1": {
+                "baslik": "Katı Cisimler",
+                "terimler_ve_kavramlar": "dik prizma, dik piramit, yükseklik, taban alanı, yüzey alanı, yanal alan, hacim",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "10.6.1.1": {
+                    "baslik": "Dik prizmalar ve dik piramitlerin uzunluk, alan ve hacim bağıntılarını oluşturur.",
+                    "aciklama": {
+                      "a": "Üçgen, dörtgen ve altıgen dik prizma/piramit ile sınırlandırılır.",
+                      "b": "Gerçek hayat problemlerine yer verilir.",
+                      "c": "Bilgi ve iletişim teknolojilerinden yararlanılır. 131"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "11": {
+        "alt": {
+          "11.1": {
+            "baslik": "Trigonometri",
+            "alt": {
+              "11.1.1": {
+                "baslik": "Yönlü Açılar",
+                "terimler_ve_kavramlar": "yönlü açı, derece, dakika, saniye,   radyan,  esas ölçü",
+                "sembol_ve_gosterimler": "˚, ′, ′′, 𝑅𝑅",
+                "alt": {
+                  "11.1.1.1": {
+                    "baslik": "Yönlü açıyı açıklar.",
+                    "aciklama": {}
+                  },
+                  "11.1.1.2": {
+                    "baslik": "Açı ölçü birimlerini açıklayarak birbiri ile ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Derecenin alt birimleri olan dakika ve saniyeden   bahsedilir .",
+                      "b": "Derece ile radyan ilişkilendirilir, grada girilmez.",
+                      "c": "Açının esas ölçüsü bulunur."
+                    }
+                  }
+                }
+              },
+              "11.1.2": {
+                "baslik": "Trigonometrik Fonksiyonlar",
+                "terimler_ve_kavramlar": "trigonometrik fonksiyon, periyot, periyodik fonksiyon",
+                "sembol_ve_gosterimler": "sinx, cosx, tanx, cotx, cosecx, secx, arcsinx, arccosx, arctanx, T, f(x+T)",
+                "alt": {
+                  "11.1.2.1": {
+                    "baslik": "Trigonometrik fonksiyonları birim çember yardımıyla açıklar.",
+                    "aciklama": {
+                      "a": "Trigonometrik fonksiyonlar arasındaki temel özdeşlikler, oluşturulan benzer üçgenler yardımıyla incelenir.",
+                      "b": "Trigonometrik fonksiyonların bölgelere göre işaretleri incelenir. c)Trigonometrik fonksiyonların açı değerlerine göre sıralanmasına yer verilir.",
+                      "ç": "𝑘𝑘∈ℤ + olmak üzere 𝑘 𝑘 𝑘 2    ± 𝜃𝜃  açılarının trigonometrik değerleri  θ  dar açısının trigonometrik değerlerinden yararlanarak hesaplanır."
+                    }
+                  },
+                  "11.1.2.2": {
+                    "baslik": "Kosinüs teoremiyle ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "Kosinüs teoremi, Pisagor teoreminden yararlanılarak elde edilir.",
+                      "b": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  },
+                  "11.1.2.3": {
+                    "baslik": "Sinüs teoremiyle ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "Sinüs teoremi, iki kenarının uzunluğu ve bu kenarlar arasındaki açının ölçüsü verilen üçgenin alanından yararlanılarak elde edilir.",
+                      "b": "Sinüs teoremi çevrel çemberle ilişkilendirilmez.",
+                      "c": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  },
+                  "11.1.2.4": {
+                    "baslik": "Trigonometrik fonksiyon grafiklerini çizer.",
+                    "aciklama": {
+                      "a": "y=sinx ve y=cosx fonksiyonları dışındaki fonksiyonların grafik çizimlerinde sadece bilgi ve iletişim teknolojileri kullanılır.",
+                      "b": "Periyodik fonksiyon tanımı verilir, trigonometrik fonksiyonların periyodik oldukları gösterilir. 132",
+                      "c": "𝑓𝑓(𝑥𝑥) = 𝑎𝑎. 𝑠𝑠𝑠𝑠𝑠𝑠(𝑏𝑏𝑏𝑏+  𝑐𝑐) + 𝑘𝑘  türündeki fonksiyonların grafikleri ve katsayılarının grafik üzerindeki etkileri ele alınır.",
+                      "ç": "Grafikleri yardımıyla trigonometrik fonksiyonların tek ya da çift fonksiyon olup olmadıkları belirlenir.",
+                      "d": "Sekant ve kosekant fonksiyonlarının grafiklerine yer verilmez."
+                    }
+                  },
+                  "11.1.2.5": {
+                    "baslik": "Sinüs, kosinüs, tanjant fonksiyonlarının ters fonksiyonlarını açıklar.",
+                    "aciklama": {
+                      "a": "Ters trigonometrik fonksiyonların grafiklerine yer verilmez."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.2": {
+            "baslik": "Analitik Geometri",
+            "alt": {
+              "11.2.1": {
+                "baslik": "Doğrunun Analitik İncelenmesi",
+                "terimler_ve_kavramlar": "analitik düzlem, iki nokta arasındaki uzaklık, doğrunun eğimi, eğim açısı, iki",
+                "sembol_ve_gosterimler": "𝐴𝐴(𝑥𝑥, 𝑦𝑦), │𝐴𝐴𝐴𝐴│, 𝑚𝑚, 𝑑𝑑 1 //𝑑𝑑 2 , 𝑑𝑑 1   ⊥ 𝑑𝑑 2",
+                "alt": {
+                  "11.2.1.1": {
+                    "baslik": "Analitik düzlemde iki nokta arasındaki uzaklığı veren bağıntıyı elde ederek problemler çözer.",
+                    "aciklama": {}
+                  },
+                  "11.2.1.2": {
+                    "baslik": "Bir doğru parçasını belli bir oranda (içten veya dıştan) bölen noktanın koordinatlarını hesaplar.",
+                    "aciklama": {
+                      "a": "Bir doğru parçasının orta noktasının koordinatları buldurulur.",
+                      "b": "Bir üçgenin ağırlık merkezinin koordinatları buldurulur."
+                    }
+                  },
+                  "11.2.1.3": {
+                    "baslik": "Analitik düzlemde doğruları inceleyerek işlemler yapar.",
+                    "aciklama": {
+                      "a": "Bir doğrunun eğim açısı ve eğimi tanımlanır.",
+                      "b": "Analitik düzlemde bir doğrunun denklemi oluşturulur.",
+                      "c": "Eksenlere paralel ve orijinden geçen doğruların denklemleri bulunur ve bulunan denklemlerin grafikleri yorumlanır.",
+                      "ç": "İki doğrunun birbirine göre durumları incelenir ve kesişen iki doğrunun kesişim noktası bulunur.",
+                      "d": "Bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "11.2.1.4": {
+                    "baslik": "Bir noktanın bir doğruya uzaklığını hesaplar.",
+                    "aciklama": {
+                      "a": "Bir noktanın bir doğruya uzaklığı ve paralel iki doğru arasındaki uzaklık ile ilgili uygulamalar yapılır. SAYILAR VE CEBİR"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.3": {
+            "baslik": "Fonksiyonlarda Uygulamalar",
+            "alt": {
+              "11.3.1": {
+                "baslik": "Fonksiyonlarla İlgili Uygulamalar",
+                "terimler_ve_kavramlar": "ortalama değişim hızı",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.3.1.1": {
+                    "baslik": "Fonksiyonun grafik ve tablo temsilini kullanarak problem çözer.",
+                    "aciklama": {
+                      "a": "anlamları grafik üzerinden açıklanır. 133",
+                      "b": "Cebirsel ifade, grafik veya tablo ile verilen bir fonksiyonun belli bir aralıktaki ortalama değişim hızı (kesenin eğimi , 𝑓 𝑓 (𝑏 𝑏 )−𝑓 𝑓 (𝑎 𝑎 ) 𝑏 𝑏 −𝑎 )  hesaplanır.",
+                      "c": "Fonksiyonun grafiği bilgi ve iletişim teknolojileri yardımıyla çizilir ve yorumlanır."
+                    }
+                  }
+                }
+              },
+              "11.3.2": {
+                "baslik": "İkinci Dereceden Fonksiyonlar ve Grafikleri",
+                "terimler_ve_kavramlar": "ikinci dereceden fonksiyon, tepe noktası, parabol, simetri ekseni",
+                "sembol_ve_gosterimler": "𝑦𝑦= 𝑎𝑎𝑥𝑥 2   + 𝑏𝑏𝑏𝑏+ 𝑐𝑐, 𝑦𝑦= 𝑎𝑎(𝑥𝑥−𝑟𝑟) 2   + 𝑘𝑘, 𝑦𝑦= 𝑎𝑎(𝑥𝑥−𝑥𝑥 1 ). (𝑥𝑥−𝑥𝑥 2 )",
+                "alt": {
+                  "11.3.2.1": {
+                    "baslik": "İkinci dereceden bir değişkenli fonksiyonun grafiğini çizerek yorumlar.",
+                    "aciklama": {
+                      "a": "Fonksiyonun grafiğinin tepe noktası, eksenleri kestiği noktalar ve simetri ekseni buldurulur.",
+                      "b": "Fonksiyonun grafiğinin tepe noktası ile fonksiyonun en küçük ya da en büyük değeri ilişkilendirilir.",
+                      "c": "Fonksiyonun katsayılarındaki değişimin, fonksiyonun grafiği üzerine etkisi bilgi ve iletişim teknolojilerinden yararlanılarak yorumlanır.",
+                      "ç": "Biri tepe noktası olmak üzere iki noktası verilen veya biri y ekseni üzerinde olmak üzere üç noktası verilen ikinci dereceden fonksiyon oluşturulur.",
+                      "d": "Bir doğru ile bir parabolün birbirine göre durumları incelenir."
+                    }
+                  },
+                  "11.3.2.2": {
+                    "baslik": "İkinci dereceden fonksiyonlarla modellenebilen problemleri çözer.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "11.3.3": {
+                "baslik": "Fonksiyonların Dönüşümleri",
+                "terimler_ve_kavramlar": "öteleme, simetri, dönüşüm",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.3.3.1": {
+                    "baslik": "Bir fonksiyonun grafiğinden, dönüşümler yardımı ile yeni fonksiyon grafikleri çizer.",
+                    "aciklama": {
+                      "a": "Tek ve çift fonksiyonların grafiğinin simetri özellikleri üzerinde durulur.",
+                      "b": "𝑦𝑦= 𝑓𝑓(𝑥𝑥) + 𝑏𝑏, 𝑦𝑦= 𝑓𝑓(𝑥𝑥−𝑎𝑎), 𝑦𝑦= 𝑘𝑘 𝑓𝑓(𝑥𝑥), 𝑦𝑦= 𝑓𝑓(𝑘𝑘𝑘𝑘), 𝑦𝑦= −𝑓𝑓(𝑥𝑥), 𝑦𝑦= 𝑓𝑓(−𝑥𝑥) dönüşümlerinin grafikleri bilgi ve iletişim teknolojilerinden yararlanılarak verilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.4": {
+            "baslik": "Denklem ve Eşitsizlik Sistemleri",
+            "alt": {
+              "11.4.1": {
+                "baslik": "İkinci Dereceden İki Bilinmeyenli Denklem Sistemleri",
+                "terimler_ve_kavramlar": "",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.4.1.1": {
+                    "baslik": "İkinci dereceden İki bilinmeyenli denklem sistemlerinin çözüm kümesini bulur.",
+                    "aciklama": {
+                      "a": "Bilgi ve iletişim teknolojilerinden yararlanılarak çizilen grafikler yardımıyla çözüm yorumlatılır. 11.4 . 2. İkinci Dereceden Bir Bilinmeyenli Eşitsizlikler ve Eşitsizlik Sistemleri Terimler ve Kavramlar:  ikinci dereceden eşitsizlikler"
+                    }
+                  },
+                  "11.4.2.1": {
+                    "baslik": "İkinci dereceden bir bilinmeyenli eşitsizliklerin çözüm kümesini bulur.",
+                    "aciklama": {
+                      "a": "ax + b veya  𝑎𝑎𝑥𝑥 2   + 𝑏𝑏𝑏𝑏+ 𝑐𝑐  şeklindeki ifadelerin çarpımı veya bölümü biçiminde verilen eşitsizliklerin çözüm kümesi buldurulur.",
+                      "b": "Bilgi ve iletişim teknolojilerinden yararlanılarak çizilen grafikler yardımıyla çözüm yorumlatılır."
+                    }
+                  },
+                  "11.4.2.2": {
+                    "baslik": "İkinci dereceden bir bilinmeyenli eşitsizlik sistemlerinin çözüm kümesini bulur.",
+                    "aciklama": {
+                      "a": "134 GEOMETRİ"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.5": {
+            "baslik": "Çember ve Daire",
+            "alt": {
+              "11.5.1": {
+                "baslik": "Çemberin Temel Elemanları",
+                "terimler_ve_kavramlar": "çember, merkez, yarıçap, çap, kiriş, teğet, kesen, yay",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.5.1.1": {
+                    "baslik": "Çemberde teğet, kiriş, çap, yay ve kesen kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Bir çember ile bir doğrunun birbirlerine göre durumları ele alınır."
+                    }
+                  },
+                  "11.5.1.2": {
+                    "baslik": "Çemberde kirişin özelliklerini göstererek işlemler yapar.",
+                    "aciklama": {
+                      "a": "Bir çemberde, kirişin orta dikmesinin çemberin merkezinden geçtiği ve bir kirişin orta noktasını çemberin merkezine birleştiren doğrunun da kirişe dik olduğu gösterilir.",
+                      "b": "Bir çemberde kirişlerin uzunlukları ile merkeze olan uzaklıkları arasındaki ilişki üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "11.5.2": {
+                "baslik": "Çemberde Açılar",
+                "terimler_ve_kavramlar": "merkez açı, çevre açı, teğet-kiriş açı, iç açı, dış açı",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.5.2.1": {
+                    "baslik": "Bir çemberde merkez, çevre, iç, dış ve teğet-kiriş açıların özelliklerini kullanarak işlemler yapar.",
+                    "aciklama": {
+                      "a": "Üçgenin çevrel çemberi çizdirilir.",
+                      "b": "Sinüs teoreminin çevrel çemberin yarıçapı ile ilişkisi üzerinde durulur.",
+                      "c": "Pergel-cetvelden veya bilgi ve iletişim teknolojilerinden   yararlanılır."
+                    }
+                  }
+                }
+              },
+              "11.5.3": {
+                "baslik": "Çemberde Teğet",
+                "terimler_ve_kavramlar": "teğet, teğet parçası",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.5.3.1": {
+                    "baslik": "Çemberde teğetin özelliklerini göstererek işlemler yapar.",
+                    "aciklama": {
+                      "a": "Çemberin dışındaki bir noktadan çizilen teğet parçalarının uzunluklarının eşit olduğu gösterilir.",
+                      "b": "Üçgenin iç teğet ve dış teğet çemberleri çizilir.",
+                      "c": "İki çemberin ortak teğetine girilmez.",
+                      "ç": "Bilgi ve iletişim teknolojileri yardımıyla bir çember ve bu çembere dışındaki bir noktadan iki teğet çizilerek dışarıda alınan noktanın sürüklenmesi suretiyle ortaya çıkan durum ele alınır."
+                    }
+                  }
+                }
+              },
+              "11.5.4": {
+                "baslik": "Dairenin Çevresi ve Alanı",
+                "terimler_ve_kavramlar": "yay uzunluğu, daire, daire dilimi",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.5.4.1": {
+                    "baslik": "Dairenin çevre ve alan bağıntılarını oluşturur.",
+                    "aciklama": {
+                      "a": "Dairenin çevresi ve alanı ile ilgili uygulamalar yapılır.",
+                      "b": "Daire diliminin alanı ve yay uzunluğu bağıntıları buldurularak uygulamalar yapılır.",
+                      "c": "Archimedes’in çalışmalarına yer verilir.",
+                      "ç": "Gerçek hayat problemlerine yer verilir. 135"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.6": {
+            "baslik": "Uzay Geometri",
+            "alt": {
+              "11.6.1": {
+                "baslik": "Katı Cisimler",
+                "terimler_ve_kavramlar": "dik dairesel silindir, dik dairesel koni, küre, ana doğru, tepe noktası",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.6.1.1": {
+                    "baslik": "Küre, dik dairesel silindir ve dik dairesel koninin alan ve hacim bağıntılarını oluşturarak",
+                    "aciklama": {
+                      "a": "Gerçek hayat problemlerine yer verilir.",
+                      "b": "Bilgi ve iletişim teknolojilerinden yararlanılır. VERİ, SAYMA VE OLASILIK"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.7": {
+            "baslik": "Olasılık",
+            "alt": {
+              "11.7.1": {
+                "baslik": "Koşullu Olasılık",
+                "terimler_ve_kavramlar": "koşullu olasılık, bağımlı olay, bağımsız olay, bileşik olay",
+                "sembol_ve_gosterimler": "P(A|B), P(A∩B), P(AUB)",
+                "alt": {
+                  "11.7.1.1": {
+                    "baslik": "Koşullu olasılığı açıklayarak problemler çözer.",
+                    "aciklama": {
+                      "a": "Olasılık konusunun tarihsel gelişim sürecinden bahsedilir.",
+                      "b": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  },
+                  "11.7.1.2": {
+                    "baslik": "Bağımlı ve bağımsız olayları açıklayarak gerçekleşme olasılıklarını hesaplar.",
+                    "aciklama": {
+                      "a": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  },
+                  "11.7.1.3": {
+                    "baslik": "Bileşik olayı açıklayarak gerçekleşme olasılığını hesaplar.",
+                    "aciklama": {
+                      "a": "Ağaç şemasından yararlanılır.",
+                      "b": "En fazla üç aşamalı olaylardan seçim yapılır.",
+                      "c": "“ve, veya” bağlaçları ile oluşturulan olayların olasılıkları hesaplatılır.",
+                      "ç": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  }
+                }
+              },
+              "11.7.2": {
+                "baslik": "Deneysel ve Teorik Olasılık",
+                "terimler_ve_kavramlar": "deneysel olasılık, teorik olasılık",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "11.7.2.1": {
+                    "baslik": "Deneysel olasılık ile teorik olasılığı ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Bilgi ve iletişim teknolojilerinden yararlanılır. 136"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "12": {
+        "alt": {
+          "12.1": {
+            "baslik": "Üstel ve Logaritmik Fonksiyonlar",
+            "alt": {
+              "12.1.1": {
+                "baslik": "Üstel Fonksiyon",
+                "terimler_ve_kavramlar": "üstel fonksiyon",
+                "sembol_ve_gosterimler": "𝑓𝑓(𝑥𝑥) = 𝑎𝑎 𝑥𝑥",
+                "alt": {
+                  "12.1.1.1": {
+                    "baslik": "Üstel fonksiyonu açıklar.",
+                    "aciklama": {
+                      "a": "Üstel fonksiyonlara neden ihtiyaç duyulduğu vurgulanmalıdır.",
+                      "b": "Üslü ifadeler ve bunlarla yapılan işlemlerin özellikleri hatırlatılır.",
+                      "c": "Üstel fonksiyonların bire bir ve örten olduğu grafik yardımıyla gösterilir.",
+                      "ç": "a nın aldığı değerlere göre f(x) = a x   fonksiyonunun grafiğinin değişimini incelemek için bilgi ve iletişim teknolojilerinden de yararlanılır."
+                    }
+                  }
+                }
+              },
+              "12.1.2": {
+                "baslik": "Logaritma Fonksiyonu",
+                "terimler_ve_kavramlar": "logaritma fonksiyonu, doğal logaritma",
+                "sembol_ve_gosterimler": "𝑙𝑙𝑙𝑙𝑙𝑙𝑥𝑥, 𝑙𝑙𝑙𝑙𝑙𝑙 𝑎𝑎 𝑥𝑥,   𝑙𝑙𝑙𝑙𝑥𝑥,  𝑒𝑒, 𝑒𝑒 𝑥𝑥",
+                "alt": {
+                  "12.1.2.1": {
+                    "baslik": "Logaritma fonksiyonu ile üstel fonksiyonu ilişkilendirerek problemler çözer.",
+                    "aciklama": {
+                      "a": "𝑎𝑎∈ℝ +   − {1} olmak üzere logaritma fonksiyonunun grafiği üstel fonksiyonun grafiğinden yararlanarak çizilir.   𝑦𝑦= 𝑎𝑎 𝑥𝑥   ve   𝑦𝑦= 𝑙𝑙𝑙𝑙𝑙𝑙 𝑎𝑎 𝑥𝑥   fonksiyonlarının grafiklerinin y=x doğrusuna göre simetrik olduğu belirtilir.",
+                      "b": "𝑎𝑎∈ℝ +   − {1} olmak üzere  𝑓𝑓: ℝ +   →ℝ , 𝑓𝑓(𝑥𝑥) = 𝑙𝑙𝑙𝑙𝑙𝑙 𝑎𝑎 𝑥𝑥   logaritma fonksiyonunun  𝑎𝑎> 1  için artan fonksiyon,  0 < 𝑎𝑎< 1  için azalan fonksiyon olduğu verilir. a nın aldığı değerlere göre logaritma fonksiyonunun grafiğinin değişimini incelemek için bilgi ve iletişim teknolojilerinden yararlanılır.",
+                      "c": "Gelenbevi İsmail Efendi ve John Napier’in çalışmalarına yer verilir."
+                    }
+                  },
+                  "12.1.2.2": {
+                    "baslik": "10 ve e tabanında logaritma fonksiyonunu tanımlayarak problemler çözer.",
+                    "aciklama": {
+                      "a": "e sayısının irrasyonel olduğu vurgulanarak matematikte ve diğer bilim dallarında kullanımından bahsedilir."
+                    }
+                  },
+                  "12.1.2.3": {
+                    "baslik": "Logaritma fonksiyonunun özelliklerini kullanarak işlemler yapar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "12.1.3": {
+                "baslik": "Üstel, Logaritmik Denklemler ve Eşitsizlikler",
+                "terimler_ve_kavramlar": "üstel denklem, logaritmik denklem",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "12.1.3.1": {
+                    "baslik": "Üstel, logaritmik denklemlerin ve eşitsizliklerin çözüm kümelerini bulur.",
+                    "aciklama": {}
+                  },
+                  "12.1.3.2": {
+                    "baslik": "Üstel ve logaritmik fonksiyonları gerçek hayat durumlarını modellemede kullanır.",
+                    "aciklama": {
+                      "a": "Gerçek hayat durumlarından nüfus artışı, bakteri popülasyonu, radyoaktif maddelerin bozunumu (yarı ömür), fosil yaşlarının tayini, deprem şiddeti (Richter ölçeği), pH değeri, ses şiddeti (desibel) gibi örneklere yer verilir.",
+                      "b": "İsraf ve tasarruf kavramları hakkında farkındalık oluşturacak örneklere yer verilir.",
+                      "c": "Bilgi ve iletişim teknolojilerinden yararlanılır. 137"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.2": {
+            "baslik": "Diziler",
+            "alt": {
+              "12.2.1": {
+                "baslik": "Gerçek Sayı Dizileri",
+                "terimler_ve_kavramlar": "dizi, sonlu dizi, sabit dizi, aritmetik dizi, geometrik dizi, Fibonacci dizisi",
+                "sembol_ve_gosterimler": "(a n ), Σ, S n",
+                "alt": {
+                  "12.2.1.1": {
+                    "baslik": "Dizi kavramını fonksiyon kavramıyla ilişkilendirerek açıklar.",
+                    "aciklama": {
+                      "a": "Sonlu dizi, sabit dizi ve dizilerin eşitliği verilir."
+                    }
+                  },
+                  "12.2.1.2": {
+                    "baslik": "Genel terimi veya indirgeme bağıntısı verilen bir sayı dizisinin terimlerini bulur.",
+                    "aciklama": {}
+                  },
+                  "12.2.1.3": {
+                    "baslik": "Aritmetik ve geometrik dizilerin özelliklerini kullanarak işlemler yapar.",
+                    "aciklama": {
+                      "a": "İlk n terim toplamı bulunur.",
+                      "b": "Toplam sembolü tanıtılır ancak özellikleri verilmez."
+                    }
+                  },
+                  "12.2.1.4": {
+                    "baslik": "Diziler yardımıyla gerçek hayat durumları ile ilgili problemler çözer.",
+                    "aciklama": {
+                      "a": "Aritmetik, geometrik ve Fibonacci dizilerine doğadan, çeşitli sanat dallarından örnekler verilir. GEOMETRİ"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.3": {
+            "baslik": "Trigonometri",
+            "alt": {
+              "12.3.1": {
+                "baslik": "Toplam-Fark ve İki kat Açı Formülleri",
+                "terimler_ve_kavramlar": "",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "12.3.1.1": {
+                    "baslik": "İki açının ölçüleri toplamının ve farkının trigonometrik değerlerine ait formülleri oluşturarak",
+                    "aciklama": {
+                      "a": "işlemler yapar. Dönüşüm ve ters dönüşüm formülleri verilmez."
+                    }
+                  },
+                  "12.3.1.2": {
+                    "baslik": "İki kat açı formüllerini oluşturarak işlemler yapar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "12.3.2": {
+                "baslik": "Trigonometrik Denklemler",
+                "terimler_ve_kavramlar": "trigonometrik denklem",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "12.3.2.1": {
+                    "baslik": "Trigonometrik denklemlerin çözüm kümelerini bulur.",
+                    "aciklama": {
+                      "a": "𝑎𝑎, 𝑏𝑏, 𝑐𝑐 ∈ℝ  olmak üzere  𝑎𝑎 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠(𝑥𝑥) + 𝑏𝑏 𝑐𝑐𝑐𝑐𝑐𝑐 𝑔𝑔(𝑥𝑥) = 𝑐𝑐  biçimindeki trigonometrik denklemlerin kökleri buldurulur; a, b ve c katsayıları ile çözüm ilişkilendirilir.",
+                      "b": "Gerçek hayat problemlerine yer verilir.",
+                      "c": "El Battani’nin çalışmalarına yer verilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.4": {
+            "baslik": "Dönüşümler",
+            "alt": {
+              "12.4.1": {
+                "baslik": "Analitik Düzlemde Temel Dönüşümler",
+                "terimler_ve_kavramlar": "dönüşüm, öteleme, dönme, dönme merkezi, dönme açısı, simetri, simetri merkezi,",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "12.4.1.1": {
+                    "baslik": "Analitik düzlemde koordinatları verilen bir noktanın öteleme, dönme ve simetri dönüşümleri",
+                    "aciklama": {
+                      "a": "Öteleme, simetri ve dönme kavramları hatırlatılır. 138",
+                      "b": "Noktanın; noktaya, eksenlere, y=x doğrusuna, bir doğruya göre simetrileri ve doğrunun noktaya göre simetrileri vurgulanır. Doğrunun doğruya göre simetrilerine yer verilmez.",
+                      "c": "Bilgi ve iletişim teknolojileri yardımıyla öteleme, simetri ve dönme ele alınır."
+                    }
+                  },
+                  "12.4.1.2": {
+                    "baslik": "Temel dönüşümler ve bileşkeleriyle ilgili problem çözer.",
+                    "aciklama": {
+                      "a": "Modelleme çalışmalarına yer verilir.",
+                      "b": "Doğadan ve mimari eserlerden örneklendirme yapılır. SAYILAR VE CEBİR"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.5": {
+            "baslik": "Türev",
+            "alt": {
+              "12.5.1": {
+                "baslik": "Limit ve Süreklilik",
+                "terimler_ve_kavramlar": "bir noktada limit, sağdan limit, soldan limit, süreklilik",
+                "sembol_ve_gosterimler": "lim       𝑓𝑓(𝑥𝑥),   lim       𝑓𝑓(𝑥𝑥),    lim    𝑓𝑓(𝑥𝑥)",
+                "alt": {
+                  "12.5.1.1": {
+                    "baslik": "Bir fonksiyonun bir noktadaki limiti, soldan limit ve sağdan limit kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Limit kavramı bir bağımsız değişkenin verilen bir sayıya yaklaşmasından hareketle, tablo ve grafikler yardımıyla açıklanır.",
+                      "b": "Bilgi ve iletişim teknolojilerinden yararlanılır.",
+                      "c": "Cauchy’nin çalışmalarına yer verilir."
+                    }
+                  },
+                  "12.5.1.2": {
+                    "baslik": "Limit ile ilgili özellikleri belirterek uygulamalar yapar.",
+                    "aciklama": {
+                      "a": "Polinom, köklü, üstel, logaritmik ve trigonometrik fonksiyonlar içeren limit uygulamaları yapılır ancak sonucu ± ∞ olan limit durumlarına girilmez.",
+                      "b": "Sadece pay ve paydası çarpanlarına ayrılarak belirsizliğin kaldırılabileceği limit örneklerine yer verilir."
+                    }
+                  },
+                  "12.5.1.3": {
+                    "baslik": "Bir fonksiyonun bir noktadaki sürekliliğini açıklar.",
+                    "aciklama": {
+                      "a": "Fonksiyonun grafiği üzerinde sürekli ve süreksiz olduğu noktalar buldurulur.",
+                      "b": "Limitin tarihsel gelişiminden ve Salih Zeki’nin bu alana katkılarından bahsedilir.",
+                      "c": "Bilgi ve iletişim teknolojileri yardımıyla süreklilik uygulamaları yaptırılır."
+                    }
+                  }
+                }
+              },
+              "12.5.2": {
+                "baslik": "Anlık Değişim Oranı ve Türev",
+                "terimler_ve_kavramlar": "anlık değişim oranı, teğetin eğimi, türev, sağdan türev, soldan türev",
+                "sembol_ve_gosterimler": "𝑓𝑓 ′ (𝑥𝑥), 𝑓𝑓 ′′ (𝑥𝑥),",
+                "alt": {
+                  "12.5.2.1": {
+                    "baslik": "Türev kavramını açıklayarak işlemler yapar.",
+                    "aciklama": {
+                      "a": "Anlık değişim oranı fizik ve geometri modellerinden yararlanılarak açıklanır.",
+                      "b": "Verilen bir fonksiyonun bir noktadaki türev değeri ile o noktadaki teğetinin eğimi arasındaki ilişki üzerinde durulur.",
+                      "c": "Bir fonksiyonun bir noktadaki soldan türevi ve sağdan türevi ile türev arasındaki ilişki açıklanır. 139",
+                      "ç": "f(x) = c,  𝑓𝑓(𝑥𝑥) = 𝑎𝑎𝑎𝑎 𝑛𝑛  (𝑎𝑎, 𝑐𝑐∈ℝ, 𝑛𝑛∈ℚ)  şeklindeki fonksiyonlar için türev kuralları verilir. Bunun dışındaki fonksiyonların (kapalı ve parametrik fonksiyonlar dâhil) türev kurallarına yer verilmez.",
+                      "d": "Rolle’nin çalışmalarına yer verilir."
+                    }
+                  },
+                  "12.5.2.2": {
+                    "baslik": "Bir fonksiyonun bir noktada ve bir aralıkta türevlenebilirliğini değerlendirir.",
+                    "aciklama": {
+                      "a": "Bir fonksiyonun bir noktada türevli olması için gerek ve yeter şartları inceler.",
+                      "b": "Fonksiyonun türevli olmadığı noktalarla grafiği arasında ilişki kurulur."
+                    }
+                  },
+                  "12.5.2.3": {
+                    "baslik": "Türevlenebilen iki fonksiyonun toplamı, farkı, çarpımı ve bölümünün türevine ait kurallar",
+                    "aciklama": {
+                      "a": "yardımıyla işlemler yapar."
+                    }
+                  },
+                  "12.5.2.4": {
+                    "baslik": "İki fonksiyonun bileşkesinin türevine ait kuralı (zincir kuralı) oluşturularak türev hesabı yapar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "12.5.3": {
+                "baslik": "Türevin Uygulamaları",
+                "terimler_ve_kavramlar": "kritik nokta, ekstremum nokta, mutlak maksimum, mutlak minimum, yerel",
+                "sembol_ve_gosterimler": "",
+                "alt": {
+                  "12.5.3.1": {
+                    "baslik": "Bir fonksiyonun artan veya azalan olduğu aralıkları türev yardımıyla belirler.",
+                    "aciklama": {}
+                  },
+                  "12.5.3.2": {
+                    "baslik": "Bir fonksiyonun mutlak maksimum ve mutlak minimum, yerel maksimum, yerel minimum",
+                    "aciklama": {
+                      "a": "noktalarını belirler. Bilgi ve iletişim teknolojilerinden yararlanılarak grafik çizimine yer verilir ve yorumlanır."
+                    }
+                  },
+                  "12.5.3.3": {
+                    "baslik": "Türevi yardımıyla bir fonksiyonun grafiğini çizer.",
+                    "aciklama": {
+                      "b": "Bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "12.5.3.4": {
+                    "baslik": "Maksimum ve minimum problemlerini türev yardımıyla çözer.",
+                    "aciklama": {
+                      "a": "Gerçek hayat problemlerine yer verilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.6": {
+            "baslik": "İntegral",
+            "alt": {
+              "12.6.1": {
+                "baslik": "Belirsiz İntegral",
+                "terimler_ve_kavramlar": "ters türev, belirsiz integral, integral sabiti",
+                "sembol_ve_gosterimler": "∫𝑓𝑓(𝑥𝑥)𝑑𝑑𝑑𝑑, 𝑐𝑐",
+                "alt": {
+                  "12.6.1.1": {
+                    "baslik": "Bir fonksiyonun belirsiz integralini açıklayarak integral alma kurallarını oluşturur.",
+                    "aciklama": {
+                      "a": "Belirsiz integral alma kuralları n≠ -1 olmak üzere  𝑓𝑓(𝑥𝑥) = 𝑎𝑎𝑎𝑎 𝑛𝑛  (𝑎𝑎, 𝑐𝑐∈ℝ, 𝑛𝑛∈ℚ)    şeklindeki fonksiyonlarla sınırlandırılır.",
+                      "b": "Bir fonksiyonun bir sabitle çarpımının, iki fonksiyonun toplamının ve farkının integral alma kuralları verilerek uygulamalar yaptırılır."
+                    }
+                  },
+                  "12.6.1.2": {
+                    "baslik": "Değişken değiştirme yoluyla integral alma işlemleri yapar.",
+                    "aciklama": {
+                      "a": "140"
+                    }
+                  }
+                }
+              },
+              "12.6.2": {
+                "baslik": "Belirli İntegral ve Uygulamaları",
+                "terimler_ve_kavramlar": "Riemann toplamı, belirli integral",
+                "sembol_ve_gosterimler": "∫𝑓𝑓(𝑥𝑥)𝑑𝑑𝑑𝑑",
+                "alt": {
+                  "12.6.2.1": {
+                    "baslik": "Bir fonksiyonun grafiği ile x ekseni arasında kalan sınırlı bölgenin alanını Riemann toplamı",
+                    "aciklama": {
+                      "a": "Gerçek hayatta karşılaşılan ve değeri alan formülleriyle hesaplanamayan alanların, uygun toplamların limiti olarak ifade edilebileceği açıklanır.",
+                      "b": "Polinom fonksiyonlarla sınırlandırılır.",
+                      "c": "Bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "12.6.2.2": {
+                    "baslik": "Bir fonksiyonun belirli ve belirsiz integralleri arasındaki ilişkiyi açıklayarak işlemler yapar.",
+                    "aciklama": {}
+                  },
+                  "12.6.2.3": {
+                    "baslik": "Belirli integralin özelliklerini kullanarak işlemler yapar.",
+                    "aciklama": {
+                      "a": "Parçalı fonksiyonların belirli integraline yer verilir."
+                    }
+                  },
+                  "12.6.2.4": {
+                    "baslik": "Belirli integral ile alan hesabı yapar.",
+                    "aciklama": {
+                      "a": "İki fonksiyonun grafikleri arasında kalan sınırlı bölgenin alanı hesaplanır.",
+                      "b": "Gerçek hayat problemlerine   yer verilir.",
+                      "c": "Bilgi ve iletişim teknolojilerinden yararlanılır. GEOMETRİ"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.7": {
+            "baslik": "Analitik Geometri",
+            "alt": {
+              "12.7.1": {
+                "baslik": "Çemberin Analitik İncelenmesi",
+                "terimler_ve_kavramlar": "çemberin genel denklemi, çemberin standart denklemi",
+                "sembol_ve_gosterimler": "(𝑥𝑥−𝑎𝑎) 2   + (𝑦𝑦−𝑏𝑏) 2   = 𝑟𝑟 2 , 𝑥𝑥 2   + 𝑦𝑦 2   + 𝐷𝐷𝐷𝐷+ 𝐸𝐸𝐸𝐸+ 𝐹𝐹= 0",
+                "alt": {
+                  "12.7.1.1": {
+                    "baslik": "Merkezi ve yarıçapı verilen çemberin denklemini oluşturur.",
+                    "aciklama": {
+                      "a": "𝑀𝑀(𝑎𝑎, 𝑏𝑏)   merkezli ve   𝑟𝑟  yarıçaplı çemberin standart denklemi  (𝑥𝑥−𝑎𝑎) 2   + (𝑦𝑦−𝑏𝑏) 2   = 𝑟𝑟 2    yardımıyla çemberin genel denklemi    𝑥𝑥 2   + 𝑦𝑦 2   + 𝐷𝐷𝐷𝐷+ 𝐸𝐸𝐸𝐸+ 𝐹𝐹= 0    şeklinde elde edilir.",
+                      "b": "𝐴𝐴𝑥𝑥 2   + 𝐵𝐵𝑦𝑦 2   + 𝐷𝐷𝐷𝐷+ 𝐸𝐸𝐸𝐸+ 𝐹𝐹= 0  denkleminin hangi durumlarda çember oluşturduğu gösterilir.",
+                      "c": "Bilgi ve iletişim teknolojilerinden yararlanılır."
+                    }
+                  },
+                  "12.7.1.2": {
+                    "baslik": "Denklemleri verilen doğru ile çemberin birbirine göre durumlarını belirleyerek işlemler yapar.",
+                    "aciklama": {
+                      "a": "Doğru ile çemberin varsa kesişim noktaları bulunur.",
+                      "b": "Bilgi ve iletişim teknolojilerinden yararlanılır. 141 ORTAÖĞRETİM 11 VE 12. SINIFLAR TEMEL DÜZEY MATEMATİK DERSİ ÖĞRETİM PROGRAMI 142"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

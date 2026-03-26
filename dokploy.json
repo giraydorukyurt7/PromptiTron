@@ -1,0 +1,69 @@
+{
+  "name": "promptitron-unified",
+  "description": "AI-powered educational assistant with multi-agent system",
+  "version": "1.0.0",
+  "type": "docker-compose",
+  "services": {
+    "promptitron-api": {
+      "name": "Promptitron API",
+      "description": "Main FastAPI application",
+      "port": 8000,
+      "healthcheck": "/health",
+      "env_file": ".env.docker"
+    },
+    "chroma-db": {
+      "name": "ChromaDB Vector Database", 
+      "description": "Vector database for RAG system",
+      "port": 8001,
+      "healthcheck": "/api/v1/heartbeat"
+    },
+    "promptitron-worker": {
+      "name": "Document Worker",
+      "description": "Background document processing",
+      "internal": true
+    },
+    "promptitron-monitor": {
+      "name": "System Monitor",
+      "description": "Health monitoring and system status",
+      "port": 8002,
+      "healthcheck": "/health"
+    }
+  },
+  "volumes": {
+    "chroma_data": "Vector database storage",
+    "./chroma_db": "Local ChromaDB data",
+    "./data": "Application data",
+    "./logs": "Application logs",
+    "./uploads": "File uploads"
+  },
+  "environment": {
+    "required": [
+      "GOOGLE_API_KEY"
+    ],
+    "optional": [
+      "GEMINI_MODEL",
+      "TEMPERATURE",
+      "ENVIRONMENT"
+    ]
+  },
+  "domains": [
+    {
+      "service": "promptitron-api",
+      "subdomain": "api",
+      "port": 8000
+    },
+    {
+      "service": "promptitron-monitor", 
+      "subdomain": "monitor",
+      "port": 8002
+    }
+  ],
+  "deployment": {
+    "strategy": "rolling",
+    "replicas": 1,
+    "resources": {
+      "memory": "2Gi",
+      "cpu": "1000m"
+    }
+  }
+}

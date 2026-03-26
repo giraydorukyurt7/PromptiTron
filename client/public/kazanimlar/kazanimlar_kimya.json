@@ -1,0 +1,1401 @@
+{
+  "yks": {
+    "kimya": {
+      "9": {
+        "alt": {
+          "9.1": {
+            "baslik": "KİMYA BİLİMİ",
+            "anahtar_kavramlar": "bileşik, bilim insanı, element, formül, kimya, laboratuvarda güvenlik, madde, sembol, simya",
+            "alt": {
+              "9.1.1": {
+                "baslik": "Simyadan Kimyaya",
+                "alt": {
+                  "9.1.1.1": {
+                    "baslik": "Kimyanın bilim olma sürecini açıklar.",
+                    "aciklama": {
+                      "a": "Simya ile kimya bilimi arasındaki fark vurgulanır.",
+                      "b": "Kimya biliminin gelişim süreci ele alınırken Mezopotamya, Çin, Hint, Mısır, Yunan, Orta Asya ve İslam uygarlıklarının kimya bilimine yaptığı katkılara ilişkin okuma parçası verilir.",
+                      "c": "Simyadan kimyaya geçiş sürecine katkı sağlayan bilim insanlarından bazılarının (Empedokles, Democritus, Aristo, Cabir bin Hayyan, Ebubekir er-Razi,  Robert Boyle,  Antoine Lavoisier) kimya bilimine ilişkin çalışmaları kısaca tanıtılır."
+                    }
+                  }
+                }
+              },
+              "9.1.2": {
+                "baslik": "Kimya Disiplinleri ve Kimyacıların Çalışma Alanları",
+                "alt": {
+                  "9.1.2.1": {
+                    "baslik": "Kimyanın  ve kimyacıların başlıca çalışma alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Biyokimya, analitik kimya, organik kimya, anorganik kimya, fizikokimya, polimer kimyası ve endüstriyel kimya disiplinleri kısaca tanıtılır.",
+                      "b": "İlaç, gübre, petrokimya, arıtım, boya-tekstil alanlarının kimya ile ilişkisi belirtilir.",
+                      "c": "Kimya alanı ile ilgili kimya mühendisliği, metalurji mühendisliği, eczacı, kimyager, kimya öğretmenliği meslekleri tanıtılır."
+                    }
+                  }
+                }
+              },
+              "9.1.3": {
+                "baslik": "Kimyanın Sembolik Dili",
+                "alt": {
+                  "9.1.3.1": {
+                    "baslik": "Günlük hayatta sıklıkla etkileşimde bulunulan elementlerin adlarını sembolleriyle eşleştirir.",
+                    "aciklama": {
+                      "a": "Element tanımı yapılır.",
+                      "b": "Periyodik sistemdeki ilk 20 element ve günlük hayatta sıkça kullanılan krom, mangan, demir, kobalt, nikel, bakır, çinko, brom, gümüş, kalay, iyot, baryum, platin, altın, cıva, kurşun elementlerinin sembolleri tanıtılır."
+                    }
+                  },
+                  "9.1.3.2": {
+                    "baslik": "Bileşiklerin formüllerini adlarıyla eşleştirir.",
+                    "aciklama": {
+                      "a": "Bileşik tanımı yapılır.",
+                      "b": "H 2 O, HCl, H 2 SO 4 , HNO 3 , CH 3 COOH, CaCO 3 , NaHCO 3  , NH 3 , Ca(OH) 2 , NaOH, KOH, CaO ve NaCl bileşiklerinin yaygın adları tanıtılır. 176"
+                    }
+                  }
+                }
+              },
+              "9.1.4": {
+                "baslik": "Kimya Uygulamalarında İş Sağlığı ve Güvenliği",
+                "alt": {
+                  "9.1.4.1": {
+                    "baslik": "Kimya laboratuvarlarında uyulması gereken iş sağlığı ve güvenliği kurallarını açıklar.",
+                    "aciklama": {
+                      "a": "Kimyada kullanılan sağlık ve güvenlik amaçlı temel uyarı işaretleri [yanıcı, yakıcı, korozif, patlayıcı, tahriş edici, zehirli (toksik), radyoaktif ve çevreye zararlı anlamına gelen işaretler] tanıtılır.",
+                      "b": "İş sağlığı ve güvenliği için temel uyarı işaretlerin bilinmesinin gerekliliği ve önemi vurgulanır."
+                    }
+                  },
+                  "9.1.4.2": {
+                    "baslik": "Kimyasal maddelerin insan sağlığı ve çevre üzerindeki etkilerini açıklar.",
+                    "aciklama": {
+                      "a": "Na, K, Fe, Ca, Mg, H 2 O maddelerinin insan sağlığı ve çevre için önemine değinilir.",
+                      "b": "Hg, Pb, CO 2 , NO 2 , SO 3 , CO, Cl 2  maddelerinin insan sağlığı ve çevre üzerindeki zararlı etkileri vurgulanır."
+                    }
+                  },
+                  "9.1.4.3": {
+                    "baslik": "Kimya laboratuvarında kullanılan bazı temel malzemeleri tanır.",
+                    "aciklama": {
+                      "a": "Beherglas, erlenmayer, dereceli silindir (mezür), pipet, cam balon, balon joje, büret ve ayırma hunisi gibi laboratuvarda bulunan temel araç gereçler tanıtılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.2": {
+            "baslik": "ATOM VE PERİYODİK SİSTEM",
+            "anahtar_kavramlar": "absorbsiyon (soğurma), ametal, atom, atom modeli, atom yarıçapı, elektron ilgisi, elektron, elektronegatiflik, emisyon (yayma), grup, iyon, iyonlaşma enerjisi, izobar, izoelektronik, izoton,  izotop, metal, nötron, periyodik sistem,  periyot,  proton,  teori, yarı metal",
+            "alt": {
+              "9.2.1": {
+                "baslik": "Atom Modelleri",
+                "alt": {
+                  "9.2.1.1": {
+                    "baslik": "Dalton, Thomson, Rutherford ve Bohr atom modellerini açıklar.",
+                    "aciklama": {
+                      "a": "Bohr atom modeli, atomların soğurduğu/yaydığı ışınlar ile ilişkilendirilir. Hesaplamalara girilmeden sadece ışın soğurma/yayma üzerinde durulur.",
+                      "b": "Bohr atom modelinin sınırlılıkları belirtilerek modern atom teorisinin (bulut modelinin) önemi vurgulanır. Orbital kavramına girilmez.",
+                      "c": "Atom modellerinin açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.)  yararlanılır."
+                    }
+                  }
+                }
+              },
+              "9.2.2": {
+                "baslik": "Atomun Yapısı",
+                "alt": {
+                  "9.2.2.1": {
+                    "baslik": "Elektron, proton ve nötronun yüklerini, kütlelerini ve atomda bulundukları yerleri karşılaştırır.",
+                    "aciklama": {
+                      "a": "Elektron, proton, nötron, atom numarası, kütle numarası, izotop, izoton, izobar ve izoelektronik kavramları tanıtılır.",
+                      "b": "Elektron, proton ve nötronun yük ve kütlelerinin nasıl bulunduğu sürecine ve izotop atomlarda ortalama atom kütlesi hesabına girilmez."
+                    }
+                  }
+                }
+              },
+              "9.2.3": {
+                "baslik": "Periyodik Sistem",
+                "alt": {
+                  "9.2.3.1": {
+                    "baslik": "Elementlerin periyodik sistemdeki yerleşim esaslarını açıklar.",
+                    "aciklama": {
+                      "a": "Mendeleyev’in periyodik  sistem  üzerine yaptığı çalışmalar ve Moseley’in katkıları üzerinde durulur.",
+                      "b": "Atomların katman- elektron dağılımlarıyla periyodik sistemdeki yerleri arasındaki ilişki açıklanır. İlk  20 element esas olup diğer elementlerin katman elektron dağılımlarına girilmez."
+                    }
+                  },
+                  "9.2.3.2": {
+                    "baslik": "Elementleri periyodik sistemdeki yerlerine göre sınıflandırır.",
+                    "aciklama": {
+                      "a": "Elementlerin sınıflandırılması metal, ametal, yarı metal ve asal (soy) gazlar olarak yapılır."
+                    }
+                  },
+                  "9.2.3.3": {
+                    "baslik": "Periyodik özelliklerin değişme eğilimlerini açıklar.",
+                    "aciklama": {
+                      "a": "Periyodik özelliklerden metalik-ametalik, atom yarıçapı, iyonlaşma enerjisi, elektron ilgisi ve elektronegatiflik kavramları açıklanır; bunların nasıl ölçüldüğü konusuna girilmez.",
+                      "b": "Kovalent, iyonik, metalik, van der Waals yarıçap tanımlarına girilmez.",
+                      "c": "Periyodik özelliklerin açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır. 9 .3. KİMYASAL TÜRLER ARASI ETKİLEŞİMLER Anahtar kavramlar:  apolar kovalent bağ, bağ enerjisi, değerlik elektronu, hidrojen bağı,  iyon, iyonik bağ,  kimyasal bağ, kovalent bağ, metalik bağ, molekül, moleküller arası etkileşim, polar kovalent bağ"
+                    }
+                  }
+                }
+              },
+              "9.3.1": {
+                "baslik": "Kimyasal Tür",
+                "alt": {
+                  "9.3.1.1": {
+                    "baslik": "Kimyasal türleri açıklar.",
+                    "aciklama": {
+                      "a": "Radikal kavramına girilmez."
+                    }
+                  }
+                }
+              },
+              "9.3.2": {
+                "baslik": "Kimyasal Türler Arası Etkileşimlerin Sınıflandırılması",
+                "alt": {
+                  "9.3.2.1": {
+                    "baslik": "Kimyasal türler arasındaki etkileşimleri sınıflandırır.",
+                    "aciklama": {
+                      "a": "Bağlanan türler arası sınıflandırma, atomlar arası ve moleküller arası şeklinde yapılır; bu sınıflandırmanın getirdiği güçlüklere değinilir.",
+                      "b": "Güçlü etkileşimlere örnek olarak iyonik, kovalent ve metalik bağ;  zayıf etkileşimlere örnek olarak da hidrojen bağı ve van der Waals kuvvetleri verilir."
+                    }
+                  }
+                }
+              },
+              "9.3.3": {
+                "baslik": "Güçlü Etkileşimler",
+                "alt": {
+                  "9.3.3.1": {
+                    "baslik": "İyonik bağın oluşumunu iyonlar arası etkileşimler ile ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Nötr atomların ve tek atomlu iyonların Lewis sembolleri verilir. Örnekler periyodik sistemde ilk 20 element arasından seçilir.",
+                      "b": "İyonik bileşiklerin yapısal birimleri ile molekül kavramının karıştırılmamasına vurgu yapılır.",
+                      "c": "İyonik bağların açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır."
+                    }
+                  },
+                  "9.3.3.2": {
+                    "baslik": "İyonik bağlı bileşiklerin sistematik adlandırmasını yapar.",
+                    "aciklama": {
+                      "a": "Tek atomlu ve çok atomlu iyonların (NH 4 + , OH - , NO 3 - , SO 4 2- , CO 3 2- , PO 4 3- , CN - , CH 3 COO - ) oluşturduğu bileşiklerin adlandırılması yapılır. 178",
+                      "b": "Değişken değerlikli metallerin (Cu, Fe, Hg, Sn, Pb) oluşturduğu bileşiklerin adlandırılması yapılır.",
+                      "c": "Hidrat bileşiklerinin adlandırılmasına girilmez."
+                    }
+                  },
+                  "9.3.3.3": {
+                    "baslik": "Kovalent bağın oluşumunu  atomlar arası elektron ortaklaşması temelinde açıklar.",
+                    "aciklama": {
+                      "a": "Kovalent bağlar sınıflandırılırken polar ve apolar kovalent bağlar verilir; koordine kovalent bağa girilmez.",
+                      "b": "Basit moleküllerin (H 2 , Cl 2 , O 2 , N 2 , HCl, H 2 O, BH 3,  NH 3 , CH 4 , CO 2 ) Lewis elektron nokta formülleri üzerinden bağın ve moleküllerin polarlık-apolarlık durumları üzerinde durulur.",
+                      "c": "Kovalent bağların açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır."
+                    }
+                  },
+                  "9.3.3.4": {
+                    "baslik": "Kovalent bağlı bileşiklerin sistematik adlandırmasını yapar.",
+                    "aciklama": {
+                      "a": "H 2 O, HCl, H 2 SO 4 , HNO 3 , NH 3  bileşik örneklerinin sistematik adları verilir."
+                    }
+                  },
+                  "9.3.3.5": {
+                    "baslik": "Metalik bağın oluşumunu  açıklar.",
+                    "aciklama": {
+                      "a": "Metalik bağın açıklanmasında elektron denizi modeli kullanılır."
+                    }
+                  }
+                }
+              },
+              "9.3.4": {
+                "baslik": "Zayıf Etkileşimler",
+                "alt": {
+                  "9.3.4.1": {
+                    "baslik": "Zayıf ve güçlü etkileşimleri bağ enerjisi esasına göre ayırt eder.",
+                    "aciklama": {}
+                  },
+                  "9.3.4.2": {
+                    "baslik": "Kimyasal türler arasındaki zayıf etkileşimleri sınıflandırır.",
+                    "aciklama": {
+                      "a": "Van der Waals kuvvetleri (dipol-dipol etkileşimleri, iyon-dipol etkileşimleri, dipol- indüklenmiş dipol etkileşimleri, iyon-indüklenmiş dipol etkileşimleri ve London kuvvetleri) açıklanır.",
+                      "b": "Dipol-dipol etkileşimleri, iyon-dipol etkileşimleri ve London kuvvetlerinin genel etkileşme güçleri karşılaştırılır."
+                    }
+                  },
+                  "9.3.4.3": {
+                    "baslik": "Hidrojen bağları ile maddelerin fiziksel özellikleri arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Hidrojen bağının oluşumu açıklanır.",
+                      "b": "Uygun bileşik  serilerinin kaynama noktası değişimleri grafik üzerinde, hidrojen  bağları ve diğer etkileşimler kullanılarak açıklanır.",
+                      "c": "Aziz Sancar’ın DNA’nın onarımı ile ilgili çalışmalarına ve kısa biyografisine okuma parçası olarak yer verilir. Sabırlı, azimli ve kararlı olmanın bilimsel çalışmalarda başarıya ulaşmadaki önemi vurgulanır."
+                    }
+                  }
+                }
+              },
+              "9.3.5": {
+                "baslik": "Fiziksel ve Kimyasal Değişimler",
+                "alt": {
+                  "9.3.5.1": {
+                    "baslik": "Fiziksel ve kimyasal değişimi, kopan ve oluşan bağ enerjilerinin büyüklüğü temelinde ayırt",
+                    "aciklama": {
+                      "a": "eder. Türler arasında fiziksel ve kimyasal değişimlerin açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır. 179"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.4": {
+            "baslik": "MADDENİN HÂLLERİ",
+            "anahtar_kavramlar": "akışkanlık, Avogadro sayısı, bağıl nem, basınç, buhar basıncı, buharlaşma, donma,  erime, genleşme, hacim, kaynama, kırağılaşma (geri süblimleşme), mol, mutlak sıcaklık, nem, plazma, süblimleşme, viskozite, yoğuşma",
+            "alt": {
+              "9.4.1": {
+                "baslik": "Maddenin Fiziksel Hâlleri",
+                "alt": {}
+              },
+              "9.4.2": {
+                "baslik": "Katılar",
+                "alt": {
+                  "9.4.2.1": {
+                    "baslik": "Katıların özellikleri ile bağların gücü arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Katılar sınıflandırılarak günlük hayatta sıkça karşılaşılan tuz, iyot, elmas ve çinko katılarının taneciklerini bir arada tutan kuvvetler üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "9.4.3": {
+                "baslik": "Sıvılar",
+                "alt": {
+                  "9.4.3.2": {
+                    "baslik": "Sıvılarda viskoziteyi etkileyen faktörleri açıklar.",
+                    "aciklama": {
+                      "a": "Viskozitenin moleküller arası etkileşim ile ilişkilendirilmesi sağlanır.",
+                      "b": "Farklı sıvıların viskoziteleri sıcaklıkla ilişkilendirilir.",
+                      "c": "Farklı sıcaklıklarda su, gliserin ve zeytinyağının viskozite deneyleri yaptırılarak elde edilen sonuçların karşılaştırılması sağlanır."
+                    }
+                  },
+                  "9.4.3.3": {
+                    "baslik": "Kapalı kaplarda gerçekleşen buharlaşma-yoğuşma süreçleri üzerinden denge buhar basıncı",
+                    "aciklama": {
+                      "a": "Kaynama olayı dış basınca bağlı olarak açıklanır.",
+                      "b": "Faz diyagramlarına girilmeden kaynama ile buharlaşma olayının birbirinden farklı olduğu belirtilir."
+                    }
+                  },
+                  "9.4.3.4": {
+                    "baslik": "Doğal olayları açıklamada sıvılar ve özellikleri ile ilgili kavramları kullanır.",
+                    "aciklama": {
+                      "a": "Atmosferdeki su buharının varlığının nem kavramıyla ifade edildiği belirtilir.",
+                      "b": "Meteoroloji haberlerinde verilen gerçek ve hissedilen sıcaklık kavramlarının bağıl nem kavramıyla ifade edildiği belirtilir. Bağıl nem hesaplamalarına girilmez."
+                    }
+                  }
+                }
+              },
+              "9.4.4": {
+                "baslik": "Gazlar",
+                "alt": {
+                  "9.4.4.1": {
+                    "baslik": "Gazların genel özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Gaz yasaları ve kinetik-moleküler teoriye girilmez. 180"
+                    }
+                  },
+                  "9.4.4.2": {
+                    "baslik": "Gazların basınç, sıcaklık, hacim ve miktar özelliklerini birimleriyle ifade eder.",
+                    "aciklama": {
+                      "a": "Basınç birimleri olarak (atm ve mmHg); hacim birimi olarak litre (L); sıcaklık birimleri olarak Celcius ( o C) ve Kelvin (K); miktar birimi olarak da mol verilir. Birim dönüşümlerine ve hesaplamalara girilmez."
+                    }
+                  },
+                  "9.4.4.3": {
+                    "baslik": "Saf maddelerin hâl değişim grafiklerini yorumlar.",
+                    "aciklama": {
+                      "a": "Hâl değişim grafikleri üzerinden erime-donma, buharlaşma-yoğuşma ve kaynama süreçleri incelenir.",
+                      "b": "Gizli erime ve buharlaşma ısılarıyla ısınma-soğuma süreçlerine ilişkin hesaplamalara girilmez.",
+                      "c": "Saf suyun hâl değişim deneyi yaptırılarak grafiğinin çizdirilmesi sağlanır."
+                    }
+                  }
+                }
+              },
+              "9.4.5": {
+                "baslik": "Plazma",
+                "alt": {
+                  "9.4.5.1": {
+                    "baslik": "Plazma hâlini açıklar.",
+                    "aciklama": {
+                      "a": "Sıcak ve soğuk plazma sınıflandırmasına girilmez."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.5": {
+            "baslik": "DOĞA VE KİMYA",
+            "anahtar_kavramlar": "kimyasal kirletici, kirlilik, küresel ısınma, sera etkisi, sert/yumuşak su",
+            "alt": {
+              "9.5.1": {
+                "baslik": "Su ve  Hayat",
+                "alt": {
+                  "9.5.1.1": {
+                    "baslik": "Suyun varlıklar için önemini açıklar.",
+                    "aciklama": {
+                      "a": "Su kaynaklarının ve korunmasının önemi açıklanır."
+                    }
+                  },
+                  "9.5.1.2": {
+                    "baslik": "Su tasarrufuna ve su kaynaklarının korunmasına yönelik çözüm önerileri geliştirir.",
+                    "aciklama": {
+                      "a": "Suyu tasarruflu kullanmanın her vatandaşın ülkesine ve dünyaya karşı sorumluluğu/görevi olduğu vurgulanır."
+                    }
+                  },
+                  "9.5.1.3": {
+                    "baslik": "Suyun sertlik ve yumuşaklık özelliklerini açıklar .",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "9.5.2": {
+                "baslik": "Çevre Kimyası",
+                "alt": {
+                  "9.5.2.1": {
+                    "baslik": "Hava, su ve toprak kirliliğine sebep olan kimyasal kirleticileri açıklar.",
+                    "aciklama": {
+                      "a": "Hava kirleticiler olarak azot oksitler, karbon dioksit ve kükürt oksitleri üzerinde durulur.",
+                      "b": "Su ve toprak kirleticiler olarak plastikler, deterjanlar, organik sıvılar, ağır metaller, piller, ve endüstriyel atıklar üzerinde durulur."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "10": {
+        "alt": {
+          "10.1": {
+            "baslik": "KİMYANIN TEMEL KANUNLARI VE KİMYASAL HESAPLAMALAR",
+            "anahtar_kavramlar": "analiz (ayrışma) tepkimesi, asit-baz tepkimesi, çözünme-çökelme tepkimesi, kanun, kimyasal tepkime, mol, sentez (oluşum) tepkimesi, sınırlayıcı bileşen, tepkime denklemleri, yanma tepkimesi, yüzde verim",
+            "alt": {
+              "10.1.1": {
+                "baslik": "Kimyanın Temel Kanunları",
+                "alt": {
+                  "10.1.1.1": {
+                    "baslik": "Kimyanın temel kanunlarını açıklar.",
+                    "aciklama": {
+                      "a": "Kütlenin korunumu, sabit oranlar ve katlı oranlar kanunları ile ilgili hesaplamalar yapılır.",
+                      "b": "Demir(II) sülfür bileşiğinin elde edilmesi deneyi yaptırılır."
+                    }
+                  }
+                }
+              },
+              "10.1.2": {
+                "baslik": "Mol Kavramı",
+                "alt": {
+                  "10.1.2.1": {
+                    "baslik": "Mol kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Mol kavramının tarihsel süreç içerisindeki değişimi üzerinde durulur.",
+                      "b": "Bağıl atom kütlesi tanımlanır.",
+                      "c": "İzotop kavramı ve bazı elementlerin mol kütlelerinin tam sayı çıkmayışının nedeni örneklerle açıklanır.",
+                      "ç": "Mol hesaplamaları yapılır."
+                    }
+                  }
+                }
+              },
+              "10.1.3": {
+                "baslik": "Kimyasal Tepkimeler ve Denklemler",
+                "alt": {
+                  "10.1.3.1": {
+                    "baslik": "Kimyasal tepkimeleri açıklar .",
+                    "aciklama": {
+                      "a": "Kimyasal tepkime denklemlerinin denkleştirilmesi sağlanır. Redoks tepkimelerine girilmez.",
+                      "b": "Yanma, sentez (oluşum), analiz (ayrışma), asit-baz, çözünme-çökelme tepkimeleri örneklerle açıklanır.",
+                      "c": "Kurşun(II) iyodürün çökmesi deneyi yaptırılır.",
+                      "ç": "Kimyasal tepkimelerin açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır."
+                    }
+                  }
+                }
+              },
+              "10.1.4": {
+                "baslik": "Kimyasal Tepkimelerde   Hesaplamalar",
+                "alt": {
+                  "10.1.4.1": {
+                    "baslik": "Kütle, mol sayısı, molekül sayısı, atom sayısı ve gazlar için normal şartlarda hacim",
+                    "aciklama": {
+                      "a": "Sınırlayıcı bileşen hesapları üzerinde durulur.",
+                      "b": "Tepkime denklemleri temelinde % verim hesapları yapılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.2": {
+            "baslik": "KARIŞIMLAR",
+            "anahtar_kavramlar": "adi karışım, aerosol, çözücü, çözünen, çözünme, damıtma, derişim, diyaliz, emülsiyon, heterojen karışım, homojen karışım (çözelti), koligatif özellik, kolloid, kristallendirme, özütleme (ekstraksiyon), ppm, süspansiyon, süzme, yüzdürme (flotasyon)",
+            "alt": {
+              "10.2.1": {
+                "baslik": "Homojen ve Heterojen Karışımlar",
+                "alt": {
+                  "10.2.1.1": {
+                    "baslik": "Karışımları niteliklerine göre sınıflandırır.",
+                    "aciklama": {
+                      "a": "Homojen ve heterojen karışımların ayırt edilmesinde belirleyici olan özellikler açıklanır.",
+                      "b": "Homojen karışımların çözelti olarak adlandırıldığı vurgulanır ve günlük hayattan çözelti örnekleri verilir.",
+                      "c": "Heterojen karışımlar, dağılan maddenin ve dağılma ortamının fiziksel hâline göre sınıflandırılır.",
+                      "ç": "Karışımlar çözünenin ve/veya dağılanın tanecik boyutu esas alınarak sınıflandırılır."
+                    }
+                  },
+                  "10.2.1.2": {
+                    "baslik": "Çözünme sürecini moleküler düzeyde açıklar.",
+                    "aciklama": {
+                      "a": "Tanecikler arası etkileşimlerden faydalanılarak çözünme açıklanır.",
+                      "b": "Çözünme ile polarlık, hidrojen bağı ve çözücü-çözünen benzerliği ilişkilendirilir.",
+                      "c": "Farklı maddelerin (sodyum klorür, etil alkol, karbon tetraklorür) suda çözünme deneyleri yaptırılır.",
+                      "ç": "Farklı fiziksel hâldeki maddelerin suda çözünme süreçlerinin açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır."
+                    }
+                  },
+                  "10.2.1.3": {
+                    "baslik": "Çözünmüş madde oranını belirten ifadeleri yorumlar.",
+                    "aciklama": {
+                      "a": "Çözünen madde oranının yüksek (derişik) ve düşük (seyreltik) olduğu çözeltilere örnekler verilir.",
+                      "b": "Kütlece yüzde, hacimce yüzde ve ppm derişimleri tanıtılır; ppm ile ilgili hesaplamalara girilmez.",
+                      "c": "Yaygın sulu çözeltilerde (çeşme suyu, deniz suyu, serum, kolonya, şekerli su) çözünenin kütlece ve/veya hacimce yüzde derişimlerine örnekler verilir.",
+                      "ç": "Kütlece yüzde ve hacimce yüzde derişimleri farklı çözeltiler hazırlatılır.",
+                      "d": "Günlük tüketim maddelerinin etiketlerindeki derişime ilişkin verilere dikkat çekilir.",
+                      "e": "Örnek çözelti hazırlanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır."
+                    }
+                  },
+                  "10.2.1.4": {
+                    "baslik": "Çözeltilerin özelliklerini günlük hayattan örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Çözeltilerin donma ve kaynama noktasının çözücülerinkinden farklı olduğu ve derişime bağlı olarak değişimi açıklanır. Hesaplamalara girilmez. 183",
+                      "b": "Karayollarında ve taşıtlarda buzlanmaya karşı alınan önlemlere değinilir; bu önlemlerin olumlu ve olumsuz etkilerinin tartışılması sağlanır. Sınıf içi tartışmalarda karşısındakini dinlemenin ve görgü kurallarına uygun davranmanın tartışmanın verimliliği üzerindeki etkisi hatırlatılır."
+                    }
+                  }
+                }
+              },
+              "10.2.2": {
+                "baslik": "Ayırma ve Saflaştırma Teknikleri",
+                "alt": {
+                  "10.2.2.1": {
+                    "baslik": "Endüstri ve sağlık alanlarında kullanılan karışım ayırma tekniklerini açıklar.",
+                    "aciklama": {
+                      "a": "Mıknatıs ile ayırma bunun yanı sıra tanecik boyutu (eleme, süzme, diyaliz), yoğunluk (ayırma hunisi, yüzdürme), erime noktası, kaynama noktası (basit damıtma, ayrımsal damıtma) ve çözünürlük (özütleme, kristallendirme, ayrımsal kristallendirme) farkından yararlanılarak uygulanan ayırma teknikleri üzerinde durulur.",
+                      "b": "Karışımları ayırma deneyleri yaptırılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.3": {
+            "baslik": "ASİTLER, BAZLAR VE TUZLAR",
+            "anahtar_kavramlar": "aktif metal, amfoter metal, asit, baz, indikatör, nötralleşme, pH/pOH, soy metal, tuz, yarı soy metal",
+            "alt": {
+              "10.3.1": {
+                "baslik": "Asitler ve Bazlar",
+                "alt": {
+                  "10.3.1.1": {
+                    "baslik": "Asitleri ve bazları bilinen özellikleri yardımıyla ayırt eder.",
+                    "aciklama": {
+                      "a": "Limon suyu, sirke gibi maddelerin ekşilik ve aşındırma özellikleri, asitlikleriyle ilişkilendirilir.",
+                      "b": "Kirecin, sabunun ve deterjanların ciltte oluşturduğu kayganlık hissi baziklikle ilişkilendirilir.",
+                      "c": "Asitler ve bazların bazı renkli maddelerin (çay, üzüm suyu, kırmızı lahana) rengini değiştirmesi deneyleri yapılarak indikatör kavramı ve pH kâğıdı tanıtılır.",
+                      "ç": "Sirke, limon suyu, çamaşır suyu, sodyum hidroksit, hidroklorik asit ve sodyum klorür çözeltilerinin asitlik veya bazlık değerlerinin pH kâğıdı kullanılarak yorumlanması sağlanır.",
+                      "d": "pH kavramı asitlik ve bazlık ile ilişkilendirilerek açıklanır. Logaritmik tanıma girilmez.",
+                      "e": "Günlük hayatta kullanılan tüketim maddelerinin ambalajlarında yer alan pH değerlerinin asitlik- bazlıkla ilişkilendirilmesi sağlanır."
+                    }
+                  },
+                  "10.3.1.2": {
+                    "baslik": "Maddelerin asitlik ve bazlık özelliklerini moleküler düzeyde açıklar.",
+                    "aciklama": {
+                      "a": "Asitler su ortamında    H3 O +  iyonu oluşturma, bazlar ise OH -  iyonu oluşturma özellikleriyle tanıtılarak basit örnekler verilir.",
+                      "b": "Su ile etkileşerek asit/baz oluşturan CO 2   , SO 2  ve N 2 O 5  maddelerinin çözeltilerinin neden   asit gibi davrandığı; NH 3  ve CaO maddelerinin çözeltilerinin de neden baz gibi davrandığı bu tepkimeler üzerinden açıklanır. Lewis asit-baz tanımına girilmez."
+                    }
+                  }
+                }
+              },
+              "10.3.2": {
+                "baslik": "Asitlerin ve Bazların Tepkimeleri",
+                "alt": {
+                  "10.3.2.1": {
+                    "baslik": "Asitler ve bazlar arasındaki tepkimeleri açıklar.",
+                    "aciklama": {
+                      "a": "Nötralleşme tepkimeleri, asidin ve bazın mol sayıları üzerinden açıklanır. 184",
+                      "b": "Sodyum hidroksit ile sülfürik asidin etkileşiminden sodyum sülfat oluşumu deneyi yaptırılarak asit, baz ve tuz kavramları ilişkilendirilir."
+                    }
+                  },
+                  "10.3.2.2": {
+                    "baslik": "Asitlerin ve bazların günlük hayat açısından önemli tepkimelerini açıklar.",
+                    "aciklama": {
+                      "a": "Asitlerin ve bazların metallerle etkileşerek hidrojen gazı oluşturması reaksiyonlarına örnekler verilir; aktif metal, yarı soy metal, soy metal ve amfoter metal kavramları üzerinde durulur.",
+                      "b": "Alüminyum metalinin amfoterlik özelliğini gösteren deney yaptırılır.",
+                      "c": "Nitrik asit, sülfürik asit ve hidroflorik asidin soy metal ve cam/porselen aşındırma özelliklerine değinilir. Tepkime denklemlerine girilmez.",
+                      "ç": "Derişik sülfürik asit, fosforik asit ve asetik asidin nem çekme ve çözünürken ısı açığa çıkarma özellikleri nedeniyle yol açtıkları tehlikeler vurgulanır."
+                    }
+                  }
+                }
+              },
+              "10.3.3": {
+                "baslik": "Hayatımızda Asitler ve Bazlar",
+                "alt": {
+                  "10.3.3.1": {
+                    "baslik": "Asitlerin ve bazların fayda ve zararlarını açıklar.",
+                    "aciklama": {
+                      "a": "Asit yağmurlarının oluşumuna, çevreye ve tarihi eserlere etkilerine değinilir.",
+                      "b": "Kirecin ve kostiğin yağ, saç ve deriye etkisi deney yapılarak açıklanır.",
+                      "c": "Öğrencilerin asit ve bazların fayda ve zararları hakkında bilişim teknolojileri kullanarak araştırma yapmaları, elde ettikleri bilgileri kaynak belirterek özetlemeleri ve yazılı olarak sunmaları sağlanır. Bilişim teknolojilerini kullanırken siber güvenlik kurallarına uymanın gerekliliği hatırlatılır."
+                    }
+                  },
+                  "10.3.3.2": {
+                    "baslik": "Asit ve bazlarla çalışırken alınması gereken sağlık ve güvenlik önlemlerini açıklar.",
+                    "aciklama": {
+                      "a": "Birbiriyle karıştırılması sakıncalı evsel kimyasallara (çamaşır suyu ile tuz ruhu) örnekler verilir.",
+                      "b": "Asit ve baz ambalajlarındaki güvenlik uyarılarına dikkat çekilir.",
+                      "c": "Aşırı temizlik malzemesi ve lavabo açıcı kullanmanın sağlık, çevre ve tesisat açısından sakıncaları üzerinde durulur.",
+                      "ç": "Mutfak gereçlerinde oluşan kireçlenmeyi ve metal eşyaların paslarını gidermek için yöntem ve malzeme seçiminde dikkat edilmesi gereken hususlar üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "10.3.4": {
+                "baslik": "Tuzlar",
+                "alt": {
+                  "10.3.4.1": {
+                    "baslik": "Tuzların özelliklerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Sodyum klorür, sodyum karbonat, sodyum bikarbonat, kalsiyum karbonat ve amonyum klorür tuzları üzerinde durulur."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.4": {
+            "baslik": "KİMYA HER YERDE",
+            "anahtar_kavramlar": "ağartıcı, apolar grup, mer/monomer/polimer, polar uç, yüzey aktif madde, hijyen, organik gıda, geri dönüşüm",
+            "alt": {
+              "10.4.1": {
+                "baslik": "Yaygın Günlük Hayat Kimyasalları",
+                "alt": {
+                  "10.4.1.1": {
+                    "baslik": "Temizlik maddelerinin özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Yapısal ayrıntılara girmeden sabun ve deterjan aktif maddelerinin kirleri nasıl temizlediği belirtilir.",
+                      "b": "Kişisel temizlikte kullanılan temizlik maddelerinin (şampuan, diş macunu, katı sabun, sıvı sabun) fayda ve zararları vurgulanır.",
+                      "c": "Hijyen amacıyla kullanılan temizlik maddeleri (çamaşır suyu, kireç kaymağı) tanıtılır."
+                    }
+                  },
+                  "10.4.1.2": {
+                    "baslik": "Yaygın polimerlerin kullanım alanlarına örnekler verir.",
+                    "aciklama": {
+                      "a": "Polimerleşme olayı açıklanarak -mer, monomer ve polimer kavramları üzerinde durulur.",
+                      "b": "Kauçuk, polietilen (PE), polietilen teraftalat (PET), kevlar, polivinil klorür (PVC), politetraflor eten (TEFLON) ve polistirenin (PS) yapısal ayrıntılarına girilmeden başlıca kullanım alanlarına değinilir.",
+                      "c": "Polimerlerin farklı alanlarda kullanımlarına ilişkin olumlu ve olumsuz özellikleri vurgulanır.",
+                      "ç": "İçerisinde polimer malzeme kullanılan oyuncak ve tekstil ürünlerinin zararlarına değinilir."
+                    }
+                  },
+                  "10.4.1.3": {
+                    "baslik": "Polimer, kâğıt, cam ve metal malzemelerin geri dönüşümünün ülke ekonomisine katkısını",
+                    "aciklama": {
+                      "a": "açıklar."
+                    }
+                  },
+                  "10.4.1.4": {
+                    "baslik": "Kozmetik malzemelerin içerebileceği zararlı kimyasalları açıklar.",
+                    "aciklama": {
+                      "a": "Kişisel bakım ve estetik amacıyla kullanılan parfüm, saç boyası, kalıcı dövme boyası ve jöle üzerinde durulur."
+                    }
+                  },
+                  "10.4.1.5": {
+                    "baslik": "İlaçların farklı formlarda kullanılmasının nedenlerini açıklar.",
+                    "aciklama": {
+                      "a": "Piyasadaki ilaç formlarının (hap, şurup, iğne, merhem) temel özelliklerine değinilir.",
+                      "b": "Yanlış ve gereksiz ilaç kullanımının insan sağlığına, ülke ekonomisine ve çevreye verdiği zararlar vurgulanır."
+                    }
+                  }
+                }
+              },
+              "10.4.2": {
+                "baslik": "Gıdalar",
+                "alt": {
+                  "10.4.2.1": {
+                    "baslik": "Hazır gıdaları seçerken ve tüketirken dikkat edilmesi gereken hususları açıklar .",
+                    "aciklama": {
+                      "a": "Hazır gıdaların doğal gıdalardan başlıca farklarına (koruyucular, renklendiriciler, emülsiyonlaştırıcılar, tatlandırıcılar, pastörizasyon, UHT sütün işlenmesi) değinilir.",
+                      "b": "Hazır gıda etiketlerindeki üretim ve son kullanım tarihlerinin önemi vurgulanır.",
+                      "c": "Koruyucular, renklendiriciler ve yapay tatlandırıcıların kullanılmasının sağlık üzerindeki etkilerine değinilir.",
+                      "ç": "Günlük tüketim maddelerindeki katkı maddesi içeriği ve katkı maddesi kodlarına ilişkin okuma parçası verilir."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "11": {
+        "alt": {
+          "11.1": {
+            "baslik": "MODERN ATOM TEORİSİ",
+            "anahtar_kavramlar": "atom, atom modeli, Aufbau Prensibi, değerlik elektronu, değerlik orbital, elektron dizilimi, elektron ilgisi, elektronegatiflik, enerji düzeyi (katman), Hund Kuralı, iyonlaşma enerjisi, kuantum sayıları, küresel simetri, orbital (dalga fonksiyonu), Pauli İlkesi, periyodik sistem, teori, yörünge, yükseltgenme basamağı",
+            "alt": {
+              "11.1.1": {
+                "baslik": "Atomun Kuantum Modeli",
+                "alt": {
+                  "11.1.1.1": {
+                    "baslik": "Atomu kuantum modeliyle açıklar.",
+                    "aciklama": {
+                      "a": "Bohr atom modelinin deney ve gözlemlerden elde edilen bulguları açıklamadaki sınırlılıkları vurgulanarak modern atom teorisinin (bulut modelinin) önemi üzerinde durulur.",
+                      "b": "Tek elektronlu atomlar/iyonlar için orbital kavramı elektronların bulunma olasılığı ile ilişkilendirilir.",
+                      "c": "Yörünge ve orbital kavramları karşılaştırılır.",
+                      "ç": "Kuantum sayıları orbitallerle ilişkilendirilir.",
+                      "d": "Çok elektronlu atomlarda orbitallerin enerji seviyeleri açıklanır."
+                    }
+                  }
+                }
+              },
+              "11.1.2": {
+                "baslik": "Periyodik Sistem ve Elektron Dizilimleri",
+                "alt": {
+                  "11.1.2.1": {
+                    "baslik": "Nötr atomların elektron dizilimleriyle periyodik sistemdeki yerleri arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Hund Kuralı, Pauli İlkesi ve Aufbau Prensibi açıklanır.",
+                      "b": "Atomların ve iyonların elektron dizilimlerine örnekler verilir. Atom numarası 36 ve daha küçük türlerin elektron dizilimleri esas alınır.",
+                      "c": "Değerlik orbital ve değerlik elektronu kavramları açıklanır.",
+                      "ç": "Elektron dizilimleriyle elementin ait olduğu blok ilişkilendirilerek grup ve periyot belirlenir."
+                    }
+                  }
+                }
+              },
+              "11.1.3": {
+                "baslik": "Periyodik Özellikler",
+                "alt": {
+                  "11.1.3.1": {
+                    "baslik": "Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar.",
+                    "aciklama": {
+                      "a": "Kovalent yarıçap, van der Waals yarıçapı ve iyonik yarıçapın farkları üzerinde durulur.",
+                      "b": "Periyodik özellikler arasında metallik/ametallik, atom/iyon yarıçapı, iyonlaşma enerjisi, elektron ilgisi, elektronegatiflik ve oksit/hidroksit bileşiklerinin asitlik/bazlık eğilimleri üzerinde durulur. Periyodik özelliklerin nasıl ölçüldüğüne girilmez.",
+                      "c": "Ardışık iyonlaşma enerjilerinin grup numarasıyla ilişkisi örneklerle gösterilir."
+                    }
+                  }
+                }
+              },
+              "11.1.4": {
+                "baslik": "Elementleri Tanıyalım",
+                "alt": {
+                  "11.1.4.1": {
+                    "baslik": "Elementlerin periyodik sistemdeki konumu ile özellikleri arasındaki ilişkileri açıklar.",
+                    "aciklama": {
+                      "a": "s, p, d bloku elementlerinin metal/ametal karakteri, iyon yükleri, aktiflikleri ve yaptıkları kimyasal bağ tipi elektron dizilimiyle ilişkilendirilir.",
+                      "b": "f blok elementlerinin periyodik sistemdeki konumlarıyla ilgili özel durumları vurgulanır.",
+                      "c": "Asal gaz özellikleri elektron dizilimleriyle ilişkilendirilir."
+                    }
+                  }
+                }
+              },
+              "11.1.5": {
+                "baslik": "Yükseltgenme Basamakları",
+                "alt": {
+                  "11.1.5.1": {
+                    "baslik": "Yükseltgenme basamakları ile elektron dizilimleri arasındaki ilişkiyi açıklar.",
+                    "aciklama": {
+                      "a": "Ametallerin anyon hâlindeki yükleriyle yükseltgenme basamakları arasındaki fark örneklendirilir.",
+                      "b": "d bloku elementlerinin birden çok yükseltgenme basamağında bulunabilmeleri, elektron dizilimleriyle ilişkilendirilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.2": {
+            "baslik": "GAZLAR",
+            "anahtar_kavramlar": "basınç, difüzyon, doygun buhar basıncı, efüzyon, faz diyagramı, hacim, ideal gaz, gerçek gaz, kısmi basınç, kritik basınç, kritik sıcaklık, mutlak sıcaklık, standart-normal şartlar",
+            "alt": {
+              "11.2.1": {
+                "baslik": "Gazların Özellikleri ve Gaz Yasaları",
+                "alt": {
+                  "11.2.1.1": {
+                    "baslik": "Gazların betimlenmesinde kullanılan özellikleri açıklar.",
+                    "aciklama": {
+                      "a": "Basınç birimleri (atm, Torr, mmHg ) ve hacim birimleri (L, m3) ile bunların ondalık ast ve üst katları kısaca açıklanır.",
+                      "b": "Gazların özelliklerinin ölçme yöntemleri üzerinde durulur. Manometrelerle ilgili hesaplamalara girilmez."
+                    }
+                  },
+                  "11.2.1.2": {
+                    "baslik": "Gaz yasalarını açıklar.",
+                    "aciklama": {
+                      "a": "Gazların özelliklerine ilişkin yasalar (Boyle, Charles, Gay Lussac ve Avogadro) üzerinde durulur.",
+                      "b": "Öğrencilerin hazır veriler kullanılarak gaz yasaları ile ilgili grafikler çizmeleri ve yorumlamaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.2.2": {
+                "baslik": "İdeal Gaz Yasası",
+                "alt": {
+                  "11.2.2.1": {
+                    "baslik": "Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyi açıklar.",
+                    "aciklama": {
+                      "a": "Boyle, Charles ve Avogadro yasalarından yola çıkılarak ideal gaz denklemi türetilir.",
+                      "b": "İdeal gaz denklemi kullanılarak örnek hesaplamalar yapılır.",
+                      "c": "Normal şartlarda gaz hacimleri kütle ve mol sayısıyla ilişkilendirilir."
+                    }
+                  }
+                }
+              },
+              "11.2.3": {
+                "baslik": "Gazlarda Kinetik Teori",
+                "alt": {
+                  "11.2.3.1": {
+                    "baslik": "Gaz davranışlarını kinetik teori ile açıklar.",
+                    "aciklama": {
+                      "a": "Kinetik teorinin temel varsayımları üzerinde durulur.",
+                      "b": "Kinetik teorinin temel varsayımları kullanılarak Graham Difüzyon ve Efüzyon Yasası türetilir. 188",
+                      "c": "Difüzyon deneyi yaptırılır; bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılarak da açıklanır. Deney yapılırken güvenlik uyarılarına dikkat edilmesi gerektiği hatırlatılır."
+                    }
+                  }
+                }
+              },
+              "11.2.4": {
+                "baslik": "Gaz Karışımları",
+                "alt": {
+                  "11.2.4.1": {
+                    "baslik": "Gaz karışımlarının kısmi basınçlarını günlük hayattan örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Sıvıların doygun buhar basınçları kısmi basınç kavramıyla ilişkilendirilerek su üzerinde toplanan gazlarla ilgili hesaplamalar yapılır."
+                    }
+                  }
+                }
+              },
+              "11.2.5": {
+                "baslik": "Gerçek Gazlar",
+                "alt": {
+                  "11.2.5.1": {
+                    "baslik": "Gazların sıkışma/genleşme sürecinde gerçek gaz ve ideal gaz kavramlarını karşılaştırır.",
+                    "aciklama": {
+                      "a": "Gerçek gazların hangi durumlarda ideallikten saptığı belirtilir.",
+                      "b": "Karbon dioksitin ve suyun faz diyagramı açıklanarak buhar ve gaz kavramları arasındaki fark vurgulanır.",
+                      "c": "Suyun farklı kristal yapılarını gösteren faz diyagramlarına girilmez.",
+                      "ç": "Günlük hayatta yaygın kullanılan ve gerçek gazların hâl değişimlerinin uygulamaları olan soğutma sistemleri (Joule-Thomson olayı) örnekleriyle açıklanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.3": {
+            "baslik": "SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+            "anahtar_kavramlar": "çözünürlük, dipol-dipol etkileşimleri, dipol-indüklenmiş dipol etkileşimleri, hidrojen bağı, indüklenmiş dipol-indüklenmiş dipol etkileşimleri, iyon-dipol etkileşimleri, iyon- indüklenmiş dipol etkileşimleri, molalite, molarite",
+            "alt": {
+              "11.3.1": {
+                "baslik": "Çözücü Çözünen Etkileşimleri",
+                "alt": {
+                  "11.3.1.1": {
+                    "baslik": "Kimyasal türler arası etkileşimleri kullanarak sıvı ortamda çözünme olayını açıklar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "11.3.2": {
+                "baslik": "Derişim Birimleri",
+                "alt": {
+                  "11.3.2.1": {
+                    "baslik": "Çözünen madde miktarı ile farklı derişim birimlerini ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Derişim birimleri olarak molarite ve molalite tanıtılır.",
+                      "b": "Normalite ve formalite tanımlarına girilmez."
+                    }
+                  },
+                  "11.3.2.2": {
+                    "baslik": "Farklı derişimlerde çözeltiler hazırlar.",
+                    "aciklama": {
+                      "a": "Derişimle ilgili hesaplamalar yapılarak hesaplamalarda molarite ve molalite yanında kütlece yüzde, hacimce yüzde, mol kesri ve ppm kavramları da kullanılır."
+                    }
+                  }
+                }
+              },
+              "11.3.3": {
+                "baslik": "Koligatif Özellikler",
+                "alt": {
+                  "11.3.3.1": {
+                    "baslik": "Çözeltilerin koligatif özellikleri ile derişimleri arasında ilişki kurar .",
+                    "aciklama": {
+                      "a": "Koligatif özelliklerden buhar basıncı alçalması, donma noktası alçalması (kriyoskopi), kaynama noktası yükselmesi (ebülyoskopi) ve osmotik basınç üzerinde durulur.",
+                      "b": "Osmotik basınç ile ilgili hesaplamalara girilmez.",
+                      "c": "Ters osmoz yöntemiyle su arıtımı hakkında kısaca bilgi verilir. 189",
+                      "ç": "Saf suyun ve farklı derişimlerdeki sulu çözeltilerin kaynama noktası tayini deneyleri yaptırılır."
+                    }
+                  }
+                }
+              },
+              "11.3.4": {
+                "baslik": "Çözünürlük",
+                "alt": {
+                  "11.3.4.1": {
+                    "baslik": "Çözeltileri çözünürlük kavramı temelinde sınıflandırır.",
+                    "aciklama": {
+                      "a": "Seyreltik, derişik, doygun, aşırı doygun ve doymamış çözelti kavramları üzerinde durulur.",
+                      "b": "Çözünürlükler g/100 g su birimi cinsinden verilir.",
+                      "c": "Çözünürlükle ilgili hesaplamalar yapılır."
+                    }
+                  }
+                }
+              },
+              "11.3.5": {
+                "baslik": "Çözünürlüğe Etki Eden Faktörler",
+                "alt": {
+                  "11.3.5.1": {
+                    "baslik": "Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklar.",
+                    "aciklama": {
+                      "a": "Farklı tuzların sıcaklığa bağlı çözünürlük eğrilerinin yorumlanması sağlanır.",
+                      "b": "Tuzların farklı sıcaklıklardaki çözünürlüklerinden faydalanılarak deriştirme ve kristallendirme ile ilgili hesaplamalar yapılır.",
+                      "c": "Gazların çözünürlüklerinin basınç ve sıcaklıkla değişimi üzerinde durulur; çözünürlük eğrilerinin yorumlanması sağlanır.",
+                      "ç": "Öğrencilerin çözünürlüğün sıcaklık ve basınçla ilişkisini elektronik tablolama programı kullanarak kurgulamaları, değerleri değiştirerek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.4": {
+            "baslik": "KİMYASAL TEPKİMELERDE ENERJİ",
+            "anahtar_kavramlar": "bağ enerjisi, ekzotermik tepkime, endotermik tepkime, entalpi, Hess Yasası, standart oluşum entalpisi,  tepkime entalpisi",
+            "alt": {
+              "11.4.1": {
+                "baslik": "Tepkimelerde Isı Değişimi",
+                "alt": {
+                  "11.4.1.1": {
+                    "baslik": "Tepkimelerde meydana gelen enerji değişimlerini açıklar.",
+                    "aciklama": {
+                      "a": "Tepkimelerin ekzotermik ve endotermik olması ısı alışverişiyle ilişkilendirilir.",
+                      "b": "Ekzotermik ve endotermik tepkimelerin açıklanmasında bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılır."
+                    }
+                  }
+                }
+              },
+              "11.4.2": {
+                "baslik": "Oluşum Entalpisi",
+                "alt": {
+                  "11.4.2.1": {
+                    "baslik": "Standart oluşum entalpileri üzerinden tepkime entalpilerini hesaplar.",
+                    "aciklama": {
+                      "a": "Standart oluşum entalpileri tanımlanır.",
+                      "b": "Tepkime entalpisi potansiyel enerji-tepkime koordinatı grafiği üzerinden açıklanır.",
+                      "c": "Öğrencilerin tepkime entalpilerine ilişkin elektronik tablolama programı kullanarak grafik oluşturmaları, değerleri değiştirerek gerçekleşen değişimleri gözlemlemeleri ve yorumlamaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.4.3": {
+                "baslik": "Bağ Enerjileri",
+                "alt": {
+                  "11.4.3.1": {
+                    "baslik": "Bağ enerjileri ile tepkime entalpisi arasındaki ilişkiyi açıklar.",
+                    "aciklama": {
+                      "a": "Oluşan ve kırılan bağ enerjileri üzerinden tepkime entalpisi hesaplamaları yapılır. 190"
+                    }
+                  }
+                }
+              },
+              "11.4.4": {
+                "baslik": "Tepkime Isılarının Toplanabilirliği",
+                "alt": {
+                  "11.4.4.1": {
+                    "baslik": "Hess Yasasını açıklar.",
+                    "aciklama": {
+                      "a": "Hess Yasası ile ilgili hesaplamalar yapılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.5": {
+            "baslik": "KİMYASAL TEPKİMELERDE HIZ",
+            "anahtar_kavramlar": "aktivasyon enerjisi, hız sabiti, inhibitör, katalizör, ortalama tepkime hızı",
+            "alt": {
+              "11.5.1": {
+                "baslik": "Tepkime Hızları",
+                "alt": {
+                  "11.5.1.1": {
+                    "baslik": "Kimyasal tepkimeler ile tanecik çarpışmaları arasındaki ilişkiyi açıklar.",
+                    "aciklama": {}
+                  },
+                  "11.5.1.2": {
+                    "baslik": "Kimyasal tepkimelerin hızlarını açıklar.",
+                    "aciklama": {
+                      "a": "Madde miktarı (derişim, mol, kütle, gaz maddeler için normal şartlarda hacim) ile tepkime hızı ilişkilendirilir.",
+                      "b": "Ortalama tepkime hızı kavramı açıklanır.",
+                      "c": "Homojen ve heterojen faz tepkimelerine örnekler verilir."
+                    }
+                  }
+                }
+              },
+              "11.5.2": {
+                "baslik": "Tepkime Hızını Etkileyen Faktörler",
+                "alt": {
+                  "11.5.2.1": {
+                    "baslik": "Tepkime hızına etki eden faktörleri açıklar.",
+                    "aciklama": {
+                      "a": "Tek basamaklı tepkimelerde, her iki yöndeki tepkime hızının derişime bağlı ifadeleri verilir.",
+                      "b": "Çok basamaklı tepkimeler için hız belirleyici basamağın üzerinde durulur.",
+                      "c": "Madde cinsi, derişim, sıcaklık, katalizör (enzimlere girilmez) ve temas yüzeyinin tepkime hızına etkisi üzerinde durulur. Arrhenius bağıntısına girilmez.",
+                      "ç": "Oktay Sinanoğlu’nun kısa biyografisini ve tepkime mekanizmaları üzerine yaptığı çalışmaları tanıtan okuma parçasına yer verilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.6": {
+            "baslik": "KİMYASAL TEPKİMELERDE DENGE",
+            "anahtar_kavramlar": "asit-baz çifti, asitlik/bazlık sabiti, Brönsted-Lowry asidi/bazı, çökelme tepkimesi, çözünürlük çarpımı, denge sabiti, eşdeğerlik noktası, indikatör, kimyasal denge, kuvvetli asit/baz,  Le Chatelier İlkesi, oto-iyonizasyon, pH/pOH, tampon çözelti, titrasyon, zayıf asit/baz",
+            "alt": {
+              "11.6.1": {
+                "baslik": "Kimyasal Denge",
+                "alt": {
+                  "11.6.1.1": {
+                    "baslik": "Fiziksel ve kimyasal değişimlerde dengeyi açıklar.",
+                    "aciklama": {
+                      "a": "Maksimum düzensizlik ve minimum enerji eğilimleri üzerinden denge açıklanır.",
+                      "b": "İleri ve geri tepkime hızları üzerinden denge açıklanır.",
+                      "c": "Tersinir reaksiyonlar için derişim ve basınç cinsinden denge ifadeleri türetilerek hesaplamalar yapılır.",
+                      "ç": "Farklı denge sabitleri arasındaki ilişki incelenir."
+                    }
+                  }
+                }
+              },
+              "11.6.2": {
+                "baslik": "Dengeyi Etkileyen Faktörler",
+                "alt": {
+                  "11.6.2.1": {
+                    "baslik": "Dengeyi etkileyen faktörleri açıklar.",
+                    "aciklama": {
+                      "a": "Sıcaklığın, derişimin, hacmin, kısmi basınçların ve toplam basıncın dengeye etkisi denge ifadesi üzerinden açıklanır.",
+                      "b": "Le Chatelier İlkesi örnekler üzerinden irdelenir.",
+                      "c": "Katalizör-denge ilişkisi vurgulanır."
+                    }
+                  }
+                }
+              },
+              "11.6.3": {
+                "baslik": "Sulu Çözelti Dengeleri",
+                "alt": {
+                  "11.6.3.1": {
+                    "baslik": "pH ve pOH kavramlarını suyun oto-iyonizasyonu üzerinden açıklar.",
+                    "aciklama": {}
+                  },
+                  "11.6.3.2": {
+                    "baslik": "Brönsted-Lowry asitlerini/bazlarını karşılaştırır.",
+                    "aciklama": {}
+                  },
+                  "11.6.3.3": {
+                    "baslik": "Katyonların asitliğini ve anyonların bazlığını su ile etkileşimleri temelinde açıklar.",
+                    "aciklama": {
+                      "a": "Kuvvetli/zayıf asitler ve bazlar tanıtılır; konjuge asit-baz çiftlerine örnekler verilir.",
+                      "b": "Asit gibi davranan katyonların ve baz gibi davranan anyonların su ile etkileşimleri üzerinde durulur."
+                    }
+                  },
+                  "11.6.3.4": {
+                    "baslik": "Asitlik/bazlık gücü ile ayrışma denge sabitleri arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Asitlerin/bazların iyonlaşma oranlarının denge sabitleriyle ilişkilendirilmesi sağlanır."
+                    }
+                  },
+                  "11.6.3.5": {
+                    "baslik": "Kuvvetli ve zayıf monoprotik asit/baz çözeltilerinin pH değerlerini hesaplar.",
+                    "aciklama": {
+                      "a": "Çok derişik ve çok seyreltik asit/baz çözeltilerinin pH değerlerine girilmez.",
+                      "b": "Zayıf asitler/bazlar için [H+] = (Ka.Ca)1/2 ve [OH-] = (Kb.Cb)1/2 eşitlikleri esas alınır.",
+                      "c": "Poliprotik asitlere girilmez."
+                    }
+                  },
+                  "11.6.3.6": {
+                    "baslik": "Tampon çözeltilerin özellikleri ile günlük kullanım alanlarını ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Tampon çözeltilerin pH değerlerinin seyrelme ve asit/baz ilavesi ile fazla değişmemesi ortamdaki dengeler üzerinden açıklanır. Henderson formülü ve tampon kapasitesine girilmez.",
+                      "b": "Tampon çözeltilerin canlı organizmalar açısından önemine değinilir."
+                    }
+                  },
+                  "11.6.3.7": {
+                    "baslik": "Tuz çözeltilerinin asitlik/bazlık özelliklerini açıklar .",
+                    "aciklama": {
+                      "a": "Asidik, bazik ve nötr tuz kavramları açıklanır.",
+                      "b": "Anyonu zayıf baz olan tuzlara örnekler verilir.",
+                      "c": "Katyonu NH4+ veya anyonu HSO4– olan tuzların asitliği üzerinde durulur.",
+                      "ç": "Hidroliz hesaplamalarına girilmez."
+                    }
+                  },
+                  "11.6.3.8": {
+                    "baslik": "Kuvvetli asit/baz derişimlerini titrasyon yöntemiyle belirler.",
+                    "aciklama": {
+                      "a": "Titrasyon deneyi yaptırılıp sonuçların grafik üzerinden gösterilerek yorumlanması sağlanır.",
+                      "b": "Titrasyonla ilgili hesaplama örnekleri verilir.",
+                      "c": "Öğrencilerin titrasyon yöntemine yönelik hesaplamaları elektronik tablolama programı yardımıyla kurgulamaları, değerleri değiştirerek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "12": {
+        "alt": {
+          "12.1": {
+            "baslik": "KİMYA VE ELEKTRİK",
+            "anahtar_kavramlar": "anot, elektrik yükü, elektrolit, elektrolitik hücre, elektroliz, elektrot, Faraday sabiti, galvanik hücre, indirgenme, katodik koruma, katot, korozyon, metal kaplamacılık, metallerin aktiflik sırası, redoks, standart elektrot potansiyeli, tuz köprüsü, yarı hücre, yükseltgenme",
+            "alt": {
+              "12.1.1": {
+                "baslik": "İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+                "alt": {
+                  "12.1.1.1": {
+                    "baslik": "Redoks tepkimelerini tanır.",
+                    "aciklama": {
+                      "a": "Yükseltgenme ve indirgenme kavramları üzerinde durulur.",
+                      "b": "Redoks tepkimeleri denkleştirilerek yaygın yükseltgenler (O 2 , KMnO 4 , H 2 SO 4 , HNO 3 , H 2 O 2 ) ve indirgenler (H 2 , SO 2 ) tanıtılır.",
+                      "c": "İyonik redoks tepkimelerinin denkleştirilmesine girilmez."
+                    }
+                  },
+                  "12.1.1.2": {
+                    "baslik": "Redoks tepkimeleriyle elektrik enerjisi arasındaki ilişkiyi açıklar.",
+                    "aciklama": {
+                      "a": "İndirgen-yükseltgen arasındaki elektron alışverişinin doğrudan temas dışında bir yolla mümkün olup olmayacağının üzerinde durulur.",
+                      "b": "Elektrik enerjisi ile redoks tepkimesinin istemlilik/istemsizlik durumu ilişkilendirilir."
+                    }
+                  }
+                }
+              },
+              "12.1.2": {
+                "baslik": "Elektrotlar ve Elektrokimyasal Hücreler",
+                "alt": {
+                  "12.1.2.1": {
+                    "baslik": "Elektrot ve elektrokimyasal hücre kavramlarını açıklar .",
+                    "aciklama": {
+                      "a": "Katot ve anot kavramları, indirgenme-yükseltgenme ile ilişkilendirilerek ele alınır.",
+                      "b": "Elektrot, yarı-hücre ve hücre kavramları üzerinde durulur.",
+                      "c": "İnert elektrotların hangi durumlarda gerekli olduğu belirtilir.",
+                      "ç": "Pillerde tuz köprüsünün işlevi açıklanır.",
+                      "d": "Zn/Cu elektrokimyasal pili deneyi yaptırılır; bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılarak da açıklanır."
+                    }
+                  }
+                }
+              },
+              "12.1.3": {
+                "baslik": "Elektrot Potansiyelleri",
+                "alt": {
+                  "12.1.3.1": {
+                    "baslik": "Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar.",
+                    "aciklama": {
+                      "a": "Standart yarı hücre indirgenme potansiyelleri, standart hidrojen yarı hücresi ile ilişkilendirilir.",
+                      "b": "Metallerin aktiflik sırası üzerinde durulur. 193",
+                      "c": "İki ayrı yarı hücre arasındaki istemli redoks tepkimesinin, standart indirgenme potansiyelleri ile ilişkilendirilmesi sağlanır.",
+                      "ç": "Standart olmayan koşullarda elektrot potansiyellerinin hesaplanmasına yönelik çalışmalara yer verilir."
+                    }
+                  }
+                }
+              },
+              "12.1.4": {
+                "baslik": "Kimyasallardan Elektrik Üretimi",
+                "alt": {
+                  "12.1.4.1": {
+                    "baslik": "Standart koşullarda galvanik pillerin voltajını ve kullanım ömrünü örnekler vererek açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.1.4.2": {
+                    "baslik": "Lityum iyon pillerinin önemini kullanım alanlarıyla ilişkilendirerek açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin lityum iyon pilleri ve güncel kullanım alanlarını açıklayan bir poster hazırlamaları ve sınıfta sunmaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "12.1.5": {
+                "baslik": "Elektroliz",
+                "alt": {
+                  "12.1.5.1": {
+                    "baslik": "Elektroliz olayını elektrik akımı, zaman ve değişime uğrayan madde kütlesi açısından açıklar.",
+                    "aciklama": {
+                      "a": "1 mol elektronun toplam yükü üzerinden elektrik yükü-kütle ilişkisi kurulması sağlanır.",
+                      "b": "Yük birimi Coulomb (C) tanımlanır.",
+                      "c": "Faraday bağıntısı açıklanarak bu bağıntının kullanıldığı hesaplamalar yapılır.",
+                      "ç": "Öğrencilerin Faraday bağıntısını elektronik tablolama programı kullanarak kurgulamaları, değerleri değiştirerek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır.",
+                      "d": "Kaplama deneyi yaptırılır."
+                    }
+                  },
+                  "12.1.5.2": {
+                    "baslik": "Kimyasal maddelerin elektroliz yöntemiyle elde ediliş sürecini açıklar.",
+                    "aciklama": {
+                      "a": "Suyun elektrolizi ile hidrojen ve oksijen eldesi deneyi yaptırılır."
+                    }
+                  }
+                }
+              },
+              "12.1.6": {
+                "baslik": "Korozyon",
+                "alt": {
+                  "12.1.6.1": {
+                    "baslik": "Korozyon önleme yöntemlerinin elektrokimyasal temellerini açıklar.",
+                    "aciklama": {
+                      "a": "Korozyon kavramı açıklanır.",
+                      "b": "Korozyondan koruma süreci metallerin aktiflik sırası ile ilişkilendirilir; kurban elektrot kavramı üzerinde durulur.",
+                      "c": "Kurban elektrotun kullanım alanlarına örnekler verilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.2": {
+            "baslik": "KARBON KİMYASINA GİRİŞ",
+            "anahtar_kavramlar": "anorganik bileşik, basit formül, elmas, grafit, hibritleşme, molekül formülü, molekül geometrisi, organik bileşik, yapı formülü, π (pi) bağı, σ (sigma) bağı",
+            "alt": {
+              "12.2.1": {
+                "baslik": "Anorganik ve Organik Bileşikler",
+                "alt": {
+                  "12.2.1.1": {
+                    "baslik": "Anorganik ve organik bileşikleri ayırt eder.",
+                    "aciklama": {
+                      "a": "Organik bileşik kavramının tarihsel gelişimi açıklanır.",
+                      "b": "Anorganik ve organik bileşiklerin özellikleri vurgulanır."
+                    }
+                  }
+                }
+              },
+              "12.2.2": {
+                "baslik": "Basit Formül ve Molekül Formülü",
+                "alt": {
+                  "12.2.2.1": {
+                    "baslik": "Organik bileşiklerin basit ve molekül formüllerinin bulunması ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "194"
+                    }
+                  }
+                }
+              },
+              "12.2.3": {
+                "baslik": "Doğada Karbon",
+                "alt": {
+                  "12.2.3.1": {
+                    "baslik": "Karbon allotroplarının özelliklerini yapılarıyla ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Karbon elementinin çok sayıda bileşik oluşturma özelliği ile bağ yapma özelliği arasında ilişki kurulur.",
+                      "b": "Elmas ve grafitin incelenmesi sağlanarak fulleren, nanotüp ve grafenin yapıları ve önemleri üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "12.2.4": {
+                "baslik": "Lewis Formülleri",
+                "alt": {
+                  "12.2.4.1": {
+                    "baslik": "Kovalent bağlı kimyasal türlerin Lewis formüllerini yazar.",
+                    "aciklama": {
+                      "a": "Oktetin aşıldığı moleküller kapsam dışıdır."
+                    }
+                  }
+                }
+              },
+              "12.2.5": {
+                "baslik": "Hibritleşme-Molekül Geometrileri",
+                "alt": {
+                  "12.2.5.1": {
+                    "baslik": "Tek, çift ve üçlü bağların oluşumunu hibrit ve atom orbitalleri temelinde açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.2.5.2": {
+                    "baslik": "Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler.",
+                    "aciklama": {
+                      "a": "Hibritleşme ve VSEPR (Değerlik Katmanı Elektron Çifti İtmesi) yaklaşımı üzerinde durulur. 2. periyot elementlerinin hidrojenle yaptığı bileşikler dışındakiler verilmez.",
+                      "b": "Öğrencilerin hibritleşme ve VSEPR yaklaşımı konusunda bilişim teknolojilerinden yararlanarak (animasyon, simülasyon, video vb.) molekül modelleri yapmaları sağlanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.3": {
+            "baslik": "ORGANİK BİLEŞİKLER",
+            "anahtar_kavramlar": "aldehit, alifatik bileşik, alkan, alken, alkil halojenür, alkin, alkol, aromatik bileşik, ester, eter, fonksiyonel grup, halkalı yapılar, hidrokarbon, izomerlik, karboksilik asit, keton, yağ asidi, yapısal izomerlik, zincir yapılı bileşikler",
+            "alt": {
+              "12.3.1": {
+                "baslik": "Hidrokarbonlar",
+                "alt": {
+                  "12.3.1.1": {
+                    "baslik": "Hidrokarbon türlerini ayırt eder.",
+                    "aciklama": {}
+                  },
+                  "12.3.1.2": {
+                    "baslik": "Basit alkanların adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Yanma ve halojenlerle yer değiştirme özellikleri üzerinde durulur.",
+                      "b": "Yapısal izomerlik ve çeşitleri üzerinde durulur.",
+                      "c": "Alkanların yakıtlarda [LPG, benzin, motorin (dizel), fueloil, katran ve asfalt ürünlerinin bileşenleri] kullanıldığı, hekzanın ise çözücü olarak kullanıldığı vurgulanır.",
+                      "ç": "Benzinlerde oktan sayısı hakkında okuma parçası verilir."
+                    }
+                  },
+                  "12.3.1.3": {
+                    "baslik": "Basit alkenlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Cis-trans izomerlik üzerinde durulur.",
+                      "b": "Alkenlerin kullanım alanı olarak alkil halojenür ve alkoller için ham madde oldukları vurgulanır.",
+                      "c": "Alkenlerin gıda endüstrisindeki kullanımları ve polimerleşme özellikleri hakkında bilgi verilir."
+                    }
+                  },
+                  "12.3.1.4": {
+                    "baslik": "Basit alkinlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "195 Asetilenin üretimi, kullanım alanları, katılma özellikleri ve birincil patlayıcı tuzları üzerinde durulur. Diğer alkin örneklerine girilmez."
+                    }
+                  },
+                  "12.3.1.5": {
+                    "baslik": "Basit aromatik bileşiklerin adlarını, formüllerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Benzen, naftalin, anilin, toluen ve fenol bileşikleri tanıtılarak yapıları ve kullanım alanlarına değinilir."
+                    }
+                  }
+                }
+              },
+              "12.3.2": {
+                "baslik": "Fonksiyonel Gruplar",
+                "alt": {
+                  "12.3.2.1": {
+                    "baslik": "Organik bileşikleri fonksiyonel gruplarına göre sınıflandırır.",
+                    "aciklama": {
+                      "a": "Alkil-gruplarına, hidroksi-, alkoksi-, halo-, karbonil-, karboksil-, amino-, nitro-, fenil- grupları bağlanınca oluşan bileşikler genel olarak tanıtılır."
+                    }
+                  }
+                }
+              },
+              "12.3.3": {
+                "baslik": "Alkoller",
+                "alt": {
+                  "12.3.3.1": {
+                    "baslik": "Alkolleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Etanolün fermantasyon yöntemi ile elde edilişi açıklanır.",
+                      "b": "Etanolün alkil halojenürlerden ve alkenlerden elde edilişi üzerinde durulur.",
+                      "c": "Alkollerin hidroksil sayısına ve alfa karbonundaki alkil sayısına göre sınıflandırılması sağlanır.",
+                      "ç": "1-4 karbonlu mono alkoller, etandiol (glikol) ve propantriol (gliserin) üzerinde durulur.",
+                      "d": "Metanolün zehirli özellikleri vurgulanır.",
+                      "e": "Etanolün sağlık alanında kullanımına vurgu yapılır. f. Etanolün biyoyakıt işlevi gördüğü ve çözücü olarak kullanıldığı vurgulanır."
+                    }
+                  }
+                }
+              },
+              "12.3.4": {
+                "baslik": "Eterler",
+                "alt": {
+                  "12.3.4.1": {
+                    "baslik": "Eterleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Asimetrik-simetrik eter ayrımı yapılır.",
+                      "b": "Eterlerin çözücü özelliklerine vurgu yapılır.",
+                      "c": "Fonksiyonel grup izomerliği açıklanarak eterlerin alkollerle izomerliğine değinilir."
+                    }
+                  }
+                }
+              },
+              "12.3.5": {
+                "baslik": "Karbonil Bileşikleri",
+                "alt": {
+                  "12.3.5.1": {
+                    "baslik": "Karbonil bileşiklerini sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını",
+                    "aciklama": {
+                      "a": "Aldehit ve ketonları ayırt edecek düzeyde yapısal ilişki kurularak indirgenme- yükseltgenme özelliklerinin karşılaştırılması sağlanır.",
+                      "b": "Aldehitlere örnek olarak formaldehit, asetaldehit ve benzaldehit; ketonlara örnek olarak aseton verilir.",
+                      "c": "Aldehit ve ketonların fonksiyonel grup izomerliklerine değinilir.",
+                      "ç": "Aldehit ve ketonların gıda ve kozmetik sanayinde nasıl kullanıldıkları üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "12.3.6": {
+                "baslik": "Karboksilik Asitler",
+                "alt": {
+                  "12.3.6.1": {
+                    "baslik": "Karboksilik asitleri sınıflandırarak adlarını, formüllerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Formik asit, asetik asit, salisilik asit, ftalik asit, sitrik asit, malik asit, folik asit ve benzoik asit tanıtılır. Düz zincirli monokarboksilli asitlerin dışındakilerin formüllerine girilmez.",
+                      "b": "Doymuş ve doymamış yağ asitleri tanıtılır.",
+                      "c": "Yağ asidi tuzlarının sabun olarak kullanıldığı vurgulanır.",
+                      "ç": "Benzoik asidin ve benzoatların gıda koruyucu maddesi olarak kullanıldığı vurgulanır."
+                    }
+                  }
+                }
+              },
+              "12.3.7": {
+                "baslik": "Esterler",
+                "alt": {
+                  "12.3.7.1": {
+                    "baslik": "Esterlerin adlarını, formüllerini ve kullanım alanlarını açıklar.",
+                    "aciklama": {
+                      "a": "Esterleşme tepkimesine örnek verilir.",
+                      "b": "Esterlerin yer aldığı doğal maddelere örnek olarak lanolin, balmumu ve balsam verilir.",
+                      "c": "Esterlerin çözücü olarak kullanımlarına ilişkin örnekler verilir.",
+                      "ç": "Karboksilik asit ve esterlerin fonksiyonel grup izomerliklerine değinilir.",
+                      "d": "Sabun eldesi deneyi yaptırılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.4": {
+            "baslik": "ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+            "anahtar_kavramlar": "biyokütle, doğal gaz, fosil yakıt, ham petrol, jeotermal, kömür, nanoteknoloji, sürdürülebilirlik",
+            "alt": {
+              "12.4.1": {
+                "baslik": "Fosil Yakıtlar",
+                "alt": {
+                  "12.4.1.1": {
+                    "baslik": "Fosil yakıtların çevreye zararlı etkilerini azaltmak için çözüm önerilerinde bulunur.",
+                    "aciklama": {
+                      "a": "Fosil yakıtlar ve bu yakıtların oluşumu bilişim teknolojilerinden (animasyon,  simülasyon, video vb.) yararlanılarak açıklanır.",
+                      "b": "Fosil yakıtları bilinçsizce tüketmenin ve israf etmenin bireye, topluma ve çevreye verdiği zararlara değinilir.",
+                      "c": "Öğrencilerin, fosil yakıtların çevreye zararlı etkilerini araştırmaları ve elde ettikleri bilgilerden yararlanarak bunların çevreye zararlı etkilerini azaltmaya yönelik çözüm önerileri hakkında tartışmaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "12.4.2": {
+                "baslik": "Alternatif Enerji Kaynakları",
+                "alt": {
+                  "12.4.2.1": {
+                    "baslik": "Alternatif enerji kaynaklarını tanır.",
+                    "aciklama": {
+                      "a": "Güneş, rüzgâr, hidrojen, jeotermal ve biyokütle enerji kaynaklarına değinilir.",
+                      "b": "Bor mineralinden hidrojen eldesinin ülkemizin kalkınması için önemi vurgulanır.",
+                      "c": "Turhan Nejat Veziroğlu’nun kısa özgeçmişi ve hidrojenin yakıt olarak kullanılması üzerine yaptığı çalışmalara okuma parçası olarak yer verilir."
+                    }
+                  },
+                  "12.4.2.2": {
+                    "baslik": "Nükleer enerji kullanımını bilim, toplum, teknoloji, çevre ve ekonomi açısından",
+                    "aciklama": {
+                      "a": "değerlendirir."
+                    }
+                  }
+                }
+              },
+              "12.4.3": {
+                "baslik": "Sürdürülebilirlik",
+                "alt": {
+                  "12.4.3.1": {
+                    "baslik": "Sürdürülebilir hayat ve kalkınmanın toplum ve çevre için önemini kimya bilimi ile",
+                    "aciklama": {
+                      "a": "ilişkilendirerek açıklar. 197 Enerji, polimer, kâğıt ve metal sektörlerinin sürdürülebilir hayat üzerindeki etkilerine değinilir."
+                    }
+                  }
+                }
+              },
+              "12.4.4": {
+                "baslik": "Nanoteknoloji",
+                "alt": {
+                  "12.4.4.1": {
+                    "baslik": "Nanoteknoloji alanındaki gelişmeleri bilim, toplum, teknoloji, çevre ve ekonomiye etkileri",
+                    "aciklama": {
+                      "a": "açısından değerlendirir. Nanoteknoloji kavramı örnekler üzerinden açıklanır. 198"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

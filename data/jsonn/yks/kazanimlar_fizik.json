@@ -1,0 +1,1906 @@
+{
+  "yks": {
+    "fizik": {
+      "9": {
+        "alt": {
+          "9.1": {
+            "baslik": "FİZİK BİLİMİNE GİRİŞ",
+            "anahtar_kavramlar": "fizik bilimi, temel-türetilmiş büyüklükler, vektörel-skaler büyüklükler, bilim araştırma merkezi.",
+            "alt": {
+              "9.1.1": {
+                "baslik": "FİZİK BİLİMİNİN ÖNEMİ",
+                "alt": {
+                  "9.1.1.1": {
+                    "baslik": "Evrendeki olayların anlaşılmasında fizik biliminin önemini açıklar.",
+                    "aciklama": {
+                      "a": "Fiziğin evren ve evrendeki olayların anlaşılması ve açıklanmasındaki rolü üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "9.1.2": {
+                "baslik": "FİZİĞİN UYGULAMA ALANLARI",
+                "alt": {
+                  "9.1.2.1": {
+                    "baslik": "Fiziğin uygulama alanlarını, alt dalları ve diğer disiplinlerle ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Fiziğin mekanik, termodinamik, elektromanyetizma, optik, katıhal fiziği, atom fiziği, nükleer fizik, yüksek enerji ve plazma fiziği alt dalları, uygulama alanlarından örneklerle açıklanır. Alt dallar ile ilgili mesleklere örnekler verilir.",
+                      "b": "Fiziğin felsefe, biyoloji, kimya, teknoloji, mühendislik, sanat, spor ve matematik alanları ile olan ilişkisine günlük hayattan örnekler verilir."
+                    }
+                  }
+                }
+              },
+              "9.1.3": {
+                "baslik": "FİZİKSEL NİCELİKLERİN SINIFLANDIRILMASI",
+                "alt": {
+                  "9.1.3.1": {
+                    "baslik": "Fiziksel nicelikleri sınıflandırır.",
+                    "aciklama": {
+                      "a": "günlük hayattan örnekler verilerek, karşılaştırma yapılması sağlanır.",
+                      "b": "Temel büyüklüklerin birimleri SI birim sisteminde tanıtılır. Türetilmiş büyüklükler için fen bilimleri dersinde geçmiş konulardan örnekler verilir.",
+                      "c": "Niceliklerin skaler ve vektörel olarak tanımlanması ve sınıflandırılması sağlanır.",
+                      "ç": "Vektörlerde toplama işlemlerinin tek boyutta yapılması sağlanır. Skaler ve vektörel niceliklerde toplama işlemlerine (tek boyutt"
+                    }
+                  }
+                }
+              },
+              "9.1.4": {
+                "baslik": "BİLİM ARAŞTIRMA MERKEZLERİ",
+                "alt": {
+                  "9.1.4.1": {
+                    "baslik": "Bilim araştırma merkezlerinin fizik bilimi için önemini açıklar.",
+                    "aciklama": {
+                      "a": "Bilim araştırma merkezleri TÜBİTAK, TAEK, ASELSAN, CERN, NASA ve ESA ile sınırlandırılır.",
+                      "b": "Bilimsel araştırmalarda etik ilkelere uymanın önemi vurgulanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.2": {
+            "baslik": "MADDE VE ÖZELLİKLERİ",
+            "anahtar_kavramlar": "kütle, hacim, özkütle, dayanıklılık, yapışma (adezyon), birbirini tutma (kohezyon), yüzey gerilimi, kılcallık.",
+            "alt": {
+              "9.2.1": {
+                "baslik": "MADDE VE ÖZKÜTLE",
+                "alt": {
+                  "9.2.1.1": {
+                    "baslik": "Özkütleyi, kütle ve hacimle ilişkilendirerek açıklar.",
+                    "aciklama": {
+                      "a": "Kütle ve hacim kavramlarına değinilir. Kütle (mg, g, kg ve ton) ve hacim (mL, L, cm 3 , dm 3 , m 3 ) için anlamlı birim dönüşümleri yapılır. Dönüşümler yapılırken bilişim teknolojilerinden faydalanılabileceği belirtilir.",
+                      "b": "Düzgün geometrik şekilli cisimlerden küp, dikdörtgenler prizması, silindir, küre ve şekli düzgün olmayan cisimler için hacim hesaplamaları yapılır. Kum-su problemlerine girilmez.",
+                      "c": "Sabit sıcaklık ve basınçta ölçüm yapılarak kütle-hacim grafiğinin çizilmesi; kütle, hacim ve özkütle kavramları arasındaki matematiksel modelin çıkarılması sağlanır. Matematiksel hesaplamalar yapılır.",
+                      "ç": "Kütle-özkütle, hacim-özkütle grafiklerinin çizilmesi ve yorumlanması sağlanır.",
+                      "d": "Eşit kollu terazi ile ilgili matematiksel hesaplamalara girilmez.",
+                      "e": "Karışımların özkütlelerine değinilir. Matematiksel hesaplamalara girilmez. f) Archimedes ve el-Hazini’nin özkütle ile ilgili yaptığı çalışmalar hakkında kısaca bilgi verilir."
+                    }
+                  },
+                  "9.2.1.2": {
+                    "baslik": "Günlük hayatta saf maddelerin ve karışımların özkütlelerinden faydalanılan durumlara",
+                    "aciklama": {
+                      "a": "örnekler verir. Kuyumculuk, porselen yapımı, ebru yapımı gibi özkütleden faydalanılan çalışma alanlarına değinilir."
+                    }
+                  }
+                }
+              },
+              "9.2.2": {
+                "baslik": "DAYANIKLILIK",
+                "alt": {
+                  "9.2.2.1": {
+                    "baslik": "Dayanıklılık kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Düzgün geometrik şekilli cisimlerden küp, dikdörtgenler prizması, silindir ve kürenin kesit alanının hacme oranı dışında dayanıklılık kavramı ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "9.2.3": {
+                "baslik": "YAPIŞMA VE BİRBİRİNİ TUTMA",
+                "alt": {
+                  "9.2.3.1": {
+                    "baslik": "Yapışma (adezyon) ve birbirini tutma (kohezyon) olaylarını örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Yüzey gerilimi ve kılcallık olayının yapışma ve birbirini tutma olayları ile açıklanması ve günlük hayattan örnekler verilmesi sağlanır.",
+                      "b": "Yüzey gerilimini etkileyen faktörlerin, günlük hayattaki örnekler ile açıklanması sağlanır.",
+                      "c": "Adezyon, kohezyon, yüzey gerilimi ve kılcallık ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.3": {
+            "baslik": "HAREKET VE KUVVET",
+            "anahtar_kavramlar": "öteleme hareketi, dönme hareketi, titreşim hareketi, referans noktası, konum, alınan yol, yer değiştirme, sürat, hız, anlık hız, ortalama hız, ivme, kuvvet, kütle çekim kuvveti, dengelenmiş kuvvet, dengelenmemiş kuvvet, net kuvvet, yer çekimi ivmesi, ağırlık, sürtünme kuvveti, eylemsizlik, etki-tepki kuvvetleri.",
+            "alt": {
+              "9.3.1": {
+                "baslik": "HAREKET",
+                "alt": {
+                  "9.3.1.1": {
+                    "baslik": "Cisimlerin hareketlerini sınıflandırır.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlardan yararlanarak öteleme, dönme ve titreşim hareketlerine örnekler verilmesi sağlanır."
+                    }
+                  },
+                  "9.3.1.2": {
+                    "baslik": "Konum, alınan yol, yer değiştirme, sürat ve hız kavramlarını birbirleri ile ilişkilendirir.",
+                    "aciklama": {}
+                  },
+                  "9.3.1.3": {
+                    "baslik": "Düzgün doğrusal hareket için konum, hız ve zaman kavramlarını ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlarla veriler toplamaları, konum-zaman ve hız-zaman grafiklerini çizmeleri, bunları yorumlamaları ve çizilen grafikler arasında dönüşümler yapmaları sağlanır.",
+                      "b": "Öğrencilerin grafiklerden yararlanarak hareket ile ilgili matematiksel modelleri çıkarmaları ve yorumlamaları sağlanır."
+                    }
+                  },
+                  "9.3.1.4": {
+                    "baslik": "Ortalama hız kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Trafikte yeşil dalga sisteminin çalışma ilkesi üzerinde durulur."
+                    }
+                  },
+                  "9.3.1.5": {
+                    "baslik": "İvme kavramını hızlanma ve yavaşlama olayları ile ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Sabit ivmeli hareket ile sınırlı kalınır.",
+                      "b": "İvmenin matematiksel modelinin çıkarılması sağlanır. Matematiksel hesaplamalara girilmez.",
+                      "c": "Sabit ivmeli hareket için hız-zaman ve ivme- zaman grafiklerini çizmeleri, yorumlamaları sağlanır. Grafikler arasında dönüşümlere girilmez. Konum-zaman grafiği çizdirilmez.",
+                      "ç": "Anlık hız kavramına değinilir."
+                    }
+                  },
+                  "9.3.1.6": {
+                    "baslik": "Bir cismin hareketini farklı referans noktalarına göre açıklar.",
+                    "aciklama": {
+                      "a": "Gözlemlerle hareketin göreceli olduğu çıkarımının yapılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "9.3.2": {
+                "baslik": "KUVVET",
+                "alt": {
+                  "9.3.2.1": {
+                    "baslik": "Kuvvet kavramını örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Temas gerektiren ve gerektirmeyen kuvvetlere örnek verilmesi sağlanır.",
+                      "b": "Dört temel kuvvetin hangi kuvvetler olduğu belirtilir.",
+                      "c": "Kütle çekim kuvvetinin bağlı olduğu değişkenler verilir. Matematiksel hesaplamalara girilmez.",
+                      "ç": "Dengelenmiş ve dengelenmemiş kuvvetler vurgulanır."
+                    }
+                  }
+                }
+              },
+              "9.3.3": {
+                "baslik": "NEWTON’IN HAREKET YASALARI",
+                "alt": {
+                  "9.3.3.1": {
+                    "baslik": "Dengelenmiş kuvvetlerin etkisindeki cisimlerin hareket durumlarını örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "İbn-i Sina’nın hareket konusunda yaptığı çalışmalar hakkında kısaca bilgi verilir."
+                    }
+                  },
+                  "9.3.3.2": {
+                    "baslik": "Kuvvet, ivme ve kütle kavramları arasındaki ilişkiyi açıklar.",
+                    "aciklama": {
+                      "a": "Net kuvvet, ivme ve kütle arasındaki matematiksel model verilir.",
+                      "b": "Serbest cisim diyagramı üzerinde cisme etki eden kuvvetler gösterilir. Net kuvvetin büyüklüğü hesaplanarak yönü gösterilir.",
+                      "c": "Hesaplamalarda yatay düzlemde tek kütle ile sınırlı kalınır. Bileşenlere ayırma hesaplamalarına girilmez.",
+                      "ç": "Yer çekimi ivmesi açıklanarak ağırlık hesaplamaları yapılır."
+                    }
+                  },
+                  "9.3.3.3": {
+                    "baslik": "Etki-tepki kuvvetlerini örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Yatay ve düşey düzlemlerde etki-tepki kuvvetlerinin gösterilmesi sağlanır. 150",
+                      "b": "Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "9.3.4": {
+                "baslik": "SÜRTÜNME KUVVETİ",
+                "alt": {
+                  "9.3.4.1": {
+                    "baslik": "Sürtünme kuvvetinin bağlı olduğu değişkenleri analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlardan elde ettiği verilerden çıkarım yapmaları ve değişkenler arasındaki ilişkiyi belirlemeleri sağlanır. Yatay düzlemle sınırlı kalınır.",
+                      "b": "Statik ve kinetik sürtünme kuvvetlerinin karşılaştırılması sağlanır.",
+                      "c": "Serbest cisim diyagramları üzerinde sürtünme kuvvetinin gösterilmesi sağlanır.",
+                      "ç": "Sürtünme kuvvetinin matematiksel modeli verilir. Matematiksel hesaplamalara girilmez.",
+                      "d": "Sürtünme kuvvetinin günlük hayattaki avantaj ve dezavantajlarına örnekler verilmesi sağlanır.",
+                      "e": "Kayarak ve dönerek ilerleyen cisimlerde sürtünme kuvvetinin yönü, örnekler üzerinden açıklanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.4": {
+            "baslik": "ENERJİ",
+            "anahtar_kavramlar": "iş, enerji, güç, öteleme kinetik enerjisi, yer çekimi potansiyel enerjisi, esneklik potansiyel enerjisi, mekanik enerji, enerji korunumu, enerji dönüşümü, verim, yenilenebilir enerji, yenilenemez enerji.",
+            "alt": {
+              "9.4.1": {
+                "baslik": "İŞ, ENERJİ VE GÜÇ",
+                "alt": {
+                  "9.4.1.1": {
+                    "baslik": "İş, enerji ve güç kavramlarını birbirleriyle ilişkilendirir.",
+                    "aciklama": {
+                      "a": "İş ile enerji arasındaki ilişki kavramsal olarak verilir. b)Öğrencilerin iş ve güç kavramlarının matematiksel modellerini incelemeleri sağlanır.",
+                      "c": "Fiziksel anlamda iş ve güç ile günlük hayatta kullanılan iş ve güç kavramlarının farklı olduğu vurgulanır."
+                    }
+                  },
+                  "9.4.1.2": {
+                    "baslik": "Mekanik iş ve mekanik güç ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "Hareket ile aynı doğrultudaki kuvvetlerle sınırlı kalınır."
+                    }
+                  }
+                }
+              },
+              "9.4.2": {
+                "baslik": "MEKANİK ENERJİ",
+                "alt": {
+                  "9.4.2.1": {
+                    "baslik": "Öteleme kinetik enerjisi, yer çekimi potansiyel enerjisi ve esneklik potansiyel enerjisinin",
+                    "aciklama": {
+                      "a": "Öteleme kinetik enerjisi, yer çekimi potansiyel enerjisi ve esneklik potansiyel enerjisinin matematiksel modelleri verilir. Deney veya simülasyonlar yardımıyla değişkenlerin analiz edilmesi sağlanır. Matematiksel hesaplamalara girilmez.",
+                      "b": "Esneklik potansiyel enerjisinde tek yaylı sistemler dikkate alınmalıdır.",
+                      "c": "Mekanik enerjinin kinetik enerji ve potansiyel enerjinin toplamına eşit olduğu vurgulanır."
+                    }
+                  }
+                }
+              },
+              "9.4.3": {
+                "baslik": "ENERJİNİN KORUNUMU VE ENERJİ DÖNÜŞÜMLERİ",
+                "alt": {
+                  "9.4.3.1": {
+                    "baslik": "Enerjinin bir biçimden diğer bir biçime (mekanik, ısı, ışık, ses gibi) dönüşümünde toplam",
+                    "aciklama": {
+                      "a": "Sürtünmeden dolayı enerjinin tamamının hedeflenen enerji biçimine dönüştürülemeyeceği vurgulanır.",
+                      "b": "Enerji dönüşüm hesaplamalarına girilmez."
+                    }
+                  },
+                  "9.4.3.2": {
+                    "baslik": "Canlıların besinlerden kazandıkları enerji ile günlük aktiviteler için harcadıkları enerjiyi",
+                    "aciklama": {
+                      "a": "karşılaştırır. Canlıların fiziksel anlamda iş yapmadan da enerji harcayabildikleri vurgulanır."
+                    }
+                  }
+                }
+              },
+              "9.4.4": {
+                "baslik": "VERİM",
+                "alt": {
+                  "9.4.4.1": {
+                    "baslik": "Verim kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Enerji tasarrufu ve enerji verimliliği arasındaki ilişki enerji kimlik belgeleri üzerinden açıklanır."
+                    }
+                  },
+                  "9.4.4.2": {
+                    "baslik": "Örnek bir sistem veya tasarımın verimini artıracak öneriler geliştirir.",
+                    "aciklama": {
+                      "a": "Tarihsel süreçte tasarlanmış olan çeşitli verim artırıcı sistemlerin çalışma prensibine değinilir."
+                    }
+                  }
+                }
+              },
+              "9.4.5": {
+                "baslik": "ENERJİ KAYNAKLARI",
+                "alt": {
+                  "9.4.5.1": {
+                    "baslik": "Yenilenebilir ve yenilenemez enerji kaynaklarını avantaj ve dezavantajları açısından",
+                    "aciklama": {
+                      "a": "Enerji kaynaklarının maliyeti, erişilebilirliği, üretim kolaylığı, toplum, teknoloji ve çevresel etkileri göz önünde bulundurulur.",
+                      "b": "Enerji kaynaklarını tasarruflu kullanmanın gerekliliği vurgulanır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.5": {
+            "baslik": "ISI VE SICAKLIK",
+            "anahtar_kavramlar": "ısı, sıcaklık, iç enerji, öz ısı, ısı sığası, hâl değişimi, ısıl denge, enerji iletim hızı, genleşme, büzülme, ısı yalıtımı, hissedilen sıcaklık, küresel ısınma.",
+            "alt": {
+              "9.5.1": {
+                "baslik": "ISI VE SICAKLIK",
+                "alt": {
+                  "9.5.1.1": {
+                    "baslik": "Isı, sıcaklık ve iç enerji kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Entalpi ve entropi kavramlarına girilmez.",
+                      "b": "Isı ve sıcaklık kavramlarının birimleri ve ölçüm aletlerinin adları verilir."
+                    }
+                  },
+                  "9.5.1.2": {
+                    "baslik": "Termometre çeşitlerini kullanım amaçları açısından karşılaştırır.",
+                    "aciklama": {}
+                  },
+                  "9.5.1.3": {
+                    "baslik": "Sıcaklık birimleri ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "0 C,  0 F, K için birim dönüşümleri yapılması sağlanır."
+                    }
+                  },
+                  "9.5.1.4": {
+                    "baslik": "Öz ısı ve ısı sığası kavramlarını birbiriyle ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Günlük hayattan örnekler (denizlerin karalardan geç ısınıp geç soğuması gibi) verilir."
+                    }
+                  },
+                  "9.5.1.5": {
+                    "baslik": "Isı alan veya ısı veren saf maddelerin sıcaklığında meydana gelen değişimin bağlı olduğu",
+                    "aciklama": {
+                      "a": "değişkenleri analiz eder. Deney veya simülasyonlardan yararlanılarak değişkenler arasındaki ilişkiyi belirlemeleri sağlanır. Matematiksel model verilir. Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "9.5.2": {
+                "baslik": "HÂL DEĞİŞİMİ",
+                "alt": {
+                  "9.5.2.1": {
+                    "baslik": "Saf maddelerde hâl değişimi için gerekli olan ısı miktarının bağlı olduğu değişkenleri analiz",
+                    "aciklama": {
+                      "a": "eder. Deney veya simülasyonlardan yararlanarak değişkenler arasındaki ilişkiyi belirlemeleri sağlanır. Matematiksel model verilir. Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "9.5.3": {
+                "baslik": "ISIL DENGE",
+                "alt": {
+                  "9.5.3.1": {
+                    "baslik": "Isıl denge kavramının sıcaklık farkı ve ısı kavramı ile olan ilişkisini analiz eder.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlardan yararlanılarak ısıl dengenin sıcaklık değişimi ve ısı ile ilişkisinin belirlenmesi sağlanır.",
+                      "b": "Isıl denge ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "9.5.4": {
+                "baslik": "ENERJİ İLETİM YOLLARI VE ENERJİ İLETİM HIZI",
+                "alt": {
+                  "9.5.4.1": {
+                    "baslik": "Enerji iletim yollarını örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlardan yararlanılarak değişkenler arasındaki ilişkiyi belirlemeleri sağlanır.",
+                      "b": "Günlük hayattan örnekler (ısı yalıtımında izolasyon malzemelerinin kullanılması, soğuk bölgelerde pencerelerin küçük, duvarların daha kalın olması gibi) verilir.",
+                      "c": "Enerji iletim hızı ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "9.5.4.3": {
+                    "baslik": "Enerji tasarrufu için yaşam alanlarının yalıtımına yönelik tasarım yapar.",
+                    "aciklama": {
+                      "a": "Enerji tasarrufu için ısı yalıtım sisteminin aile bütçesine ve ülke ekonomisine olan katkısının önemi vurgulanır.",
+                      "b": "Öğrencilerin ısı yalıtımı ile ilgili günlük hayattan bir problem belirlemeleri ve bu problem için çözümler üretmeleri sağlanır.",
+                      "c": "Yapılacak tasarımlarda finans bilincinin geliştirilmesi için bütçe hesaplaması yapılmasının gerekliliği vurgulanmalıdır."
+                    }
+                  },
+                  "9.5.4.4": {
+                    "baslik": "Hissedilen ve gerçek sıcaklık arasındaki farkın sebeplerini yorumlar.",
+                    "aciklama": {}
+                  },
+                  "9.5.4.5": {
+                    "baslik": "Küresel ısınmaya karşı alınacak tedbirlere yönelik proje geliştirir.",
+                    "aciklama": {
+                      "a": "Öğrencilerin projelerini poster, broşür veya elektronik sunu ile tanıtmaları sağlanır.",
+                      "b": "Küresel ısınmanın sebeplerine dikkat çekilir.",
+                      "c": "Çevreye karşı duyarlı olmanın gerekliliği ve bireysel olarak yapılabilecek katkılar hakkında tartışılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "9.5.5": {
+                "baslik": "GENLEŞME",
+                "alt": {
+                  "9.5.5.1": {
+                    "baslik": "Katı ve sıvılarda genleşme ve büzülme olaylarının günlük hayattaki etkilerini yorumlar.",
+                    "aciklama": {
+                      "a": "Katı ve sıvıların genleşmesi ve büzülmesinin günlük hayatta oluşturduğu avantaj ve dezavantajların tartışılması sağlanır.",
+                      "b": "Su ve buzun özkütle, öz ısıları karşılaştırılarak günlük hayata etkileri üzerinde durulur. 153",
+                      "c": "Genleşme ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "9.6": {
+            "baslik": "ELEKTROSTATİK",
+            "anahtar_kavramlar": "elektrik yükü, birim yük, elektrikle yüklenme, yük korunumu, elektroskop, iletken madde, yalıtkan madde, yük dağılımı, Faraday kafesi, topraklama, elektriksel kuvvet, Coulomb Yasası, elektrik alan.",
+            "alt": {
+              "9.6.1": {
+                "baslik": "ELEKTRİK YÜKLERİ",
+                "alt": {
+                  "9.6.1.1": {
+                    "baslik": "Elektrikle yüklenme çeşitlerini örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Yük, birim yük ve elektrikle yüklenme kavramları verilir.",
+                      "b": "Elektrikle yüklenmede yüklerin korunumlu olduğu vurgulanmalıdır.",
+                      "c": "Elektroskopun yük cinsinin tayininde kullanılmasına örnekler verilir."
+                    }
+                  },
+                  "9.6.1.2": {
+                    "baslik": "Elektriklenen iletken ve yalıtkan maddelerde yük dağılımlarını karşılaştırır.",
+                    "aciklama": {
+                      "a": "Öğrencilerin karşılaştırmayı deneyler yaparak veya simülasyonlar kullanarak yapmaları sağlanır.",
+                      "b": "Faraday kafesi, kullanım alanları ve önemi açıklanır.",
+                      "c": "Topraklama olayı açıklanarak günlük hayattaki önemi vurgulanır."
+                    }
+                  },
+                  "9.6.1.3": {
+                    "baslik": "Elektrik yüklü cisimler arasındaki etkileşimi açıklar.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlardan yararlanılarak elektrik yüklü cisimler arasındaki etkileşimin (Coulomb Kuvveti) bağlı olduğu değişkenler arasındaki ilişkiyi belirlemeleri sağlanır. Matematiksel model verilir.",
+                      "b": "Yüklerin etkileşimi ile ilgili noktasal yüklerle ve tek boyutta matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "10": {
+        "alt": {
+          "10.1": {
+            "baslik": "ELEKTRİK VE MANYETİZMA",
+            "anahtar_kavramlar": "elektrik akımı, potansiyel farkı, direnç, Ohm Yasası, eşdeğer direnç, iç direnç, elektromotor kuvveti, elektrik enerjisi, elektriksel güç, manyetik alan.",
+            "alt": {
+              "10.1.1": {
+                "baslik": "ELEKTRİK AKIMI, POTANSİYEL FARKI VE DİRENÇ",
+                "alt": {
+                  "10.1.1.1": {
+                    "baslik": "Elektrik akımı, direnç ve potansiyel farkı kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Elektrik yükünün hareketi üzerinden elektrik akımı kavramının açıklanması sağlanır.",
+                      "b": "Katı, sıvı, gaz ve plazmalarda elektrik iletimine değinilir."
+                    }
+                  },
+                  "10.1.1.2": {
+                    "baslik": "Katı bir iletkenin direncinin bağlı olduğu değişkenleri analiz eder.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlardan yararlanarak değişkenler arasındaki ilişkiyi belirlemeleri ve matematiksel modeli çıkarmaları sağlanır. Matematiksel hesaplamalara girilmez. 154",
+                      "b": "İletken direncinin sıcaklığa bağlı değişimine ve renk kodlarıyla direnç okuma işlemlerine girilmez."
+                    }
+                  }
+                }
+              },
+              "10.1.2": {
+                "baslik": "ELEKTRİK DEVRELERİ",
+                "alt": {
+                  "10.1.2.1": {
+                    "baslik": "Elektrik Akımı, direnç ve potansiyel farkı arasındaki ilişkiyi analiz eder.",
+                    "aciklama": {
+                      "a": "Voltmetre ve ampermetrenin direnç özellikleri ile devredeki görevleri açıklanır.",
+                      "b": "Öğrencilerin basit devreler üzerinden deney yaparak elektrik akımı, direnç ve potansiyel farkı arasındaki ilişkinin (Ohm Yasası) matematiksel modelini çıkarmaları sağlanır.",
+                      "c": "Elektrik devrelerinde eşdeğer direnç, direnç, potansiyel farkı ve elektrik akımı ile ilgili matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  },
+                  "10.1.2.2": {
+                    "baslik": "Üreteçlerin seri ve paralel bağlanma gerekçelerini açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney veya simülasyonlarla üreteçlerin bağlanma şekillerini incelemeleri ve tükenme sürelerini karşılaştırmaları sağlanır. Üreteçlerin ters bağlanması da dikkate alınır.",
+                      "b": "Elektromotor kuvvetleri farklı üreteçlerin paralele bağlanmasına girilmez.",
+                      "c": "Üreteçlerin iç dirençleri örneklerle açıklanır, iç dirençler ile ilgili matematiksel hesaplamalara girilmez.",
+                      "ç": "Öğrencilerin üretecin keşfi üzerine deneyler yapan bilim insanları Galvani ve Volta’nın bakış açıları arasındaki farkı tartışmaları sağlanır.",
+                      "d": "Kirchhoff Kanunlarına girilmez."
+                    }
+                  },
+                  "10.1.2.3": {
+                    "baslik": "Elektrik enerjisi ve elektriksel güç kavramlarını ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Elektrik enerjisi ve elektriksel güç ilişkisi ile mekanik enerji ve mekanik güç ilişkisi arasındaki benzerliğe değinilir.",
+                      "b": "Bir direncin birim zamanda harcadığı elektrik enerjisi ile ilgili hesaplamalar dışında matematiksel hesaplamalara girilmez.",
+                      "c": "Öğrencilerin ısı, iş, mekanik enerji ve elektrik enerjisinin birbirine dönüşümünü açıklamaları sağlanır.",
+                      "ç": "Lamba parlaklıklarının karşılaştırılması sağlanır."
+                    }
+                  },
+                  "10.1.2.4": {
+                    "baslik": "Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken sağlık ve güvenlik",
+                    "aciklama": {
+                      "a": "önlemlerini açıklar."
+                    }
+                  }
+                }
+              },
+              "10.1.3": {
+                "baslik": "MIKNATIS VE MANYETİK ALAN",
+                "alt": {
+                  "10.1.3.1": {
+                    "baslik": "Mıknatısların oluşturduğu manyetik alanı ve özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deneyler yaparak veya simülasyonlar kullanarak manyetik alanı incelemeleri sağlanır.",
+                      "b": "Mıknatısların manyetik alanının manyetik alan çizgileri ile temsil edildiği vurgulanır.",
+                      "c": "Mıknatısların itme-çekme kuvvetleri ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.1.4": {
+                "baslik": "AKIM VE MANYETİK ALAN",
+                "alt": {
+                  "10.1.4.1": {
+                    "baslik": "Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alanı etkileyen",
+                    "aciklama": {
+                      "a": "Öğrencilerin deneyler yaparak veya simülasyonlar kullanarak manyetik alanı etkileyen değişkenleri belirlemeleri sağlanır.",
+                      "b": "Sağ el kuralı verilir. Manyetik alanın yönü ve şiddeti ile ilgili matematiksel hesaplamalara girilmez.",
+                      "c": "Yüksek gerilim hatlarının geçtiği alanlarda oluşan manyetik alanın canlılar üzerindeki etkilerine değinilir.",
+                      "ç": "Elektromıknatıs tanıtılarak kullanım alanlarına örnekler verilir."
+                    }
+                  },
+                  "10.1.4.2": {
+                    "baslik": "Dünya’nın manyetik alanının sonuçlarını açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin pusula ile yön bulmaları sağlanır.",
+                      "b": "Arılar, göçmen kuşlar, bazı büyükbaş hayvanlar gibi canlıların yerin manyetik alanından yararlanarak yön buldukları belirtilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.2": {
+            "baslik": "BASINÇ VE KALDIRMA KUVVETİ",
+            "anahtar_kavramlar": "katı basıncı, akışkan basıncı, basınç kuvveti, Pascal Prensibi, Bernoulli İlkesi, Archimedes İlkesi, kaldırma kuvveti.",
+            "alt": {
+              "10.2.1": {
+                "baslik": "BASINÇ",
+                "alt": {
+                  "10.2.1.1": {
+                    "baslik": "Basınç ve basınç kuvveti kavramlarının katı, durgun sıvı ve gazlarda bağlı olduğu",
+                    "aciklama": {
+                      "a": "Öğrencilerin, günlük hayattan basıncın hayatımıza etkilerine örnekler vermeleri sağlanır. Basıncın hâl değişimine etkileri vurgulanır.",
+                      "b": "Katı ve durgun sıvı basıncı ve basınç kuvveti ile ilgili matematiksel modeller verilir. Bileşenlerine ayırma ve matematiksel hesaplamalara girilmez.",
+                      "c": "Torricelli deneyi açıklanır ve kılcallık ile farkı belirtilir.",
+                      "ç": "Basınç etkisiyle çalışan ölçüm aletlerinden barometre, altimetre, manometre ve batimetre hakkında bilgi verilir.",
+                      "d": "Pascal Prensibi’ne değinilir. Gaz basıncı ve Pascal Prensibi ile ilgili matematiksel modeller verilmez."
+                    }
+                  },
+                  "10.2.1.2": {
+                    "baslik": "Akışkanlarda akış sürati ile akışkan basıncı arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlardan yararlanılarak kesit alanı, basınç ve akışkan sürati arasında bağlantı kurulması sağlanır.",
+                      "b": "Bernoulli İlkesi’nin günlük hayattaki örnekler (çatıların uçması, şemsiyenin ters çevrilmesi, rüzgârlı havalarda kapıların sert kapanması gibi) üzerinden açıklanması sağlanır.",
+                      "c": "Bernoulli İlkesi’yle ilgili matematiksel hesaplamalara girilmez.",
+                      "ç": "Günlük hayatta akışkan basıncının sağlayabileceği kolaylıklar (uçakların uçması gibi) ve olumsuz etkilerine karşı alınması gereken sağlık ve güvenlik tedbirleri (yüksek süratle hareket eden araçlara yaklaşılmaması gibi) vurgulanır.",
+                      "d": "Tansiyonun damarlardaki kan basıncı olduğu vurgulanarak öğrencilerin tansiyon aletinin çalışma prensibini araştırmaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "10.2.2": {
+                "baslik": "KALDIRMA KUVVETİ",
+                "alt": {
+                  "10.2.2.1": {
+                    "baslik": "Durgun akışkanlarda cisimlere etki eden kaldırma kuvvetinin basınç kuvveti farkından",
+                    "aciklama": {
+                      "a": "Archimedes İlkesi açıklanır. Yüzme, askıda kalma ve batma durumlarında kaldırma kuvveti ile cismin ağırlığının büyüklükleri karşılaştırılır.",
+                      "b": "Kaldırma kuvveti ile ilgili matematiksel model verilir. Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "10.2.2.2": {
+                    "baslik": "Kaldırma kuvvetiyle ilgili belirlediği günlük hayattaki problemlere kaldırma kuvveti",
+                    "aciklama": {
+                      "a": "ve/veya Bernoulli İlkesi’ni kullanarak çözüm önerisi üretir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "10.3": {
+            "baslik": "DALGALAR",
+            "anahtar_kavramlar": "dalga, titreşim, dalga hareketi, dalga boyu, periyot, frekans, hız, genlik, atma, dalga tepesi, dalga çukuru, odak noktası, merkez, stroboskop, rezonans, ses yüksekliği, ses şiddeti, tını, yankı, uğultu, gürültü, ses kirliliği, deprem dalgası.",
+            "alt": {
+              "10.3.1": {
+                "baslik": "DALGALAR",
+                "alt": {
+                  "10.3.1.1": {
+                    "baslik": "Titreşim, dalga hareketi, dalga boyu, periyot, frekans, hız ve genlik kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Deney, gözlem veya simülasyonlarla kavramların açıklanması sağlanır.",
+                      "b": "Periyot ve frekans kavramlarının birbiriyle ilişkilendirilmesi ve matematiksel model oluşturulması sağlanır. Matematiksel hesaplamalara girilmez.",
+                      "c": "Dalganın ilerleme hızı, dalga boyu ve frekans kavramları arasındaki matematiksel model verilir. Matematiksel hesaplamalara girilmez.",
+                      "ç": "Dalganın ilerleme hızının ortama, frekansın kaynağa bağlı olduğu vurgulanır."
+                    }
+                  },
+                  "10.3.1.2": {
+                    "baslik": "Dalgaları taşıdığı enerjiye ve titreşim doğrultusuna göre sınıflandırır.",
+                    "aciklama": {
+                      "a": "Öğrencilerin dalga çeşitlerine örnekler vermeleri sağlanır."
+                    }
+                  }
+                }
+              },
+              "10.3.2": {
+                "baslik": "YAY DALGASI",
+                "alt": {
+                  "10.3.2.1": {
+                    "baslik": "Atma ve periyodik dalga oluşturarak aralarındaki farkı açıklar.",
+                    "aciklama": {
+                      "a": "Atmanın dalgaların özelliklerini incelemek için oluşturulduğu vurgulanır.",
+                      "b": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak atma ve periyodik dalgayı incelemeleri sağlanır."
+                    }
+                  },
+                  "10.3.2.2": {
+                    "baslik": "Yaylarda atmanın yansımasını ve iletilmesini analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin gergin bir yayda oluşturulan atmanın ilerleme hızının bağlı olduğu değişkenleri açıklaması sağlanır. Atmanın ilerleme hızı ile ilgili matematiksel hesaplamalara girilmez.",
+                      "b": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak atmaların sabit ve serbest uçtan yansıma durumlarını incelemeleri sağlanır.",
+                      "c": "Bir ortamdan başka bir ortama geçerken yansıyan ve iletilen atmaların özellikleri üzerinde durulur.",
+                      "ç": "Öğrencilerin deney ya da simülasyonlarla iki atmanın karşılaşması durumunda meydana gelebilecek olayları gözlemlemesi sağlanır."
+                    }
+                  }
+                }
+              },
+              "10.3.3": {
+                "baslik": "SU DALGASI",
+                "alt": {
+                  "10.3.3.1": {
+                    "baslik": "Dalgaların ilerleme yönü, dalga tepesi ve dalga çukuru kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Kavramlar doğrusal ve dairesel su dalgaları bağlamında ele alınır."
+                    }
+                  },
+                  "10.3.3.2": {
+                    "baslik": "Doğrusal ve dairesel su dalgalarının yansıma hareketlerini analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak su dalgalarının yansıma hareketlerini çizmeleri sağlanır.",
+                      "b": "Doğrusal su dalgalarının doğrusal ve parabolik engellerden yansıması dikkate alınır.",
+                      "c": "Dairesel su dalgalarının doğrusal engelden yansıması dikkate alınır, parabolik engelden yansımasında ise sadece odak noktası ve merkezden gönderilen dalgalar dikkate alınır.",
+                      "ç": "Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "10.3.3.3": {
+                    "baslik": "Ortam derinliği ile su dalgalarının yayılma hızını ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlarla ortam derinliğinin dalganın hızına etkisini incelemeleri ve dalga boyundaki değişimi gözlemlemeleri sağlanır.",
+                      "b": "Ortam değiştiren su dalgalarının dalga boyu ve hız değişimi ile ilgili matematiksel hesaplamalara girilmez.",
+                      "c": "Stroboskopun dalga boyu ölçümünde kullanıldığından bahsedilir, matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "10.3.3.4": {
+                    "baslik": "Doğrusal su dalgalarının kırılma hareketini analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak su dalgalarının kırılma hareketlerini çizmeleri sağlanır. Su dalgalarının mercek şeklindeki su ortamından geçişi ile ilgili kırılma hareketlerine girilmez.",
+                      "b": "Dairesel su dalgalarının kırılması konusuna girilmez.",
+                      "c": "Su dalgalarının kırılma hareketi ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.3.4": {
+                "baslik": "SES DALGASI",
+                "alt": {
+                  "10.3.4.1": {
+                    "baslik": "Ses dalgaları ile ilgili temel kavramları örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Yükseklik, şiddet, tını, rezonans ve yankı kavramları ile sınırlı kalınır.",
+                      "b": "Uğultu, gürültü ve ses kirliliği kavramlarına değinilir.",
+                      "c": "Farabi'nin ses dalgaları ile ilgili yaptığı çalışmalar hakkında kısaca bilgi verilir."
+                    }
+                  },
+                  "10.3.4.2": {
+                    "baslik": "Ses dalgalarının tıp, denizcilik, sanat ve coğrafya alanlarında kullanımına örnekler verir.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "10.3.5": {
+                "baslik": "DEPREM DALGASI",
+                "alt": {
+                  "10.3.5.1": {
+                    "baslik": "Deprem dalgasını tanımlar.",
+                    "aciklama": {
+                      "a": "Depremin büyüklüğü ve şiddeti ile ilgili bilgi verilir.",
+                      "b": "Depremlerde dalga çeşitlerine girilmez."
+                    }
+                  },
+                  "10.3.5.2": {
+                    "baslik": "Deprem kaynaklı can ve mal kayıplarını önlemeye yönelik çözüm önerileri geliştirir.",
+                    "aciklama": {}
+                  }
+                }
+              }
+            }
+          },
+          "10.4": {
+            "baslik": "OPTİK",
+            "anahtar_kavramlar": "aydınlanma şiddeti, ışık şiddeti, ışık akısı, gölge, yarı gölge, yansıma, odak noktası, merkez, tepe noktası, asal eksen, kırılma, kırıcılık indisi, Snell Yasası, tam yansıma, sınır açısı, görünür uzaklık.",
+            "alt": {
+              "10.4.1": {
+                "baslik": "AYDINLANMA",
+                "alt": {
+                  "10.4.1.1": {
+                    "baslik": "Işığın davranış modellerini açıklar.",
+                    "aciklama": {
+                      "a": "Modeller açıklanırken ayrıntılara girilmez."
+                    }
+                  },
+                  "10.4.1.2": {
+                    "baslik": "Işık şiddeti, ışık akısı ve aydınlanma şiddeti kavramları arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Deney yaparak veya simülasyonlarla aydınlanma şiddeti, ışık şiddeti, ışık akısı kavramları arasında ilişki kurulur.",
+                      "b": "Işık şiddeti, ışık akısı ve aydınlanma şiddeti kavramları ile ilgili matematiksel modeller verilir. Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.4.2": {
+                "baslik": "GÖLGE",
+                "alt": {
+                  "10.4.2.1": {
+                    "baslik": "Saydam, yarı saydam ve saydam olmayan maddelerin ışık geçirme özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin gölge ve yarı gölge alanlarını çizmeleri ve açıklamaları sağlanır.",
+                      "b": "Gölge ve yarı gölge ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.4.3": {
+                "baslik": "YANSIMA",
+                "alt": {
+                  "10.4.3.1": {
+                    "baslik": "Işığın yansımasını, su dalgalarında yansıma olayıyla ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Yansıma Kanunları üzerinde durulur.",
+                      "b": "Işığın düzgün ve dağınık yansımasının çizilerek gösterilmesi sağlanır.",
+                      "c": "Görme olayında yansımanın rolü vurgulanır."
+                    }
+                  }
+                }
+              },
+              "10.4.4": {
+                "baslik": "DÜZLEM AYNA",
+                "alt": {
+                  "10.4.4.1": {
+                    "baslik": "Düzlem aynada görüntü oluşumunu açıklar.",
+                    "aciklama": {
+                      "a": "Düzlem aynada görüntü özellikleri yapılan çizimler üzerinden açıklanır.",
+                      "b": "Kesişen ayna, aynanın döndürülmesi, hareketli ayna ve hareketli cisim konularına girilmez.",
+                      "c": "Deney veya simülasyonlarla görüş alanına etki eden değişkenler ile ilgili çıkarım yapılması sağlanır. Çıkarım yapılırken saydam ve saydam olmayan engeller de dikkate alınır. Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.4.5": {
+                "baslik": "KÜRESEL AYNALAR",
+                "alt": {
+                  "10.4.5.1": {
+                    "baslik": "Küresel aynalarda odak noktası, merkez, tepe noktası ve asal eksen kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Küresel aynalarda özel ışınların yansımasının çizilmesi sağlanır."
+                    }
+                  },
+                  "10.4.5.2": {
+                    "baslik": "Küresel aynalarda görüntü oluşumunu ve özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlarla görüntü oluşumunun ve oluşan görüntü özelliklerinin yorumlanması sağlanır. 159",
+                      "b": "Öğrencilerin günlük hayatta karşılaştıkları küresel ayna gibi davranan cisimlere örnekler vermeleri sağlanır.",
+                      "c": "Küresel aynalarla ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.4.6": {
+                "baslik": "KIRILMA",
+                "alt": {
+                  "10.4.6.1": {
+                    "baslik": "Işığın kırılmasını, su dalgalarında kırılma olayı ile ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlar kullanılarak ortam değiştiren ışığın ilerleme doğrultusundan sapma miktarının bağlı olduğu değişkenleri belirlemeleri sağlanır. Snell Yasası’nın matematiksel modeli verilir.",
+                      "b": "Kırılma indisinin, ışığın ortamdaki ortalama hızı ve boşluktaki hızı ile ilişkili bir bağıl değişken olduğu vurgulanır.",
+                      "c": "Snell Yasası ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "10.4.6.2": {
+                    "baslik": "Işığın tam yansıma olayını ve sınır açısını analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney veya simülasyonlarla oluşturulan tam yansıma olayını ve sınır açısını yorumlamaları sağlanır.",
+                      "b": "Tam yansımanın gerçekleştiği fiber optik teknolojisi, serap olayı, havuz ışıklandırması örneklerine yer verilir.",
+                      "c": "Tam yansıma ve sınır açısı ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "10.4.6.3": {
+                    "baslik": "Farklı ortamda bulunan bir cismin görünür uzaklığını etkileyen sebepleri açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak ışığın izlediği yolu çizmeleri ve günlük hayatta gözlemlenen olaylarla ilişki kurmaları sağlanır.",
+                      "b": "Görünür uzaklıkla ilgili matematiksel model verilmez. Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.4.7": {
+                "baslik": "MERCEKLER",
+                "alt": {
+                  "10.4.7.1": {
+                    "baslik": "Merceklerin özelliklerini ve mercek çeşitlerini açıklar.",
+                    "aciklama": {
+                      "a": "Merceklerin odak uzaklığının bağlı olduğu faktörlere değinilir. Matematiksel model verilmez.",
+                      "b": "Cam şişelerin ve cam kırıklarının mercek gibi davranarak orman yangınlarına sebep olduğu açıklanır. Çevre temizliği ve doğal hayatı korumanın önemi vurgulanır."
+                    }
+                  },
+                  "10.4.7.2": {
+                    "baslik": "Merceklerin oluşturduğu görüntünün özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Merceklerdeki özel ışınlar verilir. Görüntü oluşumlarına dair çizimler yaptırılmaz.",
+                      "b": "Deney veya simülasyonlar yardımıyla merceklerin oluşturduğu görüntü özelliklerinin incelenmesi sağlanır.",
+                      "c": "Öğrencilerin merceklerin nerelerde ve ne tür amaçlar için kullanıldığına örnekler vermeleri sağlanır.",
+                      "ç": "Mercekler ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "10.4.8": {
+                "baslik": "PRİZMALAR",
+                "alt": {
+                  "10.4.8.1": {
+                    "baslik": "Işık prizmalarının özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney veya simülasyonlar yardımıyla prizmalarda tek renkli ışığın izlediği yolu çizmeleri sağlanır.",
+                      "b": "Öğrencilerin deney veya simülasyonlarla beyaz ışığın prizmada renklerine ayrılması olayını gözlemlemeleri sağlanır.",
+                      "c": "Işık prizmalarının kullanım alanlarına örnekler verilir.",
+                      "ç": "Prizmalar ile ilgili matematiksel modeller verilmez."
+                    }
+                  }
+                }
+              },
+              "10.4.9": {
+                "baslik": "RENK",
+                "alt": {}
+              }
+            }
+          }
+        }
+      },
+      "11": {
+        "alt": {
+          "11.1": {
+            "baslik": "KUVVET VE HAREKET",
+            "anahtar_kavramlar": "vektör, bağıl hareket, ivmeli hareket, serbest düşme, düşey atış, yatay atış, eğik atış, limit hız, enerji, Hooke Yasası, itme, çizgisel momentum, çizgisel momentumun korunumu, tork, denge, kütle merkezi, ağırlık merkezi.",
+            "alt": {
+              "11.1.1": {
+                "baslik": "VEKTÖRLER",
+                "alt": {
+                  "11.1.1.1": {
+                    "baslik": "Vektörlerin özelliklerini açıklar.",
+                    "aciklama": {}
+                  },
+                  "11.1.1.2": {
+                    "baslik": "İki ve üç boyutlu kartezyen koordinat sisteminde vektörleri çizer.",
+                    "aciklama": {
+                      "a": "Birim vektör sistemi (i, j, k) işlemlerine girilmez."
+                    }
+                  },
+                  "11.1.1.3": {
+                    "baslik": "Vektörlerin bileşkelerini farklı yöntemleri kullanarak hesaplar.",
+                    "aciklama": {
+                      "a": "Uç uca ekleme ve paralel kenar yöntemleri kullanılmalıdır.",
+                      "b": "Kosinüs teoremi verilerek bileşke vektörün büyüklüğünün bulunması sağlanır.",
+                      "c": "Eşit büyüklükteki vektörlerin bileşkesi hesaplanırken açılara göre özel durumlar verilir."
+                    }
+                  },
+                  "11.1.1.4": {
+                    "baslik": "Bir vektörün iki boyutlu kartezyen koordinat sisteminde bileşenlerini çizerek",
+                    "aciklama": {
+                      "a": "büyüklüklerini hesaplar."
+                    }
+                  }
+                }
+              },
+              "11.1.2": {
+                "baslik": "BAĞIL HAREKET",
+                "alt": {
+                  "11.1.2.1": {
+                    "baslik": "Sabit hızlı iki cismin hareketini birbirine göre yorumlar.",
+                    "aciklama": {}
+                  },
+                  "11.1.2.2": {
+                    "baslik": "Hareketli bir ortamdaki sabit hızlı cisimlerin hareketini farklı gözlem çerçevelerine göre",
+                    "aciklama": {
+                      "a": "yorumlar."
+                    }
+                  },
+                  "11.1.2.3": {
+                    "baslik": "Bağıl hareket ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "161 Hesaplamalarla ilgili problemlerin günlük hayattan seçilmesine özen gösterilir."
+                    }
+                  }
+                }
+              },
+              "11.1.3": {
+                "baslik": "NEWTON’IN HAREKET YASALARI",
+                "alt": {
+                  "11.1.3.1": {
+                    "baslik": "Net kuvvetin yönünü belirleyerek büyüklüğünü hesaplar.",
+                    "aciklama": {
+                      "a": "Yatay, düşey ve eğik düzlemde sürtünme kuvvetinin yönü belirlenerek büyüklüğünün hesaplanması sağlanır.",
+                      "b": "Sürtünmeli ve sürtünmesiz yüzeylerde serbest cisim diyagramları üzerinde cisme etki eden kuvvetlerin gösterilmesi sağlanır."
+                    }
+                  },
+                  "11.1.3.2": {
+                    "baslik": "Net kuvvet etkisindeki cismin hareketi ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "Hesaplamaların günlük hayat örnekleri üzerinden yapılmasına özen gösterilir.",
+                      "b": "Sürtünmeli ve sürtünmesiz yüzeyler dikkate alınmalıdır."
+                    }
+                  }
+                }
+              },
+              "11.1.4": {
+                "baslik": "BİR BOYUTTA SABİT İVMELİ HAREKET",
+                "alt": {
+                  "11.1.4.1": {
+                    "baslik": "Bir boyutta sabit ivmeli hareketi analiz eder.",
+                    "aciklama": {
+                      "a": "Hareket denklemleri verilir.",
+                      "b": "Öğrencilerin sabit ivmeli hareket ile ilgili konum-zaman, hız-zaman ve ivme-zaman grafiklerini çizmeleri, yorumlamaları ve grafikler arasında dönüşüm yapmaları sağlanır."
+                    }
+                  },
+                  "11.1.4.2": {
+                    "baslik": "Bir boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar.",
+                    "aciklama": {}
+                  },
+                  "11.1.4.3": {
+                    "baslik": "Hava direncinin ihmal edildiği ortamda düşen cisimlerin hareketlerini analiz eder.",
+                    "aciklama": {
+                      "a": "İlk hızsız bırakılan cisimler için hareket denklemleri, konum-zaman, hız-zaman ve ivme-zaman grafikleri verilerek matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  },
+                  "11.1.4.4": {
+                    "baslik": "Düşen cisimlere etki eden hava direnç kuvvetinin bağlı olduğu değişkenleri analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin değişkenleri deney yaparak veya simülasyonlar kullanarak belirlemeleri sağlanır."
+                    }
+                  },
+                  "11.1.4.5": {
+                    "baslik": "Limit hız kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Limit hız kavramı günlük hayattan örneklerle (yağmur damlalarının canımızı acıtmaması vb.) açıklanır.",
+                      "b": "Limit hızın matematiksel modeli verilir. Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "11.1.4.6": {
+                    "baslik": "Düşey doğrultuda ilk hızı olan ve sabit ivmeli hareket yapan cisimlerin hareketlerini analiz",
+                    "aciklama": {
+                      "a": "atış hareket denklemleri, konum-zaman, hız-zaman ve ivme-zaman grafikleri verilerek matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.1.5": {
+                "baslik": "İKİ BOYUTTA HAREKET",
+                "alt": {
+                  "11.1.5.1": {
+                    "baslik": "Atış hareketlerini yatay ve düşey boyutta analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlarla atış hareketlerini incelemeleri ve yorumlamaları sağlanır."
+                    }
+                  },
+                  "11.1.5.2": {
+                    "baslik": "İki boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "162"
+                    }
+                  }
+                }
+              },
+              "11.1.6": {
+                "baslik": "ENERJİ VE HAREKET",
+                "alt": {
+                  "11.1.6.1": {
+                    "baslik": "Yapılan iş ile enerji arasındaki ilişkiyi analiz eder.",
+                    "aciklama": {
+                      "a": "Kuvvet-yol grafiğinden faydalanılarak iş hesaplamaları yapılır.",
+                      "b": "Hooke Yasası verilir.",
+                      "c": "Grafiklerden faydalanılarak kinetik, yer çekimi potansiyel ve esneklik potansiyel enerji türlerinin matematiksel modellerine ulaşılması sağlanır.",
+                      "ç": "Matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  },
+                  "11.1.6.2": {
+                    "baslik": "Cisimlerin hareketini mekanik enerjinin korunumunu kullanarak analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin serbest düşme, atış hareketleri ve esnek yay içeren olayları incelemeleri ve mekanik enerjinin korunumunu kullanarak matematiksel hesaplamalar yapmaları sağlanır.",
+                      "b": "Canan Dağdeviren’in yaptığı çalışmalar hakkında bilgi verilir."
+                    }
+                  },
+                  "11.1.6.3": {
+                    "baslik": "Sürtünmeli yüzeylerde enerji korunumunu ve dönüşümlerini analiz eder.",
+                    "aciklama": {
+                      "a": "Sürtünmeli yüzeylerde hareket eden cisimlerle ilgili enerji korunumu ve dönüşümü ile ilgili matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.1.7": {
+                "baslik": "İTME VE ÇİZGİSEL MOMENTUM",
+                "alt": {
+                  "11.1.7.1": {
+                    "baslik": "İtme ve çizgisel momentum kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Çizgisel momentumla ilgili günlük hayattan örnekler verilir.",
+                      "b": "İtme ve çizgisel momentum kavramlarının matematiksel modeli verilir."
+                    }
+                  },
+                  "11.1.7.2": {
+                    "baslik": "İtme ile çizgisel momentum değişimi arasında ilişki kurar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin Newton’ın ikinci hareket yasasından faydalanarak itme ve momentum arasındaki matematiksel modeli elde etmeleri sağlanır.",
+                      "b": "Öğrencilerin kuvvet-zaman grafiğinden alan hesaplamaları yapmaları ve cismin momentum değişikliği ile ilişkilendirmeleri sağlanır.",
+                      "c": "İtme ve çizgisel momentum değişimi ile ilgili matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  },
+                  "11.1.7.3": {
+                    "baslik": "Çizgisel momentumun korunumunu analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak çizgisel momentum korunumu ile ilgili çıkarımda bulunmaları sağlanır.",
+                      "b": "Çizgisel momentumun korunumu bir ve iki boyutlu hareketle sınırlandırılır."
+                    }
+                  },
+                  "11.1.7.4": {
+                    "baslik": "Çizgisel momentumun korunumu ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "Enerjinin korunduğu ve korunmadığı durumlar göz önüne alınarak bir ve iki boyutta çizgisel momentumun korunumu, çarpışmalar ve patlamalarla ilgili matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.1.8": {
+                "baslik": "TORK",
+                "alt": {
+                  "11.1.8.1": {
+                    "baslik": "Tork kavramını açıklar.",
+                    "aciklama": {
+                      "a": "163 Torkun yönünü belirlemek için sağ el kuralı verilir."
+                    }
+                  },
+                  "11.1.8.2": {
+                    "baslik": "Torkun bağlı olduğu değişkenleri analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak torkun bağlı olduğu değişkenler ile ilgili sonuçlar çıkarmaları sağlanır.",
+                      "b": "Öğrencilerin tork ile ilgili günlük hayattan problem durumları bulmaları ve bunlar için çözüm yolları üretmeleri sağlanır."
+                    }
+                  },
+                  "11.1.8.3": {
+                    "baslik": "Tork ile ilgili hesaplamalar yapar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "11.1.9": {
+                "baslik": "DENGE VE DENGE ŞARTLARI",
+                "alt": {
+                  "11.1.9.1": {
+                    "baslik": "Cisimlerin denge şartlarını açıklar.",
+                    "aciklama": {}
+                  },
+                  "11.1.9.2": {
+                    "baslik": "Kütle merkezi ve ağırlık merkezi kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Kütle ve ağırlık merkezi kavramlarının farklı olduğu durumlara değinilir ."
+                    }
+                  },
+                  "11.1.9.3": {
+                    "baslik": "Kütle merkezi ve ağırlık merkezi ile ilgili hesaplamalar yapar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "11.1.10": {
+                "baslik": "BASİT MAKİNELER",
+                "alt": {
+                  "11.1.10.1": {
+                    "baslik": "Günlük hayatta kullanılan basit makinelerin işlevlerini açıklar.",
+                    "aciklama": {
+                      "a": "Kaldıraç, sabit ve hareketli makara, palanga, eğik düzlem, vida, çıkrık, çark ve kasnak ile sınırlı kalınır."
+                    }
+                  },
+                  "11.1.10.2": {
+                    "baslik": "Basit makineler ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "İkiden fazla basit makinenin bir arada olduğu sistemlerle ilgili matematiksel hesaplamalara girilmez.",
+                      "b": "Hesaplamaların günlük hayatta kullanılan basit makine örnekleri (anahtar gibi) üzerinden yapılması sağlanır.",
+                      "c": "Basit makinelerde verim ile ilgili matematiksel hesaplamalar yapılması sağlanır."
+                    }
+                  },
+                  "11.1.10.3": {
+                    "baslik": "Hayatı kolaylaştırmak amacıyla basit makinelerden oluşan güvenli bir sistem tasarlar.",
+                    "aciklama": {
+                      "a": "Atık malzeme ve bilişim teknolojilerinden yararlanmaları için teşvik edilmelidir.",
+                      "b": "Basit makine sistemlerinin kullanıldığı alanlarda iş sağlığı ve güvenliğini arttırıcı tedbirlere yönelik araştırma yapılması sağlanır.",
+                      "c": "Yapılan özgün tasarımlara patent alınabileceği vurgulanarak öğrenciler, proje yarışmalarına katılmaları konusunda teşvik edilmelidir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "11.2": {
+            "baslik": "ELEKTRİK VE MANYETİZMA",
+            "anahtar_kavramlar": "elektriksel kuvvet, elektrik alan, elektriksel potansiyel enerji, elektriksel potansiyel, elektriksel potansiyel farkı, sığa (kapasite), sığaç (kondansatör), manyetik alan, manyetik kuvvet, manyetik akı, elektromotor kuvveti, alternatif akım, indüktans, kapasitans, empedans, rezonans, indüksiyon akımı, öz-indüksiyon akımı, transformatör.",
+            "alt": {
+              "11.2.1": {
+                "baslik": "ELEKTRİKSEL KUVVET VE ELEKTRİK ALAN",
+                "alt": {
+                  "11.2.1.1": {
+                    "baslik": "Yüklü cisimler arasındaki elektriksel kuvveti etkileyen değişkenleri belirler.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney veya simülasyonlardan yararlanmaları sağlanır.",
+                      "b": "Coulomb sabitinin (k), ortamın elektriksel geçirgenliği ile ilişkisi vurgulanır."
+                    }
+                  },
+                  "11.2.1.2": {
+                    "baslik": "Noktasal yük için elektrik alanı açıklar.",
+                    "aciklama": {}
+                  },
+                  "11.2.1.3": {
+                    "baslik": "Noktasal yüklerde elektriksel kuvvet ve elektrik alanı ile ilgili hesaplamalar yapar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "11.2.2": {
+                "baslik": "ELEKTRİKSEL POTANSİYEL",
+                "alt": {
+                  "11.2.2.1": {
+                    "baslik": "Noktasal yükler için elektriksel potansiyel enerji, elektriksel potansiyel, elektriksel",
+                    "aciklama": {
+                      "a": "Kavramların günlük hayat örnekleri ile açıklanması sağlanır.",
+                      "b": "Öğrencilerin, noktasal yüklerin bir noktada oluşturduğu elektrik potansiyeli ve eş potansiyel yüzeylerini tanımlamaları sağlanır."
+                    }
+                  },
+                  "11.2.2.2": {
+                    "baslik": "Düzgün bir elektrik alan içinde iki nokta arasındaki potansiyel farkını hesaplar.",
+                    "aciklama": {}
+                  },
+                  "11.2.2.3": {
+                    "baslik": "Noktasal yükler için elektriksel potansiyel enerji, elektriksel potansiyel, elektriksel",
+                    "aciklama": {
+                      "a": "potansiyel farkı ve elektriksel iş ile ilgili hesaplamalar yapar."
+                    }
+                  }
+                }
+              },
+              "11.2.3": {
+                "baslik": "DÜZGÜN ELEKTRİK ALAN VE SIĞA",
+                "alt": {
+                  "11.2.3.1": {
+                    "baslik": "Yüklü, iletken ve paralel levhalar arasında oluşan elektrik alanı, alan çizgilerini çizerek",
+                    "aciklama": {
+                      "a": "açıklar."
+                    }
+                  },
+                  "11.2.3.2": {
+                    "baslik": "Yüklü, iletken ve paralel levhalar arasında oluşan elektrik alanının bağlı olduğu",
+                    "aciklama": {
+                      "a": "değişkenleri analiz eder. Değişkenlerin deney veya simülasyonlarla belirlenmesi sağlanır."
+                    }
+                  },
+                  "11.2.3.3": {
+                    "baslik": "Yüklü parçacıkların düzgün elektrik alandaki davranışını açıklar.",
+                    "aciklama": {
+                      "a": "Alana dik giren parçacıkların sapma yönleri üzerinde durulur. Matematiksel hesaplamalara girilmez.",
+                      "b": "Öğrencilerin yüklü parçacıkların elektrik alandaki davranışının teknolojideki kullanım yerlerini araştırmaları ve sunum yapmaları sağlanır."
+                    }
+                  },
+                  "11.2.3.4": {
+                    "baslik": "Sığa (kapasite) kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "11.2.3.5": {
+                    "baslik": "Sığanın bağlı olduğu değişkenleri analiz eder.",
+                    "aciklama": {
+                      "a": "Değişkenlerin deney veya simülasyonlarla belirlenmesi sağlanır.",
+                      "b": "Öğrencilerin matematiksel modeli elde etmeleri sağlanır. Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "11.2.3.6": {
+                    "baslik": "Yüklü levhaların özelliklerinden faydalanarak sığacın (kondansatör) işlevini açıklar.",
+                    "aciklama": {
+                      "a": "Sığaçların kullanım alanlarına yönelik araştırma yapılması sağlanır.",
+                      "b": "Öğrencilerin elektrik yüklerinin nasıl depolanıp kullanılabileceğini tartışmaları ve elektrik enerjisi ile ilişkilendirmeleri sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.2.4": {
+                "baslik": "MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME",
+                "alt": {
+                  "11.2.4.1": {
+                    "baslik": "Üzerinden akım geçen iletken düz bir telin çevresinde, halkanın merkezinde ve akım",
+                    "aciklama": {
+                      "a": "makarasının (bobin) merkez ekseninde oluşan manyetik alanın şiddetini etkileyen değişkenleri analiz eder. Manyetik alan yönünün sağ el kuralıyla gösterilmesi sağlanır."
+                    }
+                  },
+                  "11.2.4.2": {
+                    "baslik": "Üzerinden akım geçen iletken düz bir telin çevresinde, halkanın merkezinde ve akım",
+                    "aciklama": {
+                      "a": "makarasının merkez ekseninde oluşan manyetik alan ile ilgili hesaplamalar yapar."
+                    }
+                  },
+                  "11.2.4.3": {
+                    "baslik": "Üzerinden akım geçen iletken düz bir tele manyetik alanda etki eden kuvvetin yönünün ve",
+                    "aciklama": {
+                      "a": "şiddetinin bağlı olduğu değişkenleri analiz eder. Manyetik kuvvetin büyüklüğünün matematiksel modeli verilir, sağ el kuralının uygulanması sağlanır. Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "11.2.4.4": {
+                    "baslik": "Manyetik alan içerisinde akım taşıyan dikdörtgen tel çerçeveye etki eden kuvvetlerin",
+                    "aciklama": {
+                      "a": "döndürme etkisini açıklar. Dönen çerçeveye etki eden manyetik kuvvetlerin yönünün gösterilmesi sağlanır."
+                    }
+                  },
+                  "11.2.4.5": {
+                    "baslik": "Yüklü parçacıkların manyetik alan içindeki hareketini analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin, sağ el kuralını kullanarak yüklü parçacıklara etki eden manyetik kuvvetin yönünü bulmaları ve bu kuvvetin etkisiyle yükün manyetik alandaki yörüngesini çizmeleri sağlanır.",
+                      "b": "Yüklü parçacıkların manyetik alan içindeki hareketi ile ilgili matematiksel modeller verilmez. Matematiksel hesaplamalara girilmez.",
+                      "c": "Öğrencilerin, manyetik kuvvetin teknolojide kullanım alanlarıyla ilgili araştırma yapmaları ve paylaşması sağlanır."
+                    }
+                  },
+                  "11.2.4.6": {
+                    "baslik": "Manyetik akı kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Manyetik akının matematiksel modeli verilir."
+                    }
+                  },
+                  "11.2.4.7": {
+                    "baslik": "İndüksiyon akımını oluşturan sebeplere ilişkin çıkarım yapar.",
+                    "aciklama": {
+                      "a": "Çıkarımların deney veya simülasyonlardan yararlanılarak yapılması ve indüksiyon akımının matematiksel modelinin çıkarılması sağlanır."
+                    }
+                  },
+                  "11.2.4.8": {
+                    "baslik": "Manyetik akı ve indüksiyon akımı ile ilgili hesaplamalar yapar.",
+                    "aciklama": {}
+                  },
+                  "11.2.4.9": {
+                    "baslik": "Öz-indüksiyon akımının oluşum sebebini açıklar.",
+                    "aciklama": {
+                      "a": "Öz-indüksiyon akımı ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "11.2.4.10": {
+                    "baslik": "Yüklü parçacıkların manyetik alan ve elektrik alandaki davranışını açıklar.",
+                    "aciklama": {
+                      "a": "Lorentz kuvvetinin matematiksel modeli verilir. Matematiksel hesaplamalara girilmez.",
+                      "b": "Lorentz kuvvetinin günlük hayattaki uygulamalarına örnekler verilir."
+                    }
+                  },
+                  "11.2.4.11": {
+                    "baslik": "Elektromotor kuvveti oluşturan sebeplere ilişkin çıkarım yapar.",
+                    "aciklama": {
+                      "a": "Deney veya simülasyonlar yardımıyla çıkarımın yapılması sağlanır.",
+                      "b": "Öğrencilerin elektrik motoru ve dinamonun çalışma ilkelerini karşılaştırmaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "11.2.5": {
+                "baslik": "ALTERNATİF AKIM",
+                "alt": {
+                  "11.2.5.1": {
+                    "baslik": "Alternatif akımı açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin farklı ülkelerin elektrik şebekelerinde kullanılan gerilim değerleri ile ilgili araştırma yapmaları ve araştırma bulgularına dayanarak bu değerlerin kullanılmasının sebeplerini tartışmaları sağlanır."
+                    }
+                  },
+                  "11.2.5.2": {
+                    "baslik": "Alternatif ve doğru akımı karşılaştırır.",
+                    "aciklama": {
+                      "a": "Alternatif ve doğru akımın kullanıldığı yerler açıklanarak bu akımların karşılaştırılması sağlanır.",
+                      "b": "Edison ve Tesla’nın alternatif akım ve doğru akım ile ilgili görüşlerinin karşılaştırılması sağlanır.",
+                      "c": "Alternatif akımın etkin ve maksimum değerleri vurgulanır."
+                    }
+                  },
+                  "11.2.5.3": {
+                    "baslik": "Alternatif ve doğru akım devrelerinde direncin, bobinin ve sığacın davranışını açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin simülasyonlar yardımıyla alternatif ve doğru akım devrelerinde direnç, bobin ve kondansatör davranışlarını ayrı ayrı incelemeleri, değerleri kontrol ederek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır."
+                    }
+                  },
+                  "11.2.5.4": {
+                    "baslik": "İndüktans, kapasitans, rezonans ve empedans kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Vektörel gösterim yapılmaz. Akım ve gerilimin zamana bağlı değişim grafiklerine girilmez.",
+                      "b": "Her devre elemanının kendine has bir ohmik direnci olduğu vurgulanır.",
+                      "c": "Alternatif akım devreleri ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "11.2.6": {
+                "baslik": "TRANSFORMATÖRLER",
+                "alt": {
+                  "11.2.6.1": {
+                    "baslik": "Transformatörlerin çalışma prensibini açıklar.",
+                    "aciklama": {
+                      "a": "Primer ve sekonder gerilimi, primer ve sekonder akım şiddeti, primer ve sekonder güç kavramları açıklanır. Matematiksel hesaplamalara girilmez.",
+                      "b": "İdeal ve ideal olmayan transformatörlerin çalışma ilkesi üzerinde durulur."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "12": {
+        "alt": {
+          "12.1": {
+            "baslik": "ÇEMBERSEL HAREKET",
+            "anahtar_kavramlar": "çizgisel hız, açısal hız, merkezcil kuvvet, merkezcil ivme, eylemsizlik momenti, açısal momentum, kütle çekim kuvveti.",
+            "alt": {
+              "12.1.1": {
+                "baslik": "DÜZGÜN ÇEMBERSEL HAREKET",
+                "alt": {
+                  "12.1.1.1": {
+                    "baslik": "Düzgün çembersel hareketi açıklar.",
+                    "aciklama": {
+                      "a": "Periyot, frekans, çizgisel hız ve açısal hız, merkezcil ivme kavramları verilir.",
+                      "b": "Öğrencilerin düzgün çembersel harekette çizgisel hız vektörünü çember üzerinde iki farklı noktada çizerek merkezcil ivmenin şiddetini bulmaları ve yönünü göstermeleri sağlanır. Çizgisel ivme kavramına girilmez. 167"
+                    }
+                  },
+                  "12.1.1.2": {
+                    "baslik": "Düzgün çembersel harekette merkezcil kuvvetin bağlı olduğu değişkenleri analiz eder.",
+                    "aciklama": {
+                      "a": "Deney yaparak veya simülasyonlarla merkezcil kuvvetin bağlı olduğu değişkenler arasındaki ilişkinin belirlenmesi sağlanır. Matematiksel model verilir. Matematiksel hesaplamalar yapılır."
+                    }
+                  },
+                  "12.1.1.3": {
+                    "baslik": "Düzgün çembersel hareket yapan cisimlerin hareketini analiz eder.",
+                    "aciklama": {
+                      "a": "Yatay ve düşey düzlemde düzgün çembersel hareket yapan cisimlere ait serbest cisim diyagramlarının çizilmesi sağlanır.",
+                      "b": "Düzgün çembersel harekette konum, hız ve ivme hesaplamaları yapılır. Hesaplamalarda trigonometrik fonksiyonlara girilmez."
+                    }
+                  },
+                  "12.1.1.4": {
+                    "baslik": "Yatay, düşey, eğimli zeminlerde araçların emniyetli dönüş şartları ile ilgili hesaplamalar",
+                    "aciklama": {
+                      "a": "yapar. Virajlarda emniyetli dönüş için hız sınırına uymanın önemi vurgulanır."
+                    }
+                  }
+                }
+              },
+              "12.1.2": {
+                "baslik": "DÖNEREK ÖTELEME HAREKETİ",
+                "alt": {
+                  "12.1.2.1": {
+                    "baslik": "Öteleme ve dönme hareketini karşılaştırır.",
+                    "aciklama": {}
+                  },
+                  "12.1.2.2": {
+                    "baslik": "Eylemsizlik momenti kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Eylemsizlik momenti ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.1.2.3": {
+                    "baslik": "Dönme ve dönerek öteleme hareketi yapan cismin kinetik enerjisinin bağlı olduğu",
+                    "aciklama": {
+                      "a": "değişkenleri açıklar. Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "12.1.3": {
+                "baslik": "AÇISAL MOMENTUM",
+                "alt": {
+                  "12.1.3.1": {
+                    "baslik": "Açısal momentumun fiziksel bir nicelik olduğunu açıklar.",
+                    "aciklama": {
+                      "a": "Açısal momentumun atomik boyutta da fiziksel bir nicelik olduğu belirtilir."
+                    }
+                  },
+                  "12.1.3.2": {
+                    "baslik": "Açısal momentumu çizgisel momentum ile ilişkilendirerek açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.1.3.3": {
+                    "baslik": "Açısal momentumu torkla ilişkilendirir.",
+                    "aciklama": {
+                      "a": "Öğrencilerin, açısal momentumu, eylemsizlik momenti ve açısal hız kavramlarını kullanarak elde etmeleri sağlanır.",
+                      "b": "Öğrencilerin torku, eylemsizlik momenti ve açısal ivme kavramlarını kullanarak elde etmeleri sağlanır."
+                    }
+                  },
+                  "12.1.3.4": {
+                    "baslik": "Açısal momentumun korunumunu günlük hayattan örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Açısal momentumun korunumu ile ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "12.1.4": {
+                "baslik": "KÜTLE ÇEKİM KUVVETİ",
+                "alt": {
+                  "12.1.4.1": {
+                    "baslik": "Kütle çekim kuvvetini açıklar.",
+                    "aciklama": {
+                      "a": "Kütle çekim kuvvetine değinilir. Matematiksel model verilir. Matematiksel hesaplamalara girilmez.",
+                      "b": "Yapay uydular, ay ve gezegenlerin hareketleri açıklanır. Matematiksel hesaplamalara girilmez. 168"
+                    }
+                  },
+                  "12.1.4.2": {
+                    "baslik": "Newton’ın Hareket Kanunları’nı kullanarak kütle çekim ivmesinin bağlı olduğu",
+                    "aciklama": {
+                      "a": "Öğrencilerin yerçekimi ivmesini; dünyanın yarıçapı ve kütlesi cinsinden ifade etmeleri sağlanır.",
+                      "b": "Öğrencilerin homojen bir kürenin içinde, yüzeyinde ve dışındaki çekim alanını gösteren kuvvet çizgilerini çizmeleri sağlanır.",
+                      "c": "Her kütlenin bir kütle çekim alanı oluşturduğu vurgulanır."
+                    }
+                  },
+                  "12.1.4.3": {
+                    "baslik": "Kütle çekim potansiyel enerjisini açıklar.",
+                    "aciklama": {
+                      "a": "Bağlanma ve kurtulma enerjisi kavramları üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "12.1.5": {
+                "baslik": "KEPLER KANUNLARI",
+                "alt": {
+                  "12.1.5.1": {
+                    "baslik": "Kepler Kanunları’nı açıklar.",
+                    "aciklama": {
+                      "a": "Matematiksel hesaplamalara girilmez.",
+                      "b": "Galileo Galilei, Ali Kuşçu ve Uluğ Bey’in gök cisimleri ve gök cisimlerinin hareketleri ile ilgili çalışmalarına yer verilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.2": {
+            "baslik": "BASİT HARMONİK HAREKET",
+            "anahtar_kavramlar": "uzanım, genlik, geri çağırıcı kuvvet, denge noktası, yay sarkacı, basit sarkaç.",
+            "alt": {
+              "12.2.1": {
+                "baslik": "BASİT HARMONİK HAREKET",
+                "alt": {
+                  "12.2.1.1": {
+                    "baslik": "Basit harmonik hareketi düzgün çembersel hareketi kullanarak açıklar.",
+                    "aciklama": {
+                      "a": "Basit harmonik harekete günlük hayattan örnekler verilir.",
+                      "b": "Yay sarkacı ve basit sarkaç için uzanım, genlik, periyot, frekans, geri çağırıcı kuvvet ve denge noktası kavramları harmonik hareket örnekleri ile açıklanır.",
+                      "c": "Uzanım, genlik, periyot, frekans ilişkisi ile ilgili matematiksel hesaplamalar yapılır.",
+                      "ç": "Basit harmonik hareket ile ilgili fonksiyonların türevlerine ve işlemlerine girilmez."
+                    }
+                  },
+                  "12.2.1.2": {
+                    "baslik": "Basit harmonik harekette konumun zamana göre değişimini analiz eder.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak konum-zaman grafiğini çizmeleri ve yorumlamaları sağlanır."
+                    }
+                  },
+                  "12.2.1.3": {
+                    "baslik": "Basit harmonik harekette kuvvet, hız ve ivmenin konuma göre değişimi ile ilgili",
+                    "aciklama": {
+                      "a": "hesaplamalar yapar."
+                    }
+                  },
+                  "12.2.1.4": {
+                    "baslik": "Yay sarkacı ve basit sarkaçta periyodun bağlı olduğu değişkenleri belirler.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlarla periyoda etki eden değişkenleri belirlemeleri sağlanır. Periyodun matematiksel modeli verilir."
+                    }
+                  },
+                  "12.2.1.5": {
+                    "baslik": "Yay sarkacı ve basit sarkacın periyodu ile ilgili hesaplamalar yapar.",
+                    "aciklama": {
+                      "a": "Paralel ve seri bağlı yaylarda eş değer yay sabiti hesaplamalarının yapılması sağlanır.",
+                      "b": "Esnek yayların hareketi tek boyut ile sınırlandırılır."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.3": {
+            "baslik": "DALGA MEKANİĞİ",
+            "anahtar_kavramlar": "girişim, kırınım, Doppler olayı, elektromanyetik dalga, elektromanyetik spektrum.",
+            "alt": {
+              "12.3.1": {
+                "baslik": "DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+                "alt": {
+                  "12.3.1.1": {
+                    "baslik": "Su dalgalarında kırınım olayının dalga boyu ve yarık genişliği ile ilişkisini belirler.",
+                    "aciklama": {
+                      "a": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak elde ettikleri verilerden yararlanarak yorum yapmaları sağlanır."
+                    }
+                  },
+                  "12.3.1.2": {
+                    "baslik": "Su dalgalarında girişim olayını açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin girişim desenini deney yaparak veya simülasyonlar kullanarak çizmeleri sağlanır.",
+                      "b": "Girişimle ilgili matematiksel hesaplamalara girilmez.",
+                      "c": "Faz farkı kavramına girilmez."
+                    }
+                  },
+                  "12.3.1.3": {
+                    "baslik": "Işığın çift yarıkta girişimine etki eden değişkenleri açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin girişim desenini deney yaparak veya simülasyonlar kullanarak çizmeleri sağlanır.",
+                      "b": "Çift yarıkta girişimle ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.3.1.4": {
+                    "baslik": "Işığın tek yarıkta kırınımına etki eden değişkenleri açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin kırınım desenini deney yaparak veya simülasyonlar kullanarak çizmeleri sağlanır.",
+                      "b": "Tek yarıkta kırınımla ilgili matematiksel hesaplamalara girilmez.",
+                      "c": "İnce zarlarda girişim, hava kaması ve çözme gücü konularına girilmez."
+                    }
+                  },
+                  "12.3.1.5": {
+                    "baslik": "Kırınım ve girişim olaylarını inceleyerek ışığın dalga doğası hakkında çıkarım yapar.",
+                    "aciklama": {}
+                  },
+                  "12.3.1.6": {
+                    "baslik": "Doppler olayının etkilerini ışık ve ses dalgalarından örneklerle açıklar.",
+                    "aciklama": {
+                      "a": "Örneklerin günlük hayattan seçilmesine özen gösterilir. Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "12.3.2": {
+                "baslik": "ELEKTROMANYETİK DALGALAR",
+                "alt": {
+                  "12.3.2.1": {
+                    "baslik": "Elektromanyetik dalgaların ortak özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Maxwell’in elektromanyetik teorinin kurucusu olduğu vurgulanır."
+                    }
+                  },
+                  "12.3.2.2": {
+                    "baslik": "Elektromanyetik spektrumu günlük hayattan örneklerle ilişkilendirerek açıklar.",
+                    "aciklama": {}
+                  }
+                }
+              }
+            }
+          },
+          "12.4": {
+            "baslik": "ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+            "anahtar_kavramlar": "atom, Bohr atom teorisi, enerji seviyesi, uyarılma, iyonlaşma, ışıma, büyük patlama, alt parçacık, antimadde, radyoaktivite, fisyon, füzyon.",
+            "alt": {
+              "12.4.1": {
+                "baslik": "ATOM KAVRAMININ TARİHSEL GELİŞİMİ",
+                "alt": {
+                  "12.4.1.1": {
+                    "baslik": "Atom kavramını açıklar.",
+                    "aciklama": {
+                      "a": "Bohr atom teorisi haricindeki diğer teoriler, ayrıntılara girilmeden tarihsel gelişim süreci içinde verilir.",
+                      "b": "Atom teorilerinin birbirleriyle ilişkili olarak geliştirildiği vurgulanmalıdır. 170",
+                      "c": "Bohr atom teorisinde; atom yarıçapı, enerji seviyeleri, uyarılma, iyonlaşma ve ışıma kavramları vurgulanır. Matematiksel hesaplamalara girilmez.",
+                      "ç": "Milikan yağ damlası, Thomson’ın e/m tayini, Rutherford saçılması deneyleri ile sınırlı kalınır. Bu deneylerle ilgili matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.4.1.2": {
+                    "baslik": "Atomun uyarılma yollarını açıklar.",
+                    "aciklama": {
+                      "a": "Atomların birbirleriyle, elektronla, fotonla ve ısıyla uyarılma şartlarının tartışılması sağlanır."
+                    }
+                  },
+                  "12.4.1.3": {
+                    "baslik": "Modern atom teorisinin önemini açıklar.",
+                    "aciklama": {
+                      "a": "Heisenberg Belirsizlik İlkesi, kuantum sayıları, olasılık dalgası ve Schrödinger dalga denklemine değinilir.",
+                      "b": "Matematiksel hesaplamalara girilmez.",
+                      "c": "Feza Gürsey, Asım Orhan Barut ve Behram N. Kurşunoğlu'nun atom fiziği konusunda çalışmalar yaptığı vurgulanır."
+                    }
+                  }
+                }
+              },
+              "12.4.2": {
+                "baslik": "BÜYÜK PATLAMA VE EVRENİN OLUŞUMU",
+                "alt": {
+                  "12.4.2.1": {
+                    "baslik": "Büyük patlama teorisini açıklar.",
+                    "aciklama": {
+                      "a": "Evrenin oluşumu ve geleceğiyle ilgili farklı teorilerin de olduğu vurgulanır.",
+                      "b": "Öğrencilerin büyük patlama teorisini destekleyen bilimsel çalışmaları araştırmaları ve araştırma sonuçlarını rapor olarak sunmaları sağlanır.",
+                      "c": "Hubble Yasası’na değinilir. Matematiksel modeli verilmez."
+                    }
+                  },
+                  "12.4.2.2": {
+                    "baslik": "Atom altı parçacıkların özelliklerini temel düzeyde açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin atom altı parçacıkları standart model çerçevesinde tanımlamaları sağlanır.",
+                      "b": "Korunum yasaları ile ilgili matematiksel hesaplamalara girilmez.",
+                      "c": "Dört temel kuvvetin açıklanması sağlanır.",
+                      "ç": "Abdus Salam, Sheldon Lee Glashow ve Steven Weinberg’in Nobel ödülünü elektromanyetik ve zayıf kuvvetin birleşik bir kuvvet görünümünde olduğunu keşfetmeleri üzerine aldıkları vurgulanır."
+                    }
+                  },
+                  "12.4.2.3": {
+                    "baslik": "Madde oluşum sürecini açıklar.",
+                    "aciklama": {
+                      "a": "Atom altı parçacıklardan başlayarak madde oluşumunun modelle açıklanması sağlanır.",
+                      "b": "Higgs bozonuna kısaca değinilir."
+                    }
+                  },
+                  "12.4.2.4": {
+                    "baslik": "Madde ve antimadde kavramlarını açıklar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "12.4.3": {
+                "baslik": "RADYOAKTİVİTE",
+                "alt": {
+                  "12.4.3.1": {
+                    "baslik": "Kararlı ve kararsız durumdaki atomların özelliklerini karşılaştırır.",
+                    "aciklama": {
+                      "a": "Radyoaktif madde, radyoaktivite, radyoaktif ışıma kavramları üzerinde durulur.",
+                      "b": "Bazı atom çekirdeklerinin çeşitli yollarla ışıma yapabileceği vurgulanır.",
+                      "c": "Marie Curie ve Wilhelm Conrad Röntgen’in radyoaktivite konusunda yaptığı çalışmalara yer verilir. 171"
+                    }
+                  },
+                  "12.4.3.2": {
+                    "baslik": "Radyoaktif bozunma sonucu atomun kütle numarası, atom numarası ve enerjisindeki",
+                    "aciklama": {
+                      "a": "Alfa, beta, gama ışınımları dışındaki bozunma türlerine girilmez.",
+                      "b": "Enerjideki değişim açıklanırken matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.4.3.3": {
+                    "baslik": "Nükleer fisyon ve füzyon olaylarını açıklar.",
+                    "aciklama": {
+                      "a": "Nükleer enerji ile çalışan sistemler hakkında araştırma yapılması sağlanır.",
+                      "b": "Nükleer reaktörlerin bilime, teknolojiye, ülke ekonomisine ve çevreye etkileri üzerinde durulur.",
+                      "c": "Atom bombasının yıkıcı etkileri tarihî gerçekler üzerinden açıklanarak nükleer silahsızlanmanın dünya barışı açısından önemi üzerinde durulur."
+                    }
+                  },
+                  "12.4.3.4": {
+                    "baslik": "Radyasyonun canlılar üzerindeki etkilerini açıklar.",
+                    "aciklama": {
+                      "a": "Yaşam alanlarında var olan radyasyon kaynakları, radyasyondan korunma yolları ve radyasyon güvenliğinin araştırılması ve bilgilerin paylaşılması sağlanır.",
+                      "b": "İyonlaştırıcı radyasyona değinilerek kullanıldığı alanlardan ve biyolojik etkilerinden bahsedilir."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.5": {
+            "baslik": "MODERN FİZİK",
+            "anahtar_kavramlar": "özel görelilik, siyah cisim ışıması, fotoelektrik olayı, Compton olayı, de Broglie dalga boyu.",
+            "alt": {
+              "12.5.1": {
+                "baslik": "ÖZEL GÖRELİLİK",
+                "alt": {
+                  "12.5.1.1": {
+                    "baslik": "Michelson–Morley deneyinin amacını ve sonuçlarını açıklar.",
+                    "aciklama": {
+                      "a": "Deneyin yapılış aşamaları üzerinde durulur.",
+                      "b": "Deneyin farklı bilim insanları tarafından farklı koşullarda çok kez tekrarlanmış olmasının nedeni üzerinde durulur. Bilimsel çalışmalarda sabırlı ve kararlı olmanın önemi vurgulanır.",
+                      "c": "Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.5.1.2": {
+                    "baslik": "Einstein’ın özel görelilik teorisinin temel postülalarını ifade eder.",
+                    "aciklama": {}
+                  },
+                  "12.5.1.3": {
+                    "baslik": "Göreli zaman ve göreli uzunluk kavramlarını açıklar.",
+                    "aciklama": {
+                      "a": "Özel görelilikte matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.5.1.4": {
+                    "baslik": "Kütle-enerji eşdeğerliğini açıklar.",
+                    "aciklama": {
+                      "a": "Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              },
+              "12.5.2": {
+                "baslik": "KUANTUM FİZİĞİNE GİRİŞ",
+                "alt": {
+                  "12.5.2.1": {
+                    "baslik": "Siyah cisim ışımasını açıklar.",
+                    "aciklama": {
+                      "a": "Planck hipotezi açıklanır.",
+                      "b": "Dalga boyu-ışıma şiddeti grafiğinden hareketle klasik yaklaşımla modern yaklaşımın çelişkisi ve bu çelişkinin kuantum fiziğinin doğuşuna etkisi vurgulanır.",
+                      "c": "Siyah cisim ışıması ile ilgili matematiksel hesaplamalara girilmez. 172"
+                    }
+                  }
+                }
+              },
+              "12.5.3": {
+                "baslik": "FOTOELEKTRİK OLAYI",
+                "alt": {
+                  "12.5.3.1": {
+                    "baslik": "Foton kavramını açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.5.3.2": {
+                    "baslik": "Fotoelektrik olayını açıklar.",
+                    "aciklama": {
+                      "a": "Hertz’in çalışmaları üzerinde durulur.",
+                      "b": "Einstein’ın fotoelektrik denklemi üzerinde durulur.",
+                      "c": "Öğrencilerin simülasyonlar yardımıyla fotoelektrik olaya etki eden değişkenleri gözlemlemeleri ve yorumlamaları sağlanır."
+                    }
+                  },
+                  "12.5.3.3": {
+                    "baslik": "Farklı metaller için maksimum kinetik enerji-frekans grafiğini çizer.",
+                    "aciklama": {}
+                  },
+                  "12.5.3.4": {
+                    "baslik": "Fotoelektronların sahip olduğu maksimum kinetik enerji, durdurma gerilimi ve metalin",
+                    "aciklama": {
+                      "a": "eşik enerjisi arasındaki matematiksel ilişkiyi açıklar."
+                    }
+                  },
+                  "12.5.3.5": {
+                    "baslik": "Fotoelektrik olayın günlük hayattaki uygulamalarına örnekler verir.",
+                    "aciklama": {
+                      "a": "Fotoelektrik olayın günlük hayattaki olumlu (musluklarda hijyenin sağlanması gibi) ve olumsuz (sahte güneş gözlüklerinin kullanımı gibi) etkileri üzerinde durulur."
+                    }
+                  },
+                  "12.5.3.6": {
+                    "baslik": "Fotoelektrik olayla ilgili hesaplamalar yapar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "12.5.4": {
+                "baslik": "COMPTON SAÇILMASI VE DE BROGLİE DALGA BOYU",
+                "alt": {
+                  "12.5.4.1": {
+                    "baslik": "Compton olayında foton ve elektron etkileşimini açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin model veya simülasyonlar kullanarak Compton saçılmasını açıklamaları sağlanır. Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.5.4.2": {
+                    "baslik": "Compton ve fotoelektrik olaylarının benzer yönlerini belirterek ışığın tanecik doğası",
+                    "aciklama": {
+                      "a": "hakkında çıkarım yapar."
+                    }
+                  },
+                  "12.5.4.3": {
+                    "baslik": "Işığın ikili doğasını açıklar.",
+                    "aciklama": {
+                      "a": "Işığın tanecik, dalga, hem tanecik hem de dalga doğası ile açıklanan olaylar vurgulanır."
+                    }
+                  },
+                  "12.5.4.4": {
+                    "baslik": "Madde ve dalga arasındaki ilişkiyi açıklar.",
+                    "aciklama": {
+                      "a": "De Broglie bağıntısı verilir.",
+                      "b": "Matematiksel hesaplamalara girilmez."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "12.6": {
+            "baslik": "MODERN FİZİĞİN TEKNOLOJİDEKİ UYGULAMALARI",
+            "anahtar_kavramlar": "görüntüleme teknolojisi, yarı iletken, diyot, transistör, LED, güneş pili, süper iletken, nanoteknoloji, nanobilim, LASER.",
+            "alt": {
+              "12.6.1": {
+                "baslik": "GÖRÜNTÜLEME TEKNOLOJİLERİ",
+                "alt": {
+                  "12.6.1.1": {
+                    "baslik": "Görüntüleme cihazlarının çalışma prensiplerini açıklar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin röntgen, MR, PET, tomografi, ultrason, radarlar, sonar, termal kameralar ile ilgili araştırmalar yaparak bu teknolojilerin oluşturulmasında fiziğin rolünü sorgulamaları sağlanır.",
+                      "b": "Görüntüleme cihazlarının (röntgen, MR, PET, tomografi, ultrason, radarlar, sonar, termal kameralar)  çalışma ilkelerine kısaca değinilir. 173"
+                    }
+                  },
+                  "12.6.1.2": {
+                    "baslik": "LCD ve plazma teknolojilerinde fizik biliminin yerini açıklar.",
+                    "aciklama": {}
+                  }
+                }
+              },
+              "12.6.2": {
+                "baslik": "YARI İLETKEN TEKNOLOJİSİ",
+                "alt": {
+                  "12.6.2.1": {
+                    "baslik": "Yarı iletken maddelerin genel özelliklerini açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.6.2.2": {
+                    "baslik": "Yarı iletken malzemelerin teknolojideki önemini açıklar.",
+                    "aciklama": {
+                      "a": "Diyot ve transistörlerin işlevi verilir, çeşitlerine girilmez.",
+                      "b": "Öğrencilerin kumun bir elektronik devre elemanı hâline gelme sürecini araştırmaları ve paylaşmaları sağlanır."
+                    }
+                  },
+                  "12.6.2.3": {
+                    "baslik": "LED teknolojisinin kullanıldığı yerlere örnekler verir.",
+                    "aciklama": {}
+                  },
+                  "12.6.2.4": {
+                    "baslik": "Güneş pillerinin çalışma şeklini açıklar.",
+                    "aciklama": {
+                      "a": "Yapı elemanlarının özelliklerinin detaylarına girilmez.",
+                      "b": "Güneş pillerinin günümüzdeki ve gelecekteki yerinin tartışılması sağlanır."
+                    }
+                  },
+                  "12.6.2.5": {
+                    "baslik": "Günlük hayatı kolaylaştıran, güneş pillerinin kullanıldığı sistem tasarlar.",
+                    "aciklama": {
+                      "a": "Öğrencilerin yapmış oldukları tasarımın ülke ekonomisine ve çevreye sağlayacağı katkıları açıklamaları sağlanır."
+                    }
+                  }
+                }
+              },
+              "12.6.3": {
+                "baslik": "SÜPER İLETKENLER",
+                "alt": {
+                  "12.6.3.1": {
+                    "baslik": "Süper iletken maddenin temel özelliklerini açıklar.",
+                    "aciklama": {}
+                  },
+                  "12.6.3.2": {
+                    "baslik": "Süper iletkenlerin teknolojideki kullanım alanlarına örnekler verir.",
+                    "aciklama": {
+                      "a": "Hızlı trenlerin ve parçacık hızlandırıcılarının çalışma ilkeleri üzerinde durulur."
+                    }
+                  }
+                }
+              },
+              "12.6.4": {
+                "baslik": "NANOTEKNOLOJİ",
+                "alt": {
+                  "12.6.4.1": {
+                    "baslik": "Nanobilimin temellerini açıklar.",
+                    "aciklama": {
+                      "a": "Fizik bilimi ile nanobilim ve nanoteknolojinin ilişkisi üzerinde durulur.",
+                      "b": "Fonksiyonel ve doğal nanoyapılara sahip sistemlere örnekler verilir."
+                    }
+                  },
+                  "12.6.4.2": {
+                    "baslik": "Nanomalzemelerin temel özelliklerini açıklar.",
+                    "aciklama": {
+                      "a": "Malzemelerin nano boyutlara indirilmesi durumunda yeni özellikler kazandıkları vurgulanır."
+                    }
+                  },
+                  "12.6.4.3": {
+                    "baslik": "Nanomalzemelerin teknolojideki kullanım alanlarına örnekler verir.",
+                    "aciklama": {
+                      "a": "Nanomalzemelerin bilim ve teknolojinin gelişimine etkisi vurgulanır."
+                    }
+                  }
+                }
+              },
+              "12.6.5": {
+                "baslik": "LASER IŞINLARI",
+                "alt": {
+                  "12.6.5.1": {
+                    "baslik": "LASER ışınlarının elde edilişini açıklar.",
+                    "aciklama": {
+                      "a": "Simülasyonlar ve videolar yardımıyla LASER ışınının oluşumunun incelenmesi sağlanır.",
+                      "b": "Matematiksel hesaplamalara girilmez."
+                    }
+                  },
+                  "12.6.5.2": {
+                    "baslik": "LASER ışınlarının teknolojideki kullanım alanlarına örnekler verir.",
+                    "aciklama": {
+                      "a": "174"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
